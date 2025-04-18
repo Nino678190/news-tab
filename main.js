@@ -1,7 +1,12 @@
-const { app, BrowserWindow, globalShortcut, Tray, Menu } = require('electron');
-const path = require('path');
+import pkg from 'electron';
+const { app, BrowserWindow, globalShortcut, Tray, Menu } = pkg;
 
-const { JSONFilePreset } = require('lowdb/node');
+import path from 'path';
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
+import { JSONFilePreset } from 'lowdb/node';
+import { fileURLToPath } from 'url';
+import { dirname } from 'path';
 
 const defaultData = { tagesschau: [], spiegel: [], zdf: [], t_online: [], zeit: [], sueddeutsche: [], rbb: [], 
     heise: [], spiegel_digital: [], t3n: [], golem: [], netzpolitik: [], computerbase: [],

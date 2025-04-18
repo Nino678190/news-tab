@@ -1,0 +1,24 @@
+body{
+    background-color: #010101;
+    color: #ffffff;
+
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+}
+
+.selections{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.selection{
+    cursor: pointer;
+}
