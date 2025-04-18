@@ -6,7 +6,7 @@
         <link rel='stylesheet' href='style.css'>
         <script src='main.js'></script>
     </head>
-    <body>
+    <body onload="getNews(); fetchWeather(52.52000660, 13.40495400);">
         <header>
             <section><h2>My-Newspad</h2></section>
             <section>
@@ -16,7 +16,7 @@
             </section>
         </header>
         <main>
-            <section class="weather">
+            <section class="weather" id="weather">
 
             </section>
             <section class="news" id="news">

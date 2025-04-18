@@ -7,7 +7,7 @@ const defaultData = { tagesschau: [], spiegel: [], zdf: [], t_online: [], zeit: 
     heise: [], spiegel_digital: [], t3n: [], golem: [], netzpolitik: [], computerbase: [],
     r_dingore: [], r_schkreckl: [], r_stvo: [], r_berlin: [] };
 
-const db = await JSONFilePreset('news.json', defaultData)
+const db = JSONFilePreset('news.json', defaultData)
 
 let mainWindow;
 let tray;
@@ -17,7 +17,7 @@ function createWindow() {
         width: 1000,
         height: 700,
         frame: false, // Optional: rahmenlos
-        show: false,  // Wir zeigen es erst bei Shortcut
+        show: true,  // false: Wir zeigen es erst bei Shortcut
         webPreferences: {
             preload: path.join(__dirname, 'preload.js'),
         },
@@ -141,7 +141,7 @@ async function fetchWeather(lat, lon) {
         if (!data || !data.current) {
             throw new Error('Ungültige Wetterdaten erhalten');
         }
-        return data;
+        await displayWeather(data);
     } catch (error) {
         console.error('Fehler beim Abrufen der Wetterdaten:', error);
         throw error;
@@ -433,9 +433,9 @@ function getNews(){
     let allNews = [...tagesschau, ...spiegel, ...zdf, ...t_online, ...zeit, ...sueddeutsche, ...rbb];
     allNews.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
     allNews.slice(0, 25).forEach((item) => {
-        let item = document.createElement('article');
-        item.className = 'news-item';
-        item.innerHTML = `
+        let itemObject = document.createElement('article');
+        itemObject.className = 'news-item';
+        itemObject.innerHTML = `
             <section class="news-header>
                 <img src="${icons.news[item.origin]}" alt="${item.origin}" class="news-icon">
                 <h3 class="news-title">${item.title}</h3>
@@ -447,7 +447,7 @@ function getNews(){
             <section class="news-footer">
                 <p class="news-date">${new Date(item.pubDate).toLocaleString('de-DE', { dateStyle: 'short', timeStyle: 'short' })}</p>
             </section>`;
-        item.addEventListener('click', () => {
+        itemObject.addEventListener('click', () => {
             db.update(({ [item.origin]: items }) => {
                 const index = items.findIndex(i => i.link === item.link);
                 if (index !== -1) {
@@ -455,7 +455,7 @@ function getNews(){
                 }
                 return { [item.origin]: items };
             });
-            item.classList.add('read');
+            itemObject.classList.add('read');
             container.innerHTML = '';
             const text = item.article || item.description;
             container.innerHTML = `
@@ -466,7 +466,7 @@ function getNews(){
                 <p class="news-date">${new Date(item.pubDate).toLocaleString('de-DE', { dateStyle: 'short', timeStyle: 'short' })}</p>
                 `;
         });
-        container.appendChild(item);
+        container.appendChild(itemObject);
     })
 }
 
@@ -495,9 +495,9 @@ function getTechnik() {
 
     allNews.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
     allNews.slice(0, 25).forEach((item) => {
-        let item = document.createElement('article');
-        item.className = 'news-item';
-        item.innerHTML = `
+        let itemObject = document.createElement('article');
+        itemObject.className = 'news-item';
+        itemObject.innerHTML = `
             <section class="news-header>
                 <img src="${icons.news[item.origin]}" alt="${item.origin}" class="news-icon">
                 <h3 class="news-title">${item.title}</h3>
@@ -509,7 +509,7 @@ function getTechnik() {
             <section class="news-footer">
                 <p class="news-date">${new Date(item.pubDate).toLocaleString('de-DE', { dateStyle: 'short', timeStyle: 'short' })}</p>
             </section>`;
-        item.addEventListener('click', () => {
+        itemObject.addEventListener('click', () => {
             db.update(({ [item.origin]: items }) => {
                 const index = items.findIndex(i => i.link === item.link);
                 if (index !== -1) {
@@ -517,7 +517,7 @@ function getTechnik() {
                 }
                 return { [item.origin]: items };
             });
-            item.classList.add('read');
+            itemObject.classList.add('read');
             container.innerHTML = '';
             const text = item.article || item.description;
             container.innerHTML = `
@@ -528,7 +528,7 @@ function getTechnik() {
                 <p class="news-date">${new Date(item.pubDate).toLocaleString('de-DE', { dateStyle: 'short', timeStyle: 'short' })}</p>
                 `;
         });
-        container.appendChild(item);
+        container.appendChild(itemObject);
     })
 }
 
@@ -552,9 +552,9 @@ function getMemes() {
 
     allNews.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
     allNews.slice(0, 25).forEach((item) => {
-        let item = document.createElement('article');
-        item.className = 'news-item';
-        item.innerHTML = `
+        let itemObject = document.createElement('article');
+        itemObject.className = 'news-item';
+        itemObject.innerHTML = `
             <section class="news-header>
                 <img src="${icons.news[item.origin]}" alt="${item.origin}" class="news-icon">
                 <h3 class="news-title">${item.title}</h3>
@@ -566,7 +566,7 @@ function getMemes() {
             <section class="news-footer">
                 <p class="news-date">${new Date(item.pubDate).toLocaleString('de-DE', { dateStyle: 'short', timeStyle: 'short' })}</p>
             </section>`;
-        item.addEventListener('click', () => {
+        itemObject.addEventListener('click', () => {
             db.update(({ [item.origin]: items }) => {
                 const index = items.findIndex(i => i.link === item.link);
                 if (index !== -1) {
@@ -574,7 +574,7 @@ function getMemes() {
                 }
                 return { [item.origin]: items };
             });
-            item.classList.add('read');
+            itemObject.classList.add('read');
             container.innerHTML = '';
             const text = item.article || item.description;
             container.innerHTML = `
@@ -585,7 +585,7 @@ function getMemes() {
                 <p class="news-date">${new Date(item.pubDate).toLocaleString('de-DE', { dateStyle: 'short', timeStyle: 'short' })}</p>
                 `;
         });
-        container.appendChild(item);
+        container.appendChild(itemObject);
     })
 }
 
