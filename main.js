@@ -43,6 +43,11 @@ app.on('window-all-closed', () => {
 });
 
 
+const saved = {
+    lat: 0,
+    lon: 0
+};
+
 function getWeatherDescription(code) {
     switch (code) {
         case 0:
@@ -295,11 +300,136 @@ const urls = {
     },
     
     // Wissen & Bildung
-    wissen: {
-        spektrum: "https://www.spektrum.de/rss/spektrum.rss",
-        wissenschaft: "https://www.wissenschaft.de/feed/rss/",
-        scinexx: "https://www.scinexx.de/feed/",
-        nature: "https://www.nature.com/nature.rss"
+    memes: {
+        r_dingore: "https://www.reddit.com/r/dingore/.rss",
+        r_schkreckl: "https://www.reddit.com/r/schkreckl/.rss",
+        r_stvo: "https://www.reddit.com/r/stvo/.rss",
+        r_berlin: "https://www.reddit.com/r/berlin/.rss",
     }
+}
+
+const icons = {
+    news: {
+        tagesschau: 'images/tagesschau.png',
+        spiegel: 'images/spiegel.png',
+        zdf: 'images/zdf.png',
+        t_online: 'images/t-online.png',
+        zeit: 'images/zeit.png',
+        sueddeutsche: 'images/sueddeutsche.png',
+        rbb: 'images/rbb.png'
+    },
+    digital: {
+        heise: 'images/heise.png',
+        spiegel_digital: 'images/spiegel.png',
+        t3n: 'images/t3n.png',
+        golem: 'images/golem.png',
+        netzpolitik: 'images/netzpolitik.svg',
+        computerbase: 'images/computerbase.png'
+    },
+    wissen: {
+        r_dingore: 'images/reddit.png',
+        r_schkreckl: 'images/reddit.png',
+        r_stvo: 'images/reddit.png',
+        r_berlin: 'images/reddit.png',
+    }
+}
+
+async function fetchNews(url, icon) {
+    try {
+        const response = await fetch(url);
+        if (!response.ok) {
+            throw new Error(`News API Fehler: ${response.status}`);
+        }
+        const data = await response.text();
+        const parser = new DOMParser();
+        const xmlDoc = parser.parseFromString(data, 'text/xml');
+        const items = xmlDoc.getElementsByTagName('item');
+        const newsContainer = document.getElementById('news');
+        if (!newsContainer) {
+            console.error('News-Container nicht gefunden');
+            return;
+        }
+        for (let i = 0; i < items.length; i++) {
+            const title = items[i].getElementsByTagName('title')[0].textContent;
+            const link = items[i].getElementsByTagName('link')[0].textContent;
+            const description = items[i].getElementsByTagName('description')[0].textContent;
+            const pubDate = items[i].getElementsByTagName('pubDate')[0].textContent;
+
+            const newsItem = document.createElement('div');
+            newsItem.className = 'news-item';
+
+            const iconImg = document.createElement('img');
+            iconImg.src = icon;
+            iconImg.alt = 'News Icon';
+            iconImg.className = 'news-icon';
+            newsItem.appendChild(iconImg);
+
+            const titleLink = document.createElement('a');
+            titleLink.href = link;
+            titleLink.target = '_blank';
+            titleLink.textContent = title;
+            newsItem.appendChild(titleLink);
+
+            const descriptionText = document.createElement('p');
+            descriptionText.textContent = description;
+            newsItem.appendChild(descriptionText);
+
+            const dateText = document.createElement('p');
+            dateText.className = 'news-date';
+            dateText.textContent = new Date(pubDate).toLocaleString();
+            newsItem.appendChild(dateText);
+
+            newsContainer.appendChild(newsItem);
+        }
+    } catch (error) {
+        console.error('Fehler beim Abrufen der Nachrichten:', error);
+    }
+}
+
+function getNews(){
+    const container = document.getElementById('news');
+    if (!container) {
+        console.error('News-Container nicht gefunden');
+        return;
+    }
+    container.innerHTML = '';
+    const tagesschau = fetchNews(urls.news.tagesschau, icons.news.tagesschau);
+    const spiegel = fetchNews(urls.news.spiegel, icons.news.spiegel);
+    const zdf = fetchNews(urls.news.zdf, icons.news.zdf);
+    const t_online = fetchNews(urls.news.t_online, icons.news.t_online);
+    const zeit = fetchNews(urls.news.zeit, icons.news.zeit);
+    const sueddeutsche = fetchNews(urls.news.sueddeutsche, icons.news.sueddeutsche);
+    const rbb = fetchNews(urls.news.rbb, icons.news.rbb);
+    container.appendChild(tagesschau, spiegel, zdf, t_online, zeit, sueddeutsche, rbb);
+}
+
+function getTechnik() {
+    const container = document.getElementById('news');
+    if (!container) {
+        console.error('News-Container nicht gefunden');
+        return;
+    }
+    container.innerHTML = '';
+    const heise = fetchNews(urls.digital.heise, icons.digital.heise);
+    const spiegel_digital = fetchNews(urls.digital.spiegel_digital, icons.digital.spiegel_digital);
+    const t3n = fetchNews(urls.digital.t3n, icons.digital.t3n);
+    const golem = fetchNews(urls.digital.golem, icons.digital.golem);
+    const netzpolitik = fetchNews(urls.digital.netzpolitik, icons.digital.netzpolitik);
+    const computerbase = fetchNews(urls.digital.computerbase, icons.digital.computerbase);
+    container.appendChild(heise, spiegel_digital, t3n, golem, netzpolitik, computerbase);
+}
+
+function getMemes() {
+    const container = document.getElementById('news');
+    if (!container) {
+        console.error('News-Container nicht gefunden');
+        return;
+    }
+    container.innerHTML = '';
+    const r_dingore = fetchNews(urls.memes.r_dingore, icons.wissen.r_dingore);
+    const r_schkreckl = fetchNews(urls.memes.r_schkreckl, icons.wissen.r_schkreckl);
+    const r_stvo = fetchNews(urls.memes.r_stvo, icons.wissen.r_stvo);
+    const r_berlin = fetchNews(urls.memes.r_berlin, icons.wissen.r_berlin);
+    container.appendChild(r_dingore, r_schkreckl, r_stvo, r_berlin);
 }
 
