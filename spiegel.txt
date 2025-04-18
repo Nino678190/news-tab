@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>DER SPIEGEL - Schlagzeilen – Tops</title>
+<link>https://www.spiegel.de/</link>
+<description>Deutschlands führende Nachrichtenseite. Alles Wichtige aus Politik, Wirtschaft, Sport, Kultur, Wissenschaft, Technik und mehr.</description>
+<language>de</language>
+<pubDate>Fri, 18 Apr 2025 19:21:06 +0200</pubDate>
+<lastBuildDate>Fri, 18 Apr 2025 19:21:06 +0200</lastBuildDate>
+<image>
+<title>DER SPIEGEL</title>
+<link>https://www.spiegel.de/</link>
+<url>https://cdn.prod.www.spiegel.de/public/spon/images/logos/der-spiegel-h60.png</url>
+</image>
+<atom:link href="https://www.spiegel.de/schlagzeilen/tops/index.rss" rel="self" type="application/rss+xml"/>
+<item>
+<title>Sefe: Warum macht eine deutsche Firma Gasgeschäfte mit Russland?</title>
+<link>https://www.spiegel.de/wissenschaft/sefe-warum-macht-eine-deutsche-firma-gasgeschaefte-mit-russland-a-a17f23dd-f5ae-4db1-a79d-b0b22309f0bf#ref=rss</link>
+<description>Das von Deutschland verstaatlichte Unternehmen Sefe kauft zunehmend LNG aus Russland und spült damit Geld in Putins Kriegskasse. Es könnte dabei auch gegen EU-Sanktionen verstoßen haben. Die Regierung gibt sich ahnungslos.</description>
+<content:encoded>Das von Deutschland verstaatlichte Unternehmen Sefe kauft zunehmend LNG aus Russland und spült damit Geld in Putins Kriegskasse. Es könnte dabei auch gegen EU-Sanktionen verstoßen haben. Die Regierung gibt sich ahnungslos.</content:encoded>
+<category>Wissenschaft</category>
+<enclosure type="image/jpeg" url="https://cdn.prod.www.spiegel.de/images/fcb4dc55-c3be-480e-a026-1dc5e83ef37a_w520_r2.08_fpx70.85_fpy50.jpg" length="0"/>
+<guid>https://www.spiegel.de/wissenschaft/sefe-warum-macht-eine-deutsche-firma-gasgeschaefte-mit-russland-a-a17f23dd-f5ae-4db1-a79d-b0b22309f0bf</guid>
+<pubDate>Fri, 18 Apr 2025 19:17:00 +0200</pubDate>
+</item>
+<item>
+<title>Harvard-Historikerin Jill Lepore über Elon Musk: »Er ist ein Mann von gestern«</title>
+<link>https://www.spiegel.de/geschichte/harvard-historikerin-jill-lepore-ueber-elon-musk-er-ist-ein-mann-von-gestern-a-3d275a6a-cea1-4acf-b927-bf43339cdfb6#ref=rss</link>
+<description>Jill Lepore hat Elon Musk erforscht. Er präsentiert sich als Futurist, identifiziert sich aber mit Comichelden des vorigen Jahrhunderts. Seine Ideenwelt ist noch älter und gefährlicher: Sie stammt von seinem Opa.</description>
+<content:encoded>Jill Lepore hat Elon Musk erforscht. Er präsentiert sich als Futurist, identifiziert sich aber mit Comichelden des vorigen Jahrhunderts. Seine Ideenwelt ist noch älter und gefährlicher: Sie stammt von seinem Opa.</content:encoded>
+<category>Geschichte</category>
+<enclosure type="image/png" url="https://cdn.prod.www.spiegel.de/images/a0a4b4dd-a99b-4e39-b04a-d3d8897ce5f3_w520_r2.08_fpx49_fpy27.png" length="0"/>
+<guid>https://www.spiegel.de/geschichte/harvard-historikerin-jill-lepore-ueber-elon-musk-er-ist-ein-mann-von-gestern-a-3d275a6a-cea1-4acf-b927-bf43339cdfb6</guid>
+<pubDate>Fri, 18 Apr 2025 14:25:00 +0200</pubDate>
+</item>
+<item>
+<title>Handelskrieg: Xi Jinping stärkt Beziehungen in Südostasien nach US-Zöllen</title>
+<link>https://www.spiegel.de/ausland/handelskrieg-xi-jinping-staerkt-beziehungen-in-suedostasien-nach-us-zoellen-a-fd91b116-79f5-4f40-9fbf-f230918dd0c0#ref=rss</link>
+<description>Das Timing hätte wohl kaum besser sein können: Während US-Präsident Donald Trump die Welt mit seinen Strafzöllen verunsichert, tourt Chinas Staats- und Parteichef Xi Jinping in der Nachbarschaft. Hoffnung und Wohlwollen überall.</description>
+<content:encoded>Das Timing hätte wohl kaum besser sein können: Während US-Präsident Donald Trump die Welt mit seinen Strafzöllen verunsichert, tourt Chinas Staats- und Parteichef Xi Jinping in der Nachbarschaft. Hoffnung und Wohlwollen überall.</content:encoded>
+<category>Ausland</category>
+<enclosure type="image/jpeg" url="https://cdn.prod.www.spiegel.de/images/692ea84f-68fd-4c0c-a1b6-be9764b76ee7_w520_r2.08_fpx66.67_fpy50.jpg" length="0"/>
+<guid>https://www.spiegel.de/ausland/handelskrieg-xi-jinping-staerkt-beziehungen-in-suedostasien-nach-us-zoellen-a-fd91b116-79f5-4f40-9fbf-f230918dd0c0</guid>
+<pubDate>Fri, 18 Apr 2025 18:28:00 +0200</pubDate>
+</item>
+<item>
+<title>Gazastreifen: Bundesregierung evakuiert 45 Deutsche</title>
+<link>https://www.spiegel.de/ausland/gazastreifen-bundesregierung-evakuiert-45-deutsche-a-6b30bcb4-e843-4ebe-9e01-890fc0baed21#ref=rss</link>
+<description>Mithilfe einer privaten Sicherheitsfirma hat die Bundesregierung seit Ende März 45 Deutsche aus Gaza evakuiert. Die israelische Regierung erlaubte die Ausreisen erst jetzt. Und es sind immer noch deutsche Kinder im Kriegsgebiet.</description>
+<content:encoded>Mithilfe einer privaten Sicherheitsfirma hat die Bundesregierung seit Ende März 45 Deutsche aus Gaza evakuiert. Die israelische Regierung erlaubte die Ausreisen erst jetzt. Und es sind immer noch deutsche Kinder im Kriegsgebiet.</content:encoded>
+<category>Ausland</category>
+<enclosure type="image/jpeg" url="https://cdn.prod.www.spiegel.de/images/70eb5f0b-6ad5-436f-92a5-72c8299f55f8_w520_r2.08_fpx63.99_fpy50.jpg" length="0"/>
+<guid>https://www.spiegel.de/ausland/gazastreifen-bundesregierung-evakuiert-45-deutsche-a-6b30bcb4-e843-4ebe-9e01-890fc0baed21</guid>
+<pubDate>Fri, 18 Apr 2025 18:15:00 +0200</pubDate>
+</item>
+<item>
+<title>Handys, Powerbanks, E-Zigaretten: Wie gefährlich sind Handyakkus im Handgepäck?</title>
+<link>https://www.spiegel.de/wissenschaft/technik/handys-powerbanks-e-zigaretten-wie-gefaehrlich-sind-handyakkus-im-handgepaeck-a-fe015b3d-faed-40c0-972a-1163236d7b12#ref=rss</link>
+<description>Handys, Powerbanks, E-Zigaretten: Die Batterien der Geräte werden in Flugzeugen immer mehr zum Sicherheitsrisiko. Nun erwägen Airlines drastische Maßnahmen.</description>
+<content:encoded>Handys, Powerbanks, E-Zigaretten: Die Batterien der Geräte werden in Flugzeugen immer mehr zum Sicherheitsrisiko. Nun erwägen Airlines drastische Maßnahmen.</content:encoded>
+<category>Wissenschaft</category>
+<enclosure type="image/jpeg" url="https://cdn.prod.www.spiegel.de/images/68bea2d3-d455-40d5-8c03-550bab64edf7_w520_r2.08_fpx43_fpy41.jpg" length="0"/>
+<guid>https://www.spiegel.de/wissenschaft/technik/handys-powerbanks-e-zigaretten-wie-gefaehrlich-sind-handyakkus-im-handgepaeck-a-fe015b3d-faed-40c0-972a-1163236d7b12</guid>
+<pubDate>Fri, 18 Apr 2025 17:44:00 +0200</pubDate>
+</item>
+<item>
+<title>Papaplatte im Interview: »Ich finde es übelst geil, ein safe space zu sein«</title>
+<link>https://www.spiegel.de/start/papaplatte-im-interview-ich-finde-es-uebelst-geil-ein-safe-space-zu-sein-a-92768f62-0512-413f-8b11-87ee7a6d94fb#ref=rss</link>
+<description>Kaum jemand prägt das Denken deutscher Jugendlicher so sehr wie Kevin Teller alias Papaplatte. Hier spricht der Twitch-Star über den Rechtsruck junger Männer, seine gescheiterten Beziehungen und Tränen nach dem Livestream.</description>
+<content:encoded>Kaum jemand prägt das Denken deutscher Jugendlicher so sehr wie Kevin Teller alias Papaplatte. Hier spricht der Twitch-Star über den Rechtsruck junger Männer, seine gescheiterten Beziehungen und Tränen nach dem Livestream.</content:encoded>
+<category>Start</category>
+<enclosure type="image/jpeg" url="https://cdn.prod.www.spiegel.de/images/c1e70d9a-db2b-4cfd-8223-71333fb34c86_w520_r2.08_fpx45_fpy34.jpg" length="0"/>
+<guid>https://www.spiegel.de/start/papaplatte-im-interview-ich-finde-es-uebelst-geil-ein-safe-space-zu-sein-a-92768f62-0512-413f-8b11-87ee7a6d94fb</guid>
+<pubDate>Fri, 18 Apr 2025 16:29:00 +0200</pubDate>
+</item>
+<item>
+<title>Brustkrebs: Vorsorgliche Brustamputation – mit 24 Jahren</title>
+<link>https://www.spiegel.de/wissenschaft/brustkrebs-vorsorgliche-brustamputation-mit-24-jahren-a-8e53bfb3-7d4f-42a9-acca-45f9bde0619b#ref=rss</link>
+<description>Aufgrund einer Genmutation liegt Sarah Kobs Brustkrebsrisiko bei 90 Prozent, ihre Großmutter starb an der Krankheit. Deshalb entschied sie sich für eine OP. Wie blickt sie heute auf die Entscheidung?</description>
+<content:encoded>Aufgrund einer Genmutation liegt Sarah Kobs Brustkrebsrisiko bei 90 Prozent, ihre Großmutter starb an der Krankheit. Deshalb entschied sie sich für eine OP. Wie blickt sie heute auf die Entscheidung?</content:encoded>
+<category>Wissenschaft</category>
+<enclosure type="image/jpeg" url="https://cdn.prod.www.spiegel.de/images/a2cea467-800a-4757-a221-1945c9df15e2_w520_r2.08_fpx46.67_fpy45.jpg" length="0"/>
+<guid>https://www.spiegel.de/wissenschaft/brustkrebs-vorsorgliche-brustamputation-mit-24-jahren-a-8e53bfb3-7d4f-42a9-acca-45f9bde0619b</guid>
+<pubDate>Fri, 18 Apr 2025 15:39:00 +0200</pubDate>
+</item>
+<item>
+<title>Jens Spahn zum Umgang mit der AfD: Gegenwind aus der eigenen Partei</title>
+<link>https://www.spiegel.de/politik/deutschland/jens-spahn-zum-umgang-mit-der-afd-gegenwind-aus-der-eigenen-partei-a-ec961885-2add-4f60-a573-0559069aa679#ref=rss</link>
+<description>Die Kritik an den Äußerungen des Unionsfraktionsvizes Jens Spahn zur AfD nimmt zu. Der Vorsitzende des CDU-Sozialflügels äußert sich scharf und mahnt: Es dürfe keine Debatte über eine Normalisierung der AfD geben.</description>
+<content:encoded>Die Kritik an den Äußerungen des Unionsfraktionsvizes Jens Spahn zur AfD nimmt zu. Der Vorsitzende des CDU-Sozialflügels äußert sich scharf und mahnt: Es dürfe keine Debatte über eine Normalisierung der AfD geben.</content:encoded>
+<category>Politik</category>
+<enclosure type="image/jpeg" url="https://cdn.prod.www.spiegel.de/images/e99b2dc7-4485-4fd8-bb7a-ac3a9b25d1d6_w520_r2.08_fpx55.19_fpy46.98.jpg" length="0"/>
+<guid>https://www.spiegel.de/politik/deutschland/jens-spahn-zum-umgang-mit-der-afd-gegenwind-aus-der-eigenen-partei-a-ec961885-2add-4f60-a573-0559069aa679</guid>
+<pubDate>Fri, 18 Apr 2025 15:43:00 +0200</pubDate>
+</item>
+<item>
+<title>Norditalien und Alpen: Regen und Schnee sorgen für Chaos</title>
+<link>https://www.spiegel.de/ausland/norditalien-und-alpen-regen-und-schnee-sorgen-fuer-chaos-a-67511ff0-1a56-4a25-b963-2d21e8de907f#ref=rss</link>
+<description>Im Norden Italiens wurde ein vom Wasser eingeschlossener Autofahrer per Helikopter gerettet. Andernorts ist Schnee das Problem. Das Auswärtige Amt warnt Reisende.</description>
+<content:encoded>Im Norden Italiens wurde ein vom Wasser eingeschlossener Autofahrer per Helikopter gerettet. Andernorts ist Schnee das Problem. Das Auswärtige Amt warnt Reisende.</content:encoded>
+<category>Ausland</category>
+<enclosure type="image/jpeg" url="https://cdn.prod.www.spiegel.de/images/644a7006-77fe-4142-bdd8-49cc189e690b_w520_r2.08_fpx73.65_fpy45.jpg" length="0"/>
+<guid>https://www.spiegel.de/ausland/norditalien-und-alpen-regen-und-schnee-sorgen-fuer-chaos-a-67511ff0-1a56-4a25-b963-2d21e8de907f</guid>
+<pubDate>Fri, 18 Apr 2025 16:57:00 +0200</pubDate>
+</item>
+<item>
+<title>Venedig verdoppelt Eintrittspreis für Tagestouristen – bis zu zehn Euro Gebühr</title>
+<link>https://www.spiegel.de/reise/europa/venedig-verdoppelt-eintrittspreis-fuer-tagestouristen-bis-zu-zehn-euro-gebuehr-a-ad2b4203-5dd1-468a-b86b-7c3d7c1cd3a7#ref=rss</link>
+<description>An bestimmten Tagen müssen Menschen Eintritt zahlen, wenn sie Venedig besuchen wollen. Und nicht nur bei der Gebühr gibt es in diesem Jahr Änderungen.</description>
+<content:encoded>An bestimmten Tagen müssen Menschen Eintritt zahlen, wenn sie Venedig besuchen wollen. Und nicht nur bei der Gebühr gibt es in diesem Jahr Änderungen.</content:encoded>
+<category>Reise</category>
+<enclosure type="image/jpeg" url="https://cdn.prod.www.spiegel.de/images/0d1c7885-d108-4803-82c6-053a82151d54_w520_r2.08_fpx60.67_fpy52.98.jpg" length="0"/>
+<guid>https://www.spiegel.de/reise/europa/venedig-verdoppelt-eintrittspreis-fuer-tagestouristen-bis-zu-zehn-euro-gebuehr-a-ad2b4203-5dd1-468a-b86b-7c3d7c1cd3a7</guid>
+<pubDate>Fri, 18 Apr 2025 17:49:00 +0200</pubDate>
+</item>
+<item>
+<title>Ostern: Tierheime warnen vor Impulskäufen von Hasen</title>
+<link>https://www.spiegel.de/panorama/ostern-tierheime-warnen-vor-impulskaeufen-von-hasen-a-6a3e8fe4-272a-40bd-a164-c284f8610fdc#ref=rss</link>
+<description>Die bayerische Züchterin Nina Jungwirth verzeichnet vor Ostern vermehrt Anfragen für Kaninchen. Viele landeten später im Tierheim, sagt sie. Was sie und ein Tierpfleger Eltern raten.</description>
+<content:encoded>Die bayerische Züchterin Nina Jungwirth verzeichnet vor Ostern vermehrt Anfragen für Kaninchen. Viele landeten später im Tierheim, sagt sie. Was sie und ein Tierpfleger Eltern raten.</content:encoded>
+<category>Panorama</category>
+<enclosure type="image/jpeg" url="https://cdn.prod.www.spiegel.de/images/63783400-4419-404e-85b1-2a8c20cabb62_w520_r2.08_fpx73.65_fpy55.01.jpg" length="0"/>
+<guid>https://www.spiegel.de/panorama/ostern-tierheime-warnen-vor-impulskaeufen-von-hasen-a-6a3e8fe4-272a-40bd-a164-c284f8610fdc</guid>
+<pubDate>Fri, 18 Apr 2025 18:52:00 +0200</pubDate>
+</item>
+<item>
+<title>Max Strohe: Der Sternekoch erklärt, wie aus dem Beilagensalat ein Highlight wird</title>
+<link>https://www.spiegel.de/kultur/max-strohe-der-sternekoch-erklaert-wie-aus-dem-beilagensalat-ein-highlight-wird-a-7f2ae322-c77a-4b5b-aba4-14cf95aec880#ref=rss</link>
+<description>Salatgarnituren flankieren lieblos Tellerflächen: Dem Beilagensalat mangelt es oft an Kreativität. Dabei wäre alles so leicht: Meine Anleitung zu einem gemischten Salat, vor dem das Hauptgericht verblasst.</description>
+<content:encoded>Salatgarnituren flankieren lieblos Tellerflächen: Dem Beilagensalat mangelt es oft an Kreativität. Dabei wäre alles so leicht: Meine Anleitung zu einem gemischten Salat, vor dem das Hauptgericht verblasst.</content:encoded>
+<category>Kultur</category>
+<enclosure type="image/jpeg" url="https://cdn.prod.www.spiegel.de/images/4fc93083-83b4-4360-a9d0-d2a752bfc1b9_w520_r2.08_fpx55_fpy63.jpg" length="0"/>
+<guid>https://www.spiegel.de/kultur/max-strohe-der-sternekoch-erklaert-wie-aus-dem-beilagensalat-ein-highlight-wird-a-7f2ae322-c77a-4b5b-aba4-14cf95aec880</guid>
+<pubDate>Fri, 18 Apr 2025 14:50:00 +0200</pubDate>
+</item>
+<item>
+<title>»Tatort« mit Wotan Wilke Möhring: »Im Wahn« über KI</title>
+<link>https://www.spiegel.de/kultur/tv/tatort-mit-wotan-wilke-moehring-im-wahn-ueber-ki-a-ecf0eeb9-f57c-4283-afa1-78cd7019bd24#ref=rss</link>
+<description>Zu viele Kommissare verderben den Fall. In Hannover stehen sich Bundespolizist Falke und etliche Kolleginnen gegenseitig auf den Füßen – und dann pfuscht auch noch eine KI in die Untersuchungen.</description>
+<content:encoded>Zu viele Kommissare verderben den Fall. In Hannover stehen sich Bundespolizist Falke und etliche Kolleginnen gegenseitig auf den Füßen – und dann pfuscht auch noch eine KI in die Untersuchungen.</content:encoded>
+<category>Kultur</category>
+<enclosure type="image/jpeg" url="https://cdn.prod.www.spiegel.de/images/2298b599-4e6e-44cf-acb3-c786c01d5838_w520_r2.08_fpx63.33_fpy49.98.jpg" length="0"/>
+<guid>https://www.spiegel.de/kultur/tv/tatort-mit-wotan-wilke-moehring-im-wahn-ueber-ki-a-ecf0eeb9-f57c-4283-afa1-78cd7019bd24</guid>
+<pubDate>Fri, 18 Apr 2025 18:19:00 +0200</pubDate>
+</item>
+<item>
+<title>»Kingdom Come: Deliverance 2«, »Foundation«, »Split Fiction«: Neue Games im Frühling</title>
+<link>https://www.spiegel.de/netzwelt/games/kingdom-come-deliverance-2-foundation-split-fiction-neue-games-im-fruehling-a-e61724b8-d7cb-4c4a-8dff-f83d6ee7f596#ref=rss</link>
+<description>Von »Assassin’s Creed Shadows« bis »Split Fiction«: Bei den Spielneuheiten haben längst nicht nur Blockbuster-Schmieden lohnenswerte Games vorgelegt. Der Überblick.</description>
+<content:encoded>Von »Assassin’s Creed Shadows« bis »Split Fiction«: Bei den Spielneuheiten haben längst nicht nur Blockbuster-Schmieden lohnenswerte Games vorgelegt. Der Überblick.</content:encoded>
+<category>Netzwelt</category>
+<enclosure type="image/jpeg" url="https://cdn.prod.www.spiegel.de/images/84da0447-a85f-4955-ae8b-8c9bf929f01d_w520_r2.08_fpx61.26_fpy50.jpg" length="0"/>
+<guid>https://www.spiegel.de/netzwelt/games/kingdom-come-deliverance-2-foundation-split-fiction-neue-games-im-fruehling-a-e61724b8-d7cb-4c4a-8dff-f83d6ee7f596</guid>
+<pubDate>Fri, 18 Apr 2025 17:45:00 +0200</pubDate>
+</item>
+<item>
+<title>Ryan Gosling spielt Hauptrolle in »Star Wars: Starfighter«</title>
+<link>https://www.spiegel.de/kultur/kino/star-wars-starfighter-ryan-gosling-spielt-hauptrolle-in-neuem-star-wars-film-a-a6a34ef9-57a3-41d4-9189-840cfd468603#ref=rss</link>
+<description>Von Barbies Ken zum Jedi-Ritter? Genaues über die Handlung ist bisher nicht bekannt, aber Ryan Gosling wird erneut in die Fußstapfen von Harrison Ford treten. Das verkündete der Schauspieler selbst bei einem Überraschungsauftritt in Japan.</description>
+<content:encoded>Von Barbies Ken zum Jedi-Ritter? Genaues über die Handlung ist bisher nicht bekannt, aber Ryan Gosling wird erneut in die Fußstapfen von Harrison Ford treten. Das verkündete der Schauspieler selbst bei einem Überraschungsauftritt in Japan.</content:encoded>
+<category>Kultur</category>
+<enclosure type="image/jpeg" url="https://cdn.prod.www.spiegel.de/images/e7711b83-d48c-4f6a-a92f-102626739bf1_w520_r2.08_fpx55_fpy37.jpg" length="0"/>
+<guid>https://www.spiegel.de/kultur/kino/star-wars-starfighter-ryan-gosling-spielt-hauptrolle-in-neuem-star-wars-film-a-a6a34ef9-57a3-41d4-9189-840cfd468603</guid>
+<pubDate>Fri, 18 Apr 2025 11:22:00 +0200</pubDate>
+</item>
+<item>
+<title>Kreatin-Pulver: Was ist dran am Hype?</title>
+<link>https://www.spiegel.de/fitness/kreatin-pulver-was-ist-dran-am-hype-a-455fafb2-1803-44e8-8ae6-a1b5f1b0ea89#ref=rss</link>
+<description>Kreatin gilt als Muskeltreibstoff und wird als Nahrungsergänzungsmittel angepriesen. Ein Sportwissenschaftler sagt, was am Hype dran ist.</description>
+<content:encoded>Kreatin gilt als Muskeltreibstoff und wird als Nahrungsergänzungsmittel angepriesen. Ein Sportwissenschaftler sagt, was am Hype dran ist.</content:encoded>
+<category>Fitness</category>
+<enclosure type="image/jpeg" url="https://cdn.prod.www.spiegel.de/images/2b1ae266-8b41-420a-9d45-a2f1d7d6b1b9_w520_r2.08_fpx44_fpy31.jpg" length="0"/>
+<guid>https://www.spiegel.de/fitness/kreatin-pulver-was-ist-dran-am-hype-a-455fafb2-1803-44e8-8ae6-a1b5f1b0ea89</guid>
+<pubDate>Tue, 1 Apr 2025 05:30:00 +0200</pubDate>
+</item>
+<item>
+<title>ADHS bei Mädchen und Frauen: Wie sich so ein Leben leichter leben lässt</title>
+<link>https://www.spiegel.de/gesundheit/diagnose/adhs-bei-maedchen-und-frauen-wie-sich-so-ein-leben-leichter-leben-laesst-a-870c7a33-cf26-4dfc-bc4e-c2a9f100709e#ref=rss</link>
+<description>Die ADHS-Spezialistin Lotta Borg Skoglund erforscht, wie Zyklus und Wechseljahre die Symptome beeinflussen. Sie weiß, wann betroffene Frauen mit ihren Ärzten reden sollten und was ihnen hilft – auch aus eigener Erfahrung.</description>
+<content:encoded>Die ADHS-Spezialistin Lotta Borg Skoglund erforscht, wie Zyklus und Wechseljahre die Symptome beeinflussen. Sie weiß, wann betroffene Frauen mit ihren Ärzten reden sollten und was ihnen hilft – auch aus eigener Erfahrung.</content:encoded>
+<category>Gesundheit</category>
+<enclosure type="image/jpeg" url="https://cdn.prod.www.spiegel.de/images/0ca84132-10a7-4c22-b5dc-9e2ca77c20b8_w520_r2.08_fpx51_fpy41.jpg" length="0"/>
+<guid>https://www.spiegel.de/gesundheit/diagnose/adhs-bei-maedchen-und-frauen-wie-sich-so-ein-leben-leichter-leben-laesst-a-870c7a33-cf26-4dfc-bc4e-c2a9f100709e</guid>
+<pubDate>Thu, 10 Apr 2025 16:10:00 +0200</pubDate>
+</item>
+<item>
+<title>Kochbuch-Tipps: Genussvolle Rezepte für die Fastenzeit</title>
+<link>https://www.spiegel.de/tests/kueche/kochbuch-tipps-genussvolle-rezepte-fuer-die-fastenzeit-a-3258f50d-3a70-4d4a-b534-17839c52e66d#ref=rss</link>
+<description>Sie möchten lieber etwas bewusster essen, statt radikal Ungesundes von der Einkaufsliste zu streichen? Unser Küchenexperte empfiehlt drei aktuelle Kochbücher, die das besonders schmackhaft machen.</description>
+<content:encoded>Sie möchten lieber etwas bewusster essen, statt radikal Ungesundes von der Einkaufsliste zu streichen? Unser Küchenexperte empfiehlt drei aktuelle Kochbücher, die das besonders schmackhaft machen.</content:encoded>
+<category>Tests</category>
+<enclosure type="image/jpeg" url="https://cdn.prod.www.spiegel.de/images/9f000ac0-a1d5-48fd-a66d-6f889b53bbfd_w520_r2.08_fpx33.34_fpy50.jpg" length="0"/>
+<guid>https://www.spiegel.de/tests/kueche/kochbuch-tipps-genussvolle-rezepte-fuer-die-fastenzeit-a-3258f50d-3a70-4d4a-b534-17839c52e66d</guid>
+<pubDate>Sat, 5 Apr 2025 08:49:00 +0200</pubDate>
+</item>
+<item>
+<title>Für Kinder erklärt: Wie sich die USA von Europa abwenden</title>
+<link>https://www.spiegel.de/deinspiegel/fuer-kinder-erklaert-wie-sich-die-usa-von-europa-abwenden-a-9e422ce5-7e4c-4ba4-a84b-e9379f3877e2#ref=rss</link>
+<description>Die USA und Europa waren jahrzehntelang unzertrennlich. Doch das ändert sich gerade. Der Grund: Donald Trump. Seit er wieder US-Präsident ist, stößt er viele Verbündete vor den Kopf. Was bedeutet das für Europa?</description>
+<content:encoded>Die USA und Europa waren jahrzehntelang unzertrennlich. Doch das ändert sich gerade. Der Grund: Donald Trump. Seit er wieder US-Präsident ist, stößt er viele Verbündete vor den Kopf. Was bedeutet das für Europa?</content:encoded>
+<category>Dein SPIEGEL</category>
+<enclosure type="image/png" url="https://cdn.prod.www.spiegel.de/images/0e56af20-e04e-4ea6-9807-a054eb028ff5_w520_r2.08_fpx45.53_fpy44.95.png" length="0"/>
+<guid>https://www.spiegel.de/deinspiegel/fuer-kinder-erklaert-wie-sich-die-usa-von-europa-abwenden-a-9e422ce5-7e4c-4ba4-a84b-e9379f3877e2</guid>
+<pubDate>Tue, 8 Apr 2025 14:24:00 +0200</pubDate>
+</item>
+</channel>
+</rss>

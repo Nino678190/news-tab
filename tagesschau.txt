@@ -1,0 +1,379 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>tagesschau.de - Die Nachrichten der ARD</title>
+    <link>https://www.tagesschau.de/infoservices/alle-meldungen-100.html</link>
+    <description>Die aktuellen Beiträge der Seite https://www.tagesschau.de/infoservices/alle-meldungen-100.html</description>
+    <language>de</language>
+    <copyright>ARD-aktuell / tagesschau.de</copyright>
+    <lastBuildDate>Fri, 18 Apr 2025 19:27:26 +0200</lastBuildDate>
+    <pubDate>Fri, 18 Apr 2025 19:27:26 +0200</pubDate>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <ttl>90</ttl>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:language>de</dc:language>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:date>2023-04-14T07:19:20Z</dc:date>
+    <dc:source>tagesschau.de</dc:source>
+    <item>
+      <title>Akten zum Mord an Robert F. Kennedy ab sofort einsehbar</title>
+      <link>https://www.tagesschau.de/ausland/amerika/akten-robert-f-kennedy-attentat-100.html</link>
+      <description>In den USA sind jetzt viele Akten zum Attentat auf Robert F. Kennedy einsehbar. Der demokratische Senator und Bruder des ebenfalls ermordeten Präsidenten John F. Kennedy war 1968 erschossen worden.</description>
+      <pubDate>Fri, 18 Apr 2025 19:25:28 +0200</pubDate>
+      <guid>f0227256-63cf-4ead-a804-44bb3edbdf9d</guid>
+      <dc:date>2025-04-18T17:25:28Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/ausland/amerika/akten-robert-f-kennedy-attentat-100.html"><img src="https://images.tagesschau.de/image/7a64ba5f-b58f-4fe4-a37b-43cd7620baad/AAABldj73fA/AAABkZLhkrw/16x9-1280/robert-kennedy-attentat-100.jpg" alt="5. Juni 1968: US-Präsidentschaftskandidat Robert F. Kennedy bei einer Rede. Kurz darauf wird er im Ambassador Hotel in Los Angeles erschossen. | AP" /></a> <br/> <br/>In den USA sind jetzt viele Akten zum Attentat auf Robert F. Kennedy einsehbar. Der demokratische Senator und Bruder des ebenfalls ermordeten Präsidenten John F. Kennedy war 1968 erschossen worden.[<a href="https://www.tagesschau.de/ausland/amerika/akten-robert-f-kennedy-attentat-100.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Hat Tesla seine Kilometerzähler manipuliert?</title>
+      <link>https://www.tagesschau.de/wirtschaft/unternehmen/tesla-kilometerzaehler-manipulation-100.html</link>
+      <description>Tesla kommt nicht aus den Negativschlagzeilen: Dem E-Autobauer wird vorgeworfen, die Kilometerzähler in seinen Fahrzeugen manipuliert zu haben. Das Ziel: schneller endende Garantien und dadurch höhere Reparatureinnahmen.</description>
+      <pubDate>Fri, 18 Apr 2025 16:51:02 +0200</pubDate>
+      <guid>bb491837-86e4-482f-aa17-79e2d5d61e7e</guid>
+      <dc:date>2025-04-18T14:51:02Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/wirtschaft/unternehmen/tesla-kilometerzaehler-manipulation-100.html"><img src="https://images.tagesschau.de/image/d3bc5b50-2a28-47ad-b80c-1ad82215995c/AAABlklUBao/AAABkZLhkrw/16x9-1280/tesla-tacho-100.jpg" alt="Display in einem Tesla | dpa" /></a> <br/> <br/>Tesla kommt nicht aus den Negativschlagzeilen: Dem E-Autobauer wird vorgeworfen, die Kilometerzähler in seinen Fahrzeugen manipuliert zu haben. Das Ziel: schneller endende Garantien und dadurch höhere Reparatureinnahmen.[<a href="https://www.tagesschau.de/wirtschaft/unternehmen/tesla-kilometerzaehler-manipulation-100.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Ukraine-Liveblog: ++ Leichen gefallener Soldaten ausgetauscht ++</title>
+      <link>https://www.tagesschau.de/newsticker/liveblog-ukraine-freitag-514.html</link>
+      <description>Die Ukraine und Russland haben Hunderte Soldatenleichen ausgetauscht. Nach ukrainischen Angaben hat es bei russischen Angriffen auf mehrere Städte Tote und Verletzte gegeben. Alle Entwicklungen im Liveblog.</description>
+      <pubDate>Fri, 18 Apr 2025 19:22:02 +0200</pubDate>
+      <guid>b4e63191-31ed-4396-9ab2-a81a07bdbd88</guid>
+      <dc:date>2025-04-18T17:22:02Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/newsticker/liveblog-ukraine-freitag-514.html"><img src="https://images.tagesschau.de/image/26ad51fc-04a3-47dc-bba6-de2bee6a1aee/AAABlklb8B8/AAABkZLhkrw/16x9-1280/leichen-ukraine-100.jpg" alt=" Auf dem Unabhängigkeitsplatz Majdan sind ukrainische Fahnen für gefallene Soldaten und zivile Opfer der russischen Invasion in der Ukraine vom Schnee bedeckt. (Archivbild) | dpa" /></a> <br/> <br/>Die Ukraine und Russland haben Hunderte Soldatenleichen ausgetauscht. Nach ukrainischen Angaben hat es bei russischen Angriffen auf mehrere Städte Tote und Verletzte gegeben. Alle Entwicklungen im Liveblog.[<a href="https://www.tagesschau.de/newsticker/liveblog-ukraine-freitag-514.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>IW-Umfrage: 2025 könnten viele Arbeitsplätze verlorengehen</title>
+      <link>https://www.tagesschau.de/wirtschaft/unternehmen/unternehmen-beschaeftigungsabbau-umfrage-iw-100.html</link>
+      <description>Die deutsche Wirtschaft steckt in der Krise. Die Industrie ist besonders betroffen. Das könnte in diesem Jahr viele Arbeitsplätze kosten, zeigt eine aktuelle Umfrage des IW Köln.</description>
+      <pubDate>Fri, 18 Apr 2025 16:01:33 +0200</pubDate>
+      <guid>e8c0dd3d-c7aa-4026-b423-e3508f6e7530</guid>
+      <dc:date>2025-04-18T14:01:33Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/wirtschaft/unternehmen/unternehmen-beschaeftigungsabbau-umfrage-iw-100.html"><img src="https://images.tagesschau.de/image/c1f1485e-4e9c-4d56-9d9b-833ec62c2904/AAABlkkoX8M/AAABkZLhkrw/16x9-1280/industrie-arbeiter-100.jpg" alt="Zwei Industriearbeiter in einer Werkshalle | dpa" /></a> <br/> <br/>Die deutsche Wirtschaft steckt in der Krise. Die Industrie ist besonders betroffen. Das könnte in diesem Jahr viele Arbeitsplätze kosten, zeigt eine aktuelle Umfrage des IW Köln.[<a href="https://www.tagesschau.de/wirtschaft/unternehmen/unternehmen-beschaeftigungsabbau-umfrage-iw-100.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Übergriffe auf Bahn-Mitarbeiter nehmen zu</title>
+      <link>https://www.tagesschau.de/inland/bahn-mitarbeiter-angriffe-100.html</link>
+      <description>Zugbegleiter, Reinigungskräfte oder auch Kundenberater der Bahn werden immer wieder Ziel von gewaltsamen Angriffen. Mitarbeiter werden nun weiter verstärkt mit Bodycams ausgestattet.</description>
+      <pubDate>Fri, 18 Apr 2025 15:54:18 +0200</pubDate>
+      <guid>e12fa9fb-8623-4a91-adab-8aa1ef166994</guid>
+      <dc:date>2025-04-18T13:54:18Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/inland/bahn-mitarbeiter-angriffe-100.html"><img src="https://images.tagesschau.de/image/20b7625b-092e-4a77-bc73-f5837faf92b8/AAABlkkW0mk/AAABkZLhkrw/16x9-1280/bahn-s-bahn-wache-100.jpg" alt="Mitarbeiter der S-Bahn-Wache Hamburg | dpa" /></a> <br/> <br/>Zugbegleiter, Reinigungskräfte oder auch Kundenberater der Bahn werden immer wieder Ziel von gewaltsamen Angriffen. Mitarbeiter werden nun weiter verstärkt mit Bodycams ausgestattet. [<a href="https://www.tagesschau.de/inland/bahn-mitarbeiter-angriffe-100.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Mindestens drei Tote bei Unwettern in Italien</title>
+      <link>https://www.tagesschau.de/ausland/europa/unwetter-italien-136.html</link>
+      <description>Bei den Unwettern in Norditalien ist die Zahl der Toten auf drei gestiegen. Teils entspannt sich die Wetterlage wieder. Der Schweizer Ort Zermatt kämpft aber weiter mit Schneemassen.</description>
+      <pubDate>Fri, 18 Apr 2025 18:14:12 +0200</pubDate>
+      <guid>5318f6f8-9ca0-4422-b442-ee18ad78aeba</guid>
+      <dc:date>2025-04-18T16:14:12Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/ausland/europa/unwetter-italien-136.html"><img src="https://images.tagesschau.de/image/2ef305be-9e81-4591-be9d-a3c80c6fb6ec/AAABlkkpdjQ/AAABkZLhkrw/16x9-1280/unwetter-italien-138.jpg" alt="Menschen auf einer mit Schlamm bedeckten Straße vor einem zerstörten Haus in Lauriano, Region Piermont. | dpa" /></a> <br/> <br/>Bei den Unwettern in Norditalien ist die Zahl der Toten auf drei gestiegen. Teils entspannt sich die Wetterlage wieder. Der Schweizer Ort Zermatt kämpft aber weiter mit Schneemassen.[<a href="https://www.tagesschau.de/ausland/europa/unwetter-italien-136.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Tiefebene im Berliner Hauptbahnhof ist über Ostern gesperrt</title>
+      <link>https://www.tagesschau.de/inland/regional/berlin/ostern-tiefebene-berliner-hauptbahnhof-zuege-deutsche-bahn-100.html</link>
+      <description>Seit Wochen werden am Berliner Hauptbahnhof zusätzliche Weichen und Signale eingebaut. Der Zugverkehr ist deshalb teilweise eingeschränkt - über Ostern wird die unterste Ebene ganz gesperrt. Viele Fernzüge halten trotzdem am Hauptbahnhof.</description>
+      <pubDate>Fri, 18 Apr 2025 15:44:55 +0200</pubDate>
+      <guid>tagesschau_fm-story-rbb_keine-zuege-in-tiefebene-des-berliner-hauptbahnhofs-ueber-ostern</guid>
+      <dc:date>2025-04-18T13:44:55Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/inland/regional/berlin/ostern-tiefebene-berliner-hauptbahnhof-zuege-deutsche-bahn-100.html"><img src="https://images.tagesschau.de/image/2509f692-64a5-4eaa-82cd-d3f2f75c63f1/AAABlkkhjlU/AAABkZLhkrw/16x9-1280/berlin-hauptbahnhof-tiefebene-100.jpg" alt="Die Tiefebene im Berliner Hauptbahnhof ist gesperrt | dpa" /></a> <br/> <br/>Seit Wochen werden am Berliner Hauptbahnhof zusätzliche Weichen und Signale eingebaut. Der Zugverkehr ist deshalb teilweise eingeschränkt - über Ostern wird die unterste Ebene ganz gesperrt. Viele Fernzüge halten trotzdem am Hauptbahnhof.[<a href="https://www.tagesschau.de/inland/regional/berlin/ostern-tiefebene-berliner-hauptbahnhof-zuege-deutsche-bahn-100.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Wie Borkum die Wärmewende schaffen will</title>
+      <link>https://www.tagesschau.de/wissen/klima/borkum-will-klimaneutral-werden-100.html</link>
+      <description>Die ostfriesische Insel Borkum möchte in fünf Jahren bei der Energieversorgung klimaneutral sein. Das dürfte eng werden, dennoch ist die Insel ein Vorreiter in Sachen Klimaschutz. Von Birgit Stamerjohanns.</description>
+      <pubDate>Fri, 18 Apr 2025 15:40:02 +0200</pubDate>
+      <guid>420e7e69-f811-4fd6-845e-26e0fe77d1ba</guid>
+      <dc:date>2025-04-18T13:40:02Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/wissen/klima/borkum-will-klimaneutral-werden-100.html"><img src="https://images.tagesschau.de/image/d7c73225-9ff2-46ae-b16e-ef8be934d336/AAABlj3lRdE/AAABkZLhkrw/16x9-1280/borkum-108.jpg" alt="Die ostfriesische Insel Borkum. | dpa" /></a> <br/> <br/>Die ostfriesische Insel Borkum möchte in fünf Jahren bei der Energieversorgung klimaneutral sein. Das dürfte eng werden, dennoch ist die Insel ein Vorreiter in Sachen Klimaschutz. <em>Von Birgit Stamerjohanns.</em>[<a href="https://www.tagesschau.de/wissen/klima/borkum-will-klimaneutral-werden-100.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Sicherheit im Kongo gegen Rohstoffe für die USA?</title>
+      <link>https://www.tagesschau.de/ausland/afrika/demokratische-republik-kongo-100.html</link>
+      <description>Neue Akteure mischen im Konflikt im Kongo mit: Ex-Präsident Kabila ist zurück und setzt die Regierung unter Druck. Doch die könnte Unterstützung aus den USA bekommen - gegen Zugang zu Rohstoffen. Von Naveena Kottoor.</description>
+      <pubDate>Fri, 18 Apr 2025 15:37:47 +0200</pubDate>
+      <guid>55b8fb43-5577-44dc-8a0c-50ec71dc9cfc</guid>
+      <dc:date>2025-04-18T13:37:47Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/ausland/afrika/demokratische-republik-kongo-100.html"><img src="https://images.tagesschau.de/image/1609273e-14f7-47f5-bc8b-41f51937bb92/AAABlkkeoJ0/AAABkZLhkrw/16x9-1280/mine-kongo-100.jpg" alt="Eine Mine in der Demokratischen Republik Kongo. | AFP" /></a> <br/> <br/>Neue Akteure mischen im Konflikt im Kongo mit: Ex-Präsident Kabila ist zurück und setzt die Regierung unter Druck. Doch die könnte Unterstützung aus den USA bekommen - gegen Zugang zu Rohstoffen. <em>Von Naveena Kottoor.</em>[<a href="https://www.tagesschau.de/ausland/afrika/demokratische-republik-kongo-100.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Autofahrer: Für wen lohnt sich welche Kaskoversicherung?</title>
+      <link>https://www.tagesschau.de/wirtschaft/verbraucher/versicherungen-kfz-kasko-100.html</link>
+      <description>Verkehrsteilnehmer müssen haftpflichtversichert sein - das schreibt das Gesetz vor. Und für alle anderen etwaigen Schäden gibt es die Voll- und Teilkasko. Für wen sich welche lohnt. Von Till Bücker.</description>
+      <pubDate>Fri, 18 Apr 2025 14:07:43 +0200</pubDate>
+      <guid>18c28bf0-9b52-4f09-bb8d-36386593120b</guid>
+      <dc:date>2025-04-18T12:07:43Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/wirtschaft/verbraucher/versicherungen-kfz-kasko-100.html"><img src="https://images.tagesschau.de/image/52f68c76-b46c-4636-9f30-5eedc1c330f6/AAABlj064iI/AAABkZLhkrw/16x9-1280/autos-koeln-100.jpg" alt="Autos fahren durch Köln. | dpa" /></a> <br/> <br/>Verkehrsteilnehmer müssen haftpflichtversichert sein - das schreibt das Gesetz vor. Und für alle anderen etwaigen Schäden gibt es die Voll- und Teilkasko. Für wen sich welche lohnt.<em> Von Till Bücker.</em>[<a href="https://www.tagesschau.de/wirtschaft/verbraucher/versicherungen-kfz-kasko-100.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Christen ziehen an Karfreitag über die Via Dolorosa in Jerusalem</title>
+      <link>https://www.tagesschau.de/ausland/asien/karfreitag-prozession-jerusalem-papst-100.html</link>
+      <description>Kreuze prägten das Bild der Jerusalemer Altstadt am Karfreitag. Christen aller Konfessionen zogen über die Via Dolorosa, um den Leidensweg Christi nachzugehen. In Rom finden viele Termine an Ostern diesmal ohne den Papst statt.</description>
+      <pubDate>Fri, 18 Apr 2025 14:05:30 +0200</pubDate>
+      <guid>34f2978b-69aa-4244-ac3d-0fe05336cfbd</guid>
+      <dc:date>2025-04-18T12:05:30Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/ausland/asien/karfreitag-prozession-jerusalem-papst-100.html"><img src="https://images.tagesschau.de/image/004498b1-9b81-4fb6-b210-27f886f750f8/AAABlkibWVA/AAABkZLhkrw/16x9-1280/karfreitag-jerusalem-108.jpg" alt="Karfreitagsprozession in der Altstadt von Jerusalem | AP" /></a> <br/> <br/>Kreuze prägten das Bild der Jerusalemer Altstadt am Karfreitag. Christen aller Konfessionen zogen über die Via Dolorosa, um den Leidensweg Christi nachzugehen. In Rom finden viele Termine an Ostern diesmal ohne den Papst statt.[<a href="https://www.tagesschau.de/ausland/asien/karfreitag-prozession-jerusalem-papst-100.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Ukraine-Krieg: Rubio warnt vor möglichem Ende der US-Friedensbemühungen</title>
+      <link>https://www.tagesschau.de/ausland/europa/ukraine-usa-friedensbemuehungen-rubio-100.html</link>
+      <description>Zum Ende der Pariser Gespräche über einen Frieden in der Ukraine hat US-Außenminister Rubio von den Kriegsparteien baldige Fortschritte in den Verhandlungen gefordert. Andernfalls könnten die USA ihre Friedensbemühungen einstellen.</description>
+      <pubDate>Fri, 18 Apr 2025 12:24:25 +0200</pubDate>
+      <guid>63c1f87b-2587-4996-bcd1-2f3c6d0fa5dd</guid>
+      <dc:date>2025-04-18T10:24:25Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/ausland/europa/ukraine-usa-friedensbemuehungen-rubio-100.html"><img src="https://images.tagesschau.de/image/02de597b-d3de-4153-b55f-581a4cd02ff3/AAABlkiAw68/AAABkZLhkrw/16x9-1280/marco-rubio-116.jpg" alt="Marco Rubio | via REUTERS" /></a> <br/> <br/>Zum Ende der Pariser Gespräche über einen Frieden in der Ukraine hat US-Außenminister Rubio von den Kriegsparteien baldige Fortschritte in den Verhandlungen gefordert. Andernfalls könnten die USA ihre Friedensbemühungen einstellen.[<a href="https://www.tagesschau.de/ausland/europa/ukraine-usa-friedensbemuehungen-rubio-100.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Warum Deutsche nicht mehr in die USA reisen wollen</title>
+      <link>https://www.tagesschau.de/inland/gesellschaft/usa-einreise-tourismus-100.html</link>
+      <description>Nachdem Deutsche bei der Einreise in die USA festgesetzt wurden, ist die Verunsicherung groß. Die Nachfrage nach USA-Reisen bricht ein, Veranstalter warnen vor Panikmache. Das Auswärtige Amt spricht von Einzelfällen. Von Ruth Kirchner.</description>
+      <pubDate>Fri, 18 Apr 2025 11:48:52 +0200</pubDate>
+      <guid>35f35ccf-ac5a-4418-b9e0-6769c7ff95fe</guid>
+      <dc:date>2025-04-18T09:48:52Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/inland/gesellschaft/usa-einreise-tourismus-100.html"><img src="https://images.tagesschau.de/image/8c848d2a-4cd1-4570-be2a-920f84987455/AAABljQTVh8/AAABkZLhkrw/16x9-1280/flughafen-laguardia-newyork-100.jpg" alt="Ein Bildschirmbild der Freiheitsstatue begrüsst ankommende Reisende auf einer Rolltreppe des Flughafens LaGuardia, New York, USA | dpa" /></a> <br/> <br/>Nachdem Deutsche bei der Einreise in die USA festgesetzt wurden, ist die Verunsicherung groß. Die Nachfrage nach USA-Reisen bricht ein, Veranstalter warnen vor Panikmache. Das Auswärtige Amt spricht von Einzelfällen. <em>Von Ruth Kirchner.</em>[<a href="https://www.tagesschau.de/inland/gesellschaft/usa-einreise-tourismus-100.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>El Salvador: US-Senator trifft abgeschobenen Ábrego García</title>
+      <link>https://www.tagesschau.de/ausland/amerika/usa-el-salvador-migrationspolitik-100.html</link>
+      <description>Aus Protest gegen die unrechtmäßige Abschiebung eines Migranten ist der demokratische Senator Van Hollen nach El Salvador gereist, um sich für die Freilassung einzusetzen. Treffen durfte er ihn auch. Ein Bundesrichter kritisierte die Trump-Regierung.</description>
+      <pubDate>Fri, 18 Apr 2025 15:44:12 +0200</pubDate>
+      <guid>03cdc9f5-752d-4eb7-8c62-df99a3e9ccb6</guid>
+      <dc:date>2025-04-18T13:44:12Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/ausland/amerika/usa-el-salvador-migrationspolitik-100.html"><img src="https://images.tagesschau.de/image/1ba1539a-b242-4b5e-a421-685d307f7573/AAABlkh5ASk/AAABkZLhkrw/16x9-1280/van-hollen-garcia-100.jpg" alt="Kilmar Abrego Garcia und Chris Van Hollen | Press Office Senator Van Hollen, via AP" /></a> <br/> <br/>Aus Protest gegen die unrechtmäßige Abschiebung eines Migranten ist der demokratische Senator Van Hollen nach El Salvador gereist, um sich für die Freilassung einzusetzen. Treffen durfte er ihn auch. Ein Bundesrichter kritisierte die Trump-Regierung.[<a href="https://www.tagesschau.de/ausland/amerika/usa-el-salvador-migrationspolitik-100.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Venedig verdoppelt Eintrittspreis für Tagestouristen</title>
+      <link>https://www.tagesschau.de/ausland/europa/venedig-touristen-eintritt-100.html</link>
+      <description>Was 2024 ein Test war, wird nun fortgesetzt: Ab sofort müssen Tagestouristen in Venedig wieder Eintritt zahlen - bis zu zehn Euro. Ob das hilft, Probleme mit dem Massentourismus in den Griff zu bekommen, ist umstritten.</description>
+      <pubDate>Fri, 18 Apr 2025 11:05:28 +0200</pubDate>
+      <guid>9d74c99c-93c0-424c-acb8-de50d593ebc4</guid>
+      <dc:date>2025-04-18T09:05:28Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/ausland/europa/venedig-touristen-eintritt-100.html"><img src="https://images.tagesschau.de/image/226fcaf2-519e-4b3a-a5bc-a75e5c6dc6c3/AAABlkg4gck/AAABkZLhkrw/16x9-1280/venedig-306.jpg" alt="Boote in Venedig bei der Rialtobrücke | dpa" /></a> <br/> <br/>Was 2024 ein Test war, wird nun fortgesetzt: Ab sofort müssen Tagestouristen in Venedig wieder Eintritt zahlen - bis zu zehn Euro. Ob das hilft, Probleme mit dem Massentourismus in den Griff zu bekommen, ist umstritten.[<a href="https://www.tagesschau.de/ausland/europa/venedig-touristen-eintritt-100.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Kfz-Haftpflicht: Die Pflichtversicherung für alle mit Motor</title>
+      <link>https://www.tagesschau.de/wirtschaft/verbraucher/versicherungen-kfz-haftpflicht-100.html</link>
+      <description>Wer motorisiert am Verkehr teilnimmt, muss versichert sein: Der Gesetzgeber schreibt eine Kfz-Haftpflicht vor. Wofür sie einspringt - und was man beachten sollte. Von Till Bücker.</description>
+      <pubDate>Fri, 18 Apr 2025 08:07:31 +0200</pubDate>
+      <guid>a1292610-a4b6-4289-a462-aeba2d49b83b</guid>
+      <dc:date>2025-04-18T06:07:31Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/wirtschaft/verbraucher/versicherungen-kfz-haftpflicht-100.html"><img src="https://images.tagesschau.de/image/0b428015-da74-403b-885d-8342801587f3/AAABljS2ptU/AAABkZLhkrw/16x9-1280/autos-190.jpg" alt="Autos stehen auf einer Autobahn im Stau. | dpa" /></a> <br/> <br/>Wer motorisiert am Verkehr teilnimmt, muss versichert sein: Der Gesetzgeber schreibt eine Kfz-Haftpflicht vor. Wofür sie einspringt - und was man beachten sollte. <em>Von Till Bücker.</em>[<a href="https://www.tagesschau.de/wirtschaft/verbraucher/versicherungen-kfz-haftpflicht-100.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Nahost-Liveblog: ++ Hamas lehnt israelischen Vorschlag zu Waffenruhe ab ++</title>
+      <link>https://www.tagesschau.de/newsticker/liveblog-nahost-freitag-248.html</link>
+      <description>Die Terrormiliz Hamas hat den jüngsten israelischen Vorschlag für eine Waffenruhe abgelehnt und fordert ein "umfassendes Abkommen" zur Beendigung des Kriegs. Laut einem Bericht hat die US-Regierung begonnen, Hunderte Soldaten aus Syrien abzuziehen.</description>
+      <pubDate>Fri, 18 Apr 2025 19:27:26 +0200</pubDate>
+      <guid>60d5facb-4637-4b96-981b-7807cdcf5145</guid>
+      <dc:date>2025-04-18T17:27:26Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/newsticker/liveblog-nahost-freitag-248.html"><img src="https://images.tagesschau.de/image/8bd0dc4d-2332-44af-822e-240402809984/AAABlkbweG0/AAABkZLhkrw/16x9-1280/hamas-136.jpg" alt="Mitglieder der Terrormiliz Hamas in Chan Junis. | picture alliance/dpa/AP" /></a> <br/> <br/>Die Terrormiliz Hamas hat den jüngsten israelischen Vorschlag für eine Waffenruhe abgelehnt und fordert ein "umfassendes Abkommen" zur Beendigung des Kriegs. Laut einem Bericht hat die US-Regierung begonnen, Hunderte Soldaten aus Syrien abzuziehen.[<a href="https://www.tagesschau.de/newsticker/liveblog-nahost-freitag-248.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Indiens Andamanen: Warum bei Inselbesuch Haft droht - oder Tod</title>
+      <link>https://www.tagesschau.de/ausland/asien/indien-andamanen-north-sentinel-island-100.html</link>
+      <description>Weil er versucht hat, mit dem streng abgeschirmten Volk auf einer der Andamanen-Inseln in Kontakt zu treten, sitzt ein YouTuber in Indien in Haft. Warum wird das Volk der Sentinelesen so geschützt? Von Lena Bodewein.</description>
+      <pubDate>Fri, 18 Apr 2025 04:44:20 +0200</pubDate>
+      <guid>3fd2cbf2-03d4-4ec1-8f14-7efa624946de</guid>
+      <dc:date>2025-04-18T02:44:20Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/ausland/asien/indien-andamanen-north-sentinel-island-100.html"><img src="https://images.tagesschau.de/image/c8e95297-5843-4623-8162-e266950ebc1d/AAABlkbIZOo/AAABkZLhkrw/16x9-1280/einwohner-north-sentinel-island-100.jpg" alt=" Ein Bewohner der North Sentinel Island schießt mit Pfeil und Bogen auf den Helikopter, der nach dem Tsunami im Jahr 2004 über die Insel fliegt. | dpa" /></a> <br/> <br/>Weil er versucht hat, mit dem streng abgeschirmten Volk auf einer der Andamanen-Inseln in Kontakt zu treten, sitzt ein YouTuber in Indien in Haft. Warum wird das Volk der Sentinelesen so geschützt? <em>Von Lena Bodewein.</em>[<a href="https://www.tagesschau.de/ausland/asien/indien-andamanen-north-sentinel-island-100.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Spahn-Aussagen zu AfD: Klingbeil spricht von "Foulspiel" gegen Merz</title>
+      <link>https://www.tagesschau.de/inland/klingbeil-spahn-afd-100.html</link>
+      <description>Nach den Aussagen von Unionsfraktionsvize Spahn zum Umgang mit der AfD gibt es weiter viel Kritik aus der SPD. "Unnötig und falsch" sei die Debatte, sagt auch SPD-Chef Klingbeil - und spricht von einem "Foulspiel" gegen CDU-Chef Merz.</description>
+      <pubDate>Fri, 18 Apr 2025 04:44:05 +0200</pubDate>
+      <guid>3d664af8-f563-43b6-b6a1-4eb544063bbc</guid>
+      <dc:date>2025-04-18T02:44:05Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/inland/klingbeil-spahn-afd-100.html"><img src="https://images.tagesschau.de/image/b5d58e92-e672-42b3-a09b-7057b55d119c/AAABlY9M-6I/AAABkZLhkrw/16x9-1280/klingbeil-210.jpg" alt="Lars Klingbeil | AFP" /></a> <br/> <br/>Nach den Aussagen von Unionsfraktionsvize Spahn zum Umgang mit der AfD gibt es weiter viel Kritik aus der SPD. "Unnötig und falsch" sei die Debatte, sagt auch SPD-Chef Klingbeil - und spricht von einem "Foulspiel" gegen CDU-Chef Merz.[<a href="https://www.tagesschau.de/inland/klingbeil-spahn-afd-100.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>US-Armee meldet Zerstörung von wichtigem Ölhafen der Huthi im Jemen</title>
+      <link>https://www.tagesschau.de/ausland/asien/jemen-oelhafen-100.html</link>
+      <description>Im Jemen hat das US-Militär nach eigenen Angaben einen von den Huthi kontrollierten Ölhafen zerstört. Ziel des Angriffs sei gewesen, der Miliz eine wichtige Finanzierungsquelle zu nehmen. Huthi-nahe Medien berichten von mindestens 38 Toten.</description>
+      <pubDate>Fri, 18 Apr 2025 09:13:07 +0200</pubDate>
+      <guid>36db6af6-df41-412e-b936-5f658986a206</guid>
+      <dc:date>2025-04-18T07:13:07Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/ausland/asien/jemen-oelhafen-100.html"><img src="https://images.tagesschau.de/image/040f7364-11cc-4e30-a732-5a94331a94f6/AAABlkeudhk/AAABkZLhkrw/16x9-1280/sendungsbild-1532508.jpg" alt="Angriff auf den Jemen | ARD-aktuell" /></a> <br/> <br/>Im Jemen hat das US-Militär nach eigenen Angaben einen von den Huthi kontrollierten Ölhafen zerstört. Ziel des Angriffs sei gewesen, der Miliz eine wichtige Finanzierungsquelle zu nehmen. Huthi-nahe Medien berichten von mindestens 38 Toten.[<a href="https://www.tagesschau.de/ausland/asien/jemen-oelhafen-100.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Mindestens zwei Tote nach Schüssen an Hochschule in Florida</title>
+      <link>https://www.tagesschau.de/ausland/amerika/schuesse-florida-100.html</link>
+      <description>Erneut hat es an einer US-Hochschule einen Schusswaffenangriff gegeben. Mindestens zwei Menschen starben, mehrere wurden verletzt. Präsident Trump nannte die Tat "eine Schande" - bekräftigte aber seine Unterstützung fürs Waffenrecht.</description>
+      <pubDate>Fri, 18 Apr 2025 03:31:22 +0200</pubDate>
+      <guid>c79d5675-307e-43a7-bd5a-3e3c641f9289</guid>
+      <dc:date>2025-04-18T01:31:22Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/ausland/amerika/schuesse-florida-100.html"><img src="https://images.tagesschau.de/image/a9190e2b-3a5d-4b72-9ba1-3f854e6fd7b3/AAABlkZNP6w/AAABkZLhkrw/16x9-1280/florida-174.jpg" alt="Sicherheitskräfte in Tallahassee in Florida, nachdem dort an einer Hochschule Schüsse gefallen sind | via REUTERS" /></a> <br/> <br/>Erneut hat es an einer US-Hochschule einen Schusswaffenangriff gegeben. Mindestens zwei Menschen starben, mehrere wurden verletzt. Präsident Trump nannte die Tat "eine Schande" - bekräftigte aber seine Unterstützung fürs Waffenrecht.[<a href="https://www.tagesschau.de/ausland/amerika/schuesse-florida-100.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Ukraine und USA unterzeichnen Absichtserklärung zu Rohstoffabkommen</title>
+      <link>https://www.tagesschau.de/ausland/ukraine-usa-rohstoffdeal-100.html</link>
+      <description>Der erste Versuch war in einem Eklat geendet. Doch laut US-Präsident Trump könnte schon in der kommenden Woche das Rohstoffabkommen mit der Ukraine stehen. Als Zwischenschritt unterzeichneten beide Länder nun eine Absichtserklärung.</description>
+      <pubDate>Fri, 18 Apr 2025 08:14:54 +0200</pubDate>
+      <guid>9370ec3c-c1f7-4dcb-816b-8634942d179a</guid>
+      <dc:date>2025-04-18T06:14:54Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/ausland/ukraine-usa-rohstoffdeal-100.html"><img src="https://images.tagesschau.de/image/1141734b-3694-4658-bdb8-9844d3b0b830/AAABlkXpv1U/AAABkZLhkrw/16x9-1280/mine-ukraine-100.jpg" alt="Baumaschinen in einer Graphit-Mine in der Ukraine.  | EPA" /></a> <br/> <br/>Der erste Versuch war in einem Eklat geendet. Doch laut US-Präsident Trump könnte schon in der kommenden Woche das Rohstoffabkommen mit der Ukraine stehen. Als Zwischenschritt unterzeichneten beide Länder nun eine Absichtserklärung.[<a href="https://www.tagesschau.de/ausland/ukraine-usa-rohstoffdeal-100.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Meloni bei Trump: Lob, Schmeicheleien und demonstrative Zuversicht</title>
+      <link>https://www.tagesschau.de/ausland/amerika/trump-meloni-112.html</link>
+      <description>US-Präsident Trump und Italiens Regierungschefin Meloni demonstrierten bei ihrem Treffen Einigkeit - und gaben sich betont zuversichtlich in Sachen Handelsabkommen. Er glaube "zu 100 Prozent" an einen Deal, sagte Trump. Von C. Kühntopp.</description>
+      <pubDate>Fri, 18 Apr 2025 00:57:33 +0200</pubDate>
+      <guid>e88fd4a2-9c7c-4ac0-8c78-b342309a89db</guid>
+      <dc:date>2025-04-17T22:57:33Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/ausland/amerika/trump-meloni-112.html"><img src="https://images.tagesschau.de/image/4900fe9d-2e10-4eda-9256-c33435c7c12e/AAABlkTq1Ks/AAABkZLhkrw/16x9-1280/trump-meloni-110.jpg" alt="Donald Trump und Giorgia Meloni | REUTERS" /></a> <br/> <br/>US-Präsident Trump und Italiens Regierungschefin Meloni demonstrierten bei ihrem Treffen Einigkeit - und gaben sich betont zuversichtlich in Sachen Handelsabkommen. Er glaube "zu 100 Prozent" an einen Deal, sagte Trump. <em>Von C. Kühntopp.</em>[<a href="https://www.tagesschau.de/ausland/amerika/trump-meloni-112.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Frankreich spricht nach Ukraine-Gesprächen von "exzellentem Austausch"</title>
+      <link>https://www.tagesschau.de/ausland/europa/ukraine-treffen-paris-104.html</link>
+      <description>Stundenlang beraten Europäer, Ukrainer und US-Vertreter in Paris über ein mögliches Ende des Ukraine-Kriegs. Frankreich zeigt sich mit den Ergebnissen zufrieden und kündigt eine Fortsetzung an.</description>
+      <pubDate>Thu, 17 Apr 2025 22:49:41 +0200</pubDate>
+      <guid>0028b516-65e3-4fa3-a61c-360009da1565</guid>
+      <dc:date>2025-04-17T20:49:41Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/ausland/europa/ukraine-treffen-paris-104.html"><img src="https://images.tagesschau.de/image/9e4b18bc-7563-4b7b-9040-b95742a23ca4/AAABlkWDtJM/AAABkZLhkrw/16x9-1280/paris-ukraine-gespraeche-100.jpg" alt="Marco Rubio Jean-Noel Barrot, David Lammy und Gunter Sautter unterhalten sich. | via REUTERS" /></a> <br/> <br/>Stundenlang beraten Europäer, Ukrainer und US-Vertreter in Paris über ein mögliches Ende des Ukraine-Kriegs. Frankreich zeigt sich mit den Ergebnissen zufrieden und kündigt eine Fortsetzung an.[<a href="https://www.tagesschau.de/ausland/europa/ukraine-treffen-paris-104.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Marktbericht: Wall Street ohne klare Linie</title>
+      <link>https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ezb-leitzins-fed-100.html</link>
+      <description>Die großen Aktienindizes der Wall Street tendierten uneinheitlich. Während der Dow Jones schwächelte, stabilisierte sich die Nasdaq. Im Fokus standen auch laufende Zollgespräche der Regierung.</description>
+      <pubDate>Thu, 17 Apr 2025 22:15:10 +0200</pubDate>
+      <guid>c60f3952-c294-43e8-9cbd-213832e8d810</guid>
+      <dc:date>2025-04-17T20:15:10Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ezb-leitzins-fed-100.html"><img src="https://images.tagesschau.de/image/382d4b25-5ac0-4553-90ce-6e35388ee310/AAABlhUnByY/AAABkZLhkrw/16x9-1280/wall-street-140.jpg" alt="Wall Street Schriftzug, Mesnchen im Regen, New York, USA | picture alliance / NDZ/STAR MAX/" /></a> <br/> <br/>Die großen Aktienindizes der Wall Street tendierten uneinheitlich. Während der Dow Jones schwächelte, stabilisierte sich die Nasdaq. Im Fokus standen auch laufende Zollgespräche der Regierung. [<a href="https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ezb-leitzins-fed-100.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Ukraine-Liveblog: ++ Trump erwartet russische Antwort in Kürze ++</title>
+      <link>https://www.tagesschau.de/newsticker/liveblog-ukraine-donnerstag-462.html</link>
+      <description>US-Präsident Trump erwartet eine Rückmeldung aus Russland zu einem möglichen Friedensabkommen mit der Ukraine noch in dieser Woche. Frankreich bezeichnet die Ukraine-Gespräche von Europäern und US-Vertretern als "exzellent".</description>
+      <pubDate>Thu, 17 Apr 2025 23:31:21 +0200</pubDate>
+      <guid>5498645f-496b-4523-af64-fd50e094ec28</guid>
+      <dc:date>2025-04-17T21:31:21Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/newsticker/liveblog-ukraine-donnerstag-462.html"><img src="https://images.tagesschau.de/image/34e1b212-1a91-4b1e-b4d3-11ae2eef9466/AAABljOE9Rw/AAABkZLhkrw/16x9-1280/trump-kabinett-118.jpg" alt="Donald Trump bei einem Treffen des Kabinetts. | EPA" /></a> <br/> <br/>US-Präsident Trump erwartet eine Rückmeldung aus Russland zu einem möglichen Friedensabkommen mit der Ukraine noch in dieser Woche. Frankreich bezeichnet die Ukraine-Gespräche von Europäern und US-Vertretern als "exzellent". [<a href="https://www.tagesschau.de/newsticker/liveblog-ukraine-donnerstag-462.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Treffen mit Meloni: Trump erwartet Einigung im Zollstreit mit der EU</title>
+      <link>https://www.tagesschau.de/ausland/amerika/trump-meloni-zoelle-100.html</link>
+      <description>Italiens Ministerpräsidentin Meloni betrachtet sich als Brückenbauerin zwischen dem US-Präsidenten und der EU. Bei einem Treffen mit Trump in Washington schlugen beide nun versöhnliche Töne im Zollstreit an.</description>
+      <pubDate>Thu, 17 Apr 2025 21:02:48 +0200</pubDate>
+      <guid>042fafc1-3c60-4319-9b59-424f3ca0e7d2</guid>
+      <dc:date>2025-04-17T19:02:48Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/ausland/amerika/trump-meloni-zoelle-100.html"><img src="https://images.tagesschau.de/image/371ca973-79b8-4a1b-8412-d78fffe544de/AAABlkTppDQ/AAABkZLhkrw/16x9-1280/trump-meloni-108.jpg" alt="Donald Trump und Giorgia Meloni | dpa" /></a> <br/> <br/>Italiens Ministerpräsidentin Meloni betrachtet sich als Brückenbauerin zwischen dem US-Präsidenten und der EU. Bei einem Treffen mit Trump in Washington schlugen beide nun versöhnliche Töne im Zollstreit an.[<a href="https://www.tagesschau.de/ausland/amerika/trump-meloni-zoelle-100.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Vier Tote bei Absturz von Seilbahn in Italien</title>
+      <link>https://www.tagesschau.de/ausland/europa/seilbahnunglueck-neapel-100.html</link>
+      <description>In der Nähe der italienischen Großstadt Neapel ist die Gondel einer Seilbahn abgestürzt, vier Menschen kamen ums Leben. Offenbar war das Zugseil gerissen. Die Insassen der zweiten Gondel mussten abgeseilt werden.</description>
+      <pubDate>Fri, 18 Apr 2025 13:46:34 +0200</pubDate>
+      <guid>c19523d9-76c0-4162-aa7d-35afea058437</guid>
+      <dc:date>2025-04-18T11:46:34Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/ausland/europa/seilbahnunglueck-neapel-100.html"><img src="https://images.tagesschau.de/image/3560e90c-e93d-4de7-9671-fa27e174b706/AAABlkTb498/AAABkZLhkrw/16x9-1280/seilbahn-neapel-100.jpg" alt="Auf diesem vom italienischen alpinen Rettungskorps veröffentlichten Foto arbeiten Retter an der zertrümmerten Gondel der Seilbahn auf den Berg Faito bei Neapel in Süditalien.  | Soccorso Alpino e Speleologico/Soccorso Alpino e Speleologico/AP/dpa" /></a> <br/> <br/>In der Nähe der italienischen Großstadt Neapel ist die Gondel einer Seilbahn abgestürzt, vier Menschen kamen ums Leben. Offenbar war das Zugseil gerissen. Die Insassen der zweiten Gondel mussten abgeseilt werden.[<a href="https://www.tagesschau.de/ausland/europa/seilbahnunglueck-neapel-100.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Nahost-Liveblog: ++ NGOs warnen vor Zusammenbruch der Gaza-Hilfe ++</title>
+      <link>https://www.tagesschau.de/newsticker/liveblog-nahost-donnerstag-256.html</link>
+      <description>Ein Bündnis aus NGOs warnt vor einem Zusammenbruch der humanitären Hilfe im Gazastreifen. Laut UN sind durch den Krieg in dem Palästinensergebiet eine halbe Million Menschen auf der Flucht.</description>
+      <pubDate>Thu, 17 Apr 2025 23:31:30 +0200</pubDate>
+      <guid>2f47a214-c78c-42d0-ae9a-e793b5e14ee3</guid>
+      <dc:date>2025-04-17T21:31:30Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/newsticker/liveblog-nahost-donnerstag-256.html"><img src="https://images.tagesschau.de/image/ff5ab847-8734-46d3-b469-14dc6dd7cd69/AAABlkTidfk/AAABkZLhkrw/16x9-1280/gazastreifen-palaestinenser-truemmer-100.jpg" alt="Menschen versammeln sich einem Ort im Gazastreifen, an dem eine Familie bei einem israelischen Angriff angeblich ums Leben gekommen sein soll. | REUTERS" /></a> <br/> <br/>Ein Bündnis aus NGOs warnt vor einem Zusammenbruch der humanitären Hilfe im Gazastreifen. Laut UN sind durch den Krieg in dem Palästinensergebiet eine halbe Million Menschen auf der Flucht.[<a href="https://www.tagesschau.de/newsticker/liveblog-nahost-donnerstag-256.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Russland und die Taliban: Von Terroristen zu Partnern</title>
+      <link>https://www.tagesschau.de/ausland/europa/russland-taliban-verbot-aufgehoben-100.html</link>
+      <description>Russlands Oberstes Gericht hat angeordnet, die Taliban von Moskaus Terrorliste zu streichen. Gespräche zwischen beiden Seiten gibt es schon länger. Wo liegen die gemeinsamen Interessen? Von Silke Diettrich.</description>
+      <pubDate>Thu, 17 Apr 2025 19:38:20 +0200</pubDate>
+      <guid>7035a42b-b40b-4825-b963-2325c27a5eab</guid>
+      <dc:date>2025-04-17T17:38:20Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/ausland/europa/russland-taliban-verbot-aufgehoben-100.html"><img src="https://images.tagesschau.de/image/e7d58ccd-bf79-4499-99fb-cd6b62ed8daa/AAABlkTUg2c/AAABkZLhkrw/16x9-1280/russland-oberstes-gericht-taliban-100.jpg" alt="Richter Oleg Nefjodow trägt das Urteil des Obersten Gerichts zur Streichung der Taliban von Russlands Terrorliste vor. | AP" /></a> <br/> <br/>Russlands Oberstes Gericht hat angeordnet, die Taliban von Moskaus Terrorliste zu streichen. Gespräche zwischen beiden Seiten gibt es schon länger. Wo liegen die gemeinsamen Interessen? <em>Von Silke Diettrich.</em>[<a href="https://www.tagesschau.de/ausland/europa/russland-taliban-verbot-aufgehoben-100.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Drei Jahre Haft nach Angriff auf jüdischen Studenten</title>
+      <link>https://www.tagesschau.de/inland/regional/berlin/angriff-juedischer-student-urteil-100.html</link>
+      <description>Wenige Monate nach dem Terrorangriff der Hamas auf Israel wurde 2024 ein jüdischer Student in Berlin attackiert. Ein Ex-Kommilitone gestand die Tat, bestritt aber ein antisemitisches Motiv. Nun gibt es ein Urteil.</description>
+      <pubDate>Thu, 17 Apr 2025 18:39:34 +0200</pubDate>
+      <guid>tagesschau_fm-story-rbb_angriff-shapira-jude-prozess</guid>
+      <dc:date>2025-04-17T16:39:34Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/inland/regional/berlin/angriff-juedischer-student-urteil-100.html"><img src="https://images.tagesschau.de/image/82ef8c81-d98e-4706-8296-0bd68a75f80c/AAABlkSQ8P0/AAABkZLhkrw/16x9-1280/rbb-prozess-lahav-shapira-100.jpg" alt="Archivbild:08.04.2025, Berlin: Sahin Sezer (2.v.r.), Vorsitzender Richter am Amtsgericht, steht beim Prozess wegen einer Attacke auf den jüdischen Studenten Lahav Shapira im Kriminalgericht Moabit.(Quelle:dpa/B.v.Jutrczenka) | dpa/B.v.Jutrczenka" /></a> <br/> <br/>Wenige Monate nach dem Terrorangriff der Hamas auf Israel wurde 2024 ein jüdischer Student in Berlin attackiert. Ein Ex-Kommilitone gestand die Tat, bestritt aber ein antisemitisches Motiv. Nun gibt es ein Urteil.[<a href="https://www.tagesschau.de/inland/regional/berlin/angriff-juedischer-student-urteil-100.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Gesundheitlich angeschlagener Papst reduziert Programm zu Ostern</title>
+      <link>https://www.tagesschau.de/ausland/europa/papst-osterfeierlichkeiten-teilnahme-100.html</link>
+      <description>Dieses Jahr finden viele Termine an Ostern ohne den angeschlagenen Papst statt. Die Messen etwa halten Kardinäle. Zuletzt war Franziskus immer wieder überraschend aufgetreten. Am Nachmittag besuchte er Insassen eines Gefängnisses.</description>
+      <pubDate>Thu, 17 Apr 2025 17:31:09 +0200</pubDate>
+      <guid>ec444453-0b41-46e1-bdfe-570bbdcf6ba3</guid>
+      <dc:date>2025-04-17T15:31:09Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/ausland/europa/papst-osterfeierlichkeiten-teilnahme-100.html"><img src="https://images.tagesschau.de/image/2a4bf018-64bb-47e6-90d0-17e0e78eaec0/AAABlkRKFho/AAABkZLhkrw/16x9-1280/papst-franziskus-414.jpg" alt="Papst Franziskus spricht zu Insassen eines Gefängnisses. | AP" /></a> <br/> <br/>Dieses Jahr finden viele Termine an Ostern ohne den angeschlagenen Papst statt. Die Messen etwa halten Kardinäle. Zuletzt war Franziskus immer wieder überraschend aufgetreten. Am Nachmittag besuchte er Insassen eines Gefängnisses.   [<a href="https://www.tagesschau.de/ausland/europa/papst-osterfeierlichkeiten-teilnahme-100.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Nach Kritik: Trump erhöht Druck auf Notenbankchef Powell</title>
+      <link>https://www.tagesschau.de/wirtschaft/powell-trump-us-wirtschaft-100.html</link>
+      <description>Am Mittwoch hatte Notenbank-Chef Powell die Zollpolitik von US-Präsident Trump kritisiert - jetzt schießt Trump zurück: Powells Entlassung könne "nicht schnell genug" kommen, schreibt der US-Präsident auf seiner Plattform.</description>
+      <pubDate>Thu, 17 Apr 2025 17:01:32 +0200</pubDate>
+      <guid>0bb98c54-aad4-4d04-8d6e-bb65e6092904</guid>
+      <dc:date>2025-04-17T15:01:32Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/wirtschaft/powell-trump-us-wirtschaft-100.html"><img src="https://images.tagesschau.de/image/33063ec3-71ec-4a5a-a174-7c85d082778a/AAABlbJAznI/AAABkZLhkrw/16x9-1280/trump-powell-104.jpg" alt="Der damalige US-Präsident Donald Trump und Federal Reserve Gouverneur Jerome Powell  im November 2017. | picture alliance / Photoshot" /></a> <br/> <br/>Am Mittwoch hatte Notenbank-Chef Powell die Zollpolitik von US-Präsident Trump kritisiert - jetzt schießt Trump zurück: Powells Entlassung könne "nicht schnell genug" kommen, schreibt der US-Präsident auf seiner Plattform.[<a href="https://www.tagesschau.de/wirtschaft/powell-trump-us-wirtschaft-100.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Bundeswehr erhält deutlich mehr Bewerbungen</title>
+      <link>https://www.tagesschau.de/inland/bundeswehr-bewerbungen-100.html</link>
+      <description>Die Bundeswehr hat Nachwuchssorgen. Nun soll ein neues Wehrdienst-Modell helfen. Die Zahl der Interessenten stieg zuletzt - laut einem Medienbericht auf rund 51.000 Bewerbungen.</description>
+      <pubDate>Thu, 17 Apr 2025 16:42:00 +0200</pubDate>
+      <guid>aa8612a7-037a-4a47-9aed-3aa509bb3741</guid>
+      <dc:date>2025-04-17T14:42:00Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/inland/bundeswehr-bewerbungen-100.html"><img src="https://images.tagesschau.de/image/fbdd3188-516a-4f4e-b5a8-e3b377e5a14f/AAABlkPhXTo/AAABkZLhkrw/16x9-1280/rekruten-114.jpg" alt="Rekruten stehen beim feierlichen Gelöbnis in Hannover. (Archivbild: 12.11.2024) | dpa" /></a> <br/> <br/>Die Bundeswehr hat Nachwuchssorgen. Nun soll ein neues Wehrdienst-Modell helfen. Die Zahl der Interessenten stieg zuletzt - laut einem Medienbericht auf rund 51.000 Bewerbungen.[<a href="https://www.tagesschau.de/inland/bundeswehr-bewerbungen-100.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Schwarz-rote Koalition sucht einen Wirtschaftsminister</title>
+      <link>https://www.tagesschau.de/inland/innenpolitik/wirtschaftsminister-schwarz-rot-100.html</link>
+      <description>Bisher wurde Carsten Linnemann als neuer Wirtschaftsminister gehandelt. Nach seiner Absage zeigt nun niemand mehr ernsthaftes Interesse an dem Ministerium. Und das hat gute Gründe. Von Jannik Pentz.</description>
+      <pubDate>Thu, 17 Apr 2025 16:23:05 +0200</pubDate>
+      <guid>f5668627-7bab-41cd-8d90-f47f3b161e84</guid>
+      <dc:date>2025-04-17T14:23:05Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/inland/innenpolitik/wirtschaftsminister-schwarz-rot-100.html"><img src="https://images.tagesschau.de/image/a8b667e3-c406-4c71-b54a-83a5666c97b9/AAABlkROrEQ/AAABkZLhkrw/16x9-1280/bundeswirtschaftsministerium-105.jpg" alt="Bundeswirtschaftsministerium in Berlin | picture alliance / Bildagentur-o" /></a> <br/> <br/>Bisher wurde Carsten Linnemann als neuer Wirtschaftsminister gehandelt. Nach seiner Absage zeigt nun niemand mehr ernsthaftes Interesse an dem Ministerium. Und das hat gute Gründe. <em>Von Jannik Pentz.</em>[<a href="https://www.tagesschau.de/inland/innenpolitik/wirtschaftsminister-schwarz-rot-100.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Spionage-Abwehr - Polen verbietet Fotos von Kritischer Infrastruktur</title>
+      <link>https://www.tagesschau.de/ausland/europa/polen-fotos-kritische-infrastruktur-100.html</link>
+      <description>Militäranlagen, Kraftwerke, Flughäfen: Eine neue Verordnung stellt das Fotografieren Kritischer Infrastruktur unter Strafe. Polen will sich so vor Spionage aus Russland schützen. Von Martin Adam.</description>
+      <pubDate>Thu, 17 Apr 2025 15:03:56 +0200</pubDate>
+      <guid>965f361e-345a-44f1-9e9c-045b9cef7465</guid>
+      <dc:date>2025-04-17T13:03:56Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/ausland/europa/polen-fotos-kritische-infrastruktur-100.html"><img src="https://images.tagesschau.de/image/d763b104-9db3-4154-a6be-5b92a4dc1b05/AAABlkOmfBw/AAABkZLhkrw/16x9-1280/mann-smartphone-foto-100.jpg" alt="Ein älterer Mann macht in Breslau ein Foto mit seinem Smartphone. | picture alliance / Westend61" /></a> <br/> <br/>Militäranlagen, Kraftwerke, Flughäfen: Eine neue Verordnung stellt das Fotografieren Kritischer Infrastruktur unter Strafe. Polen will sich so vor Spionage aus Russland schützen. <em>Von Martin Adam.</em>[<a href="https://www.tagesschau.de/ausland/europa/polen-fotos-kritische-infrastruktur-100.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Überraschung in der Krise: Sonderschichten bei VW in Wolfsburg</title>
+      <link>https://www.tagesschau.de/wirtschaft/unternehmen/sonderschichten-vw-100.html</link>
+      <description>Volkswagen machte zuletzt eher mit düsteren Nachrichten von sich reden. Doch im Stammwerk in Wolfsburg wurden nun sogar Zusatzschichten vereinbart.</description>
+      <pubDate>Thu, 17 Apr 2025 14:47:48 +0200</pubDate>
+      <guid>076e82ce-da67-41f8-9637-91360307fd4f</guid>
+      <dc:date>2025-04-17T12:47:48Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/wirtschaft/unternehmen/sonderschichten-vw-100.html"><img src="https://images.tagesschau.de/image/457c678c-5829-446d-b738-58d744b355c8/AAABlkOdNWU/AAABkZLhkrw/16x9-1280/vw-924.jpg" alt="Mitarbeiter arbeiten im VW Stammwerk im Karosseriebau an Neuwagen Volkswagen Tayron und Tiguan. | picture alliance/dpa" /></a> <br/> <br/>Volkswagen machte zuletzt eher mit düsteren Nachrichten von sich reden. Doch im Stammwerk in Wolfsburg wurden nun sogar Zusatzschichten vereinbart.[<a href="https://www.tagesschau.de/wirtschaft/unternehmen/sonderschichten-vw-100.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>EZB senkt Leitzins auf 2,25 Prozent</title>
+      <link>https://www.tagesschau.de/wirtschaft/ezb-senkung-leitzins-100.html</link>
+      <description>Die Europäische Zentralbank bleibt auf ihrem Zinssenkungskurs und setzt den Leitzins ein weiteres Mal um 0,25 Prozentpunkte nach unten. Doch vor allem die Zollpolitik der USA schürt ein bleibendes Gefühl der Unsicherheit.</description>
+      <pubDate>Thu, 17 Apr 2025 15:56:15 +0200</pubDate>
+      <guid>43f52404-528d-434d-b6bb-676680229da9</guid>
+      <dc:date>2025-04-17T13:56:15Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/wirtschaft/ezb-senkung-leitzins-100.html"><img src="https://images.tagesschau.de/image/3075f22c-3b46-4df0-837f-e939a99fce8f/AAABldof0L0/AAABkZLhkrw/16x9-1280/ezb-464.jpg" alt="Hauptsitz der Europäischen Zentralbank (EZB) in Frankfurt am Main. | picture alliance/dpa" /></a> <br/> <br/>Die Europäische Zentralbank bleibt auf ihrem Zinssenkungskurs und setzt den Leitzins ein weiteres Mal um 0,25 Prozentpunkte nach unten. Doch vor allem die Zollpolitik der USA schürt ein bleibendes Gefühl der Unsicherheit.[<a href="https://www.tagesschau.de/wirtschaft/ezb-senkung-leitzins-100.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Pro-palästinensischer Protest hinterlässt beschädigten Hörsaal</title>
+      <link>https://www.tagesschau.de/inland/regional/berlin/beschaedigter-hoersaal-nicht-nutzbar-100.html</link>
+      <description>In Berlin hatten pro-palästinensische Demonstranten einen Hörsaal der Berliner Humboldt-Universität gestürmt und vorübergehend besetzt. Nun wurden massive Schäden sichtbar - der Raum ist wohl wochenlang nicht mehr nutzbar.</description>
+      <pubDate>Thu, 17 Apr 2025 13:18:54 +0200</pubDate>
+      <guid>tagesschau_fm-story-rbb_berlin-hoersaal-humboldt-universitaet-besetzt-campus-nord-hoersaal-kaputt</guid>
+      <dc:date>2025-04-17T11:18:54Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/inland/regional/berlin/beschaedigter-hoersaal-nicht-nutzbar-100.html"><img src="https://images.tagesschau.de/image/1ec9eb49-025a-46b0-b45c-da5de5fad455/AAABlkMR5Qs/AAABkZLhkrw/16x9-1280/rbb-video-rbb24-16-04-2025-material-rbb24-abendschau-100.jpg" alt="Archivbild:16.04.2025, Berlin: Ein Aktivist hebt die Faust auf einem Balkon in einem Gebäude am Campus Nord der Humboldt-Universität (HU) und steht neben einem Banner mit Forderungen gegen Abschiebungen.(Quelle:dpa/C.Gateau) | dpa/C.Gateau" /></a> <br/> <br/>In Berlin hatten pro-palästinensische Demonstranten einen Hörsaal der Berliner Humboldt-Universität gestürmt und vorübergehend besetzt. Nun wurden massive Schäden sichtbar - der Raum ist wohl wochenlang nicht mehr nutzbar.[<a href="https://www.tagesschau.de/inland/regional/berlin/beschaedigter-hoersaal-nicht-nutzbar-100.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Starke Niederschläge in der Schweiz und Italien</title>
+      <link>https://www.tagesschau.de/ausland/europa/unwetter-italien-schweiz-100.html</link>
+      <description>Lawinengefahr in der Schweiz, Hochwasser in Italien: Starke Niederschläge stellen mehrere Regionen vor Probleme. Bei Turin ertrank ein 92-jähriger Mann in einem von Wasser eingeschlossenen Haus.</description>
+      <pubDate>Thu, 17 Apr 2025 17:56:28 +0200</pubDate>
+      <guid>bc253ae5-c41d-45fe-b5e5-8693f368a1d9</guid>
+      <dc:date>2025-04-17T15:56:28Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/ausland/europa/unwetter-italien-schweiz-100.html"><img src="https://images.tagesschau.de/image/600051a7-47f9-44d7-89d0-6b3854daefc7/AAABlkNQ6n4/AAABkZLhkrw/16x9-1280/italien-592.jpg" alt="Eine Person beobachtet einen überlaufenden Fluss, den Po, bei starkem Regen in Turin, Italien. | EPA" /></a> <br/> <br/>Lawinengefahr in der Schweiz, Hochwasser in Italien: Starke Niederschläge stellen mehrere Regionen vor Probleme. Bei Turin ertrank ein 92-jähriger Mann in einem von Wasser eingeschlossenen Haus.[<a href="https://www.tagesschau.de/ausland/europa/unwetter-italien-schweiz-100.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+  </channel>
+</rss>

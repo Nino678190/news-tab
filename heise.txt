@@ -1,0 +1,2091 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title type="text">heise online News</title><subtitle type="html"><![CDATA[Nachrichten nicht nur aus der Welt der Computer]]></subtitle>
+    <updated>2025-04-18T18:04:00+02:00</updated>
+    <id>https://www.heise.de/rss/heise-atom.xml</id>
+    <author>
+        <name>heise online</name><uri>https://www.heise.de</uri>
+    </author>
+    
+    <link rel="self" type="application/atom+xml" href="https://www.heise.de/rss/heise-atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://www.heise.de/"/>
+    <rights>Copyright (c) 2025 Heise Medien</rights>
+    
+    <entry>
+        <title type="html"><![CDATA[Werft-Wechsel: Forschungsschiff Meteor IV fährt letztem Bauschritt entgegen]]></title>
+        <id>http://heise.de/-10356693</id>
+        <updated>2025-04-18T18:04:00+02:00</updated>
+        <published>2025-04-18T18:04:00+02:00</published>
+        <link href="https://www.heise.de/news/Werft-Wechsel-Forschungsschiff-Meteor-IV-faehrt-letztem-Bauschritt-entgegen-10356693.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Kristina Beer</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Das Forschungsschiff Meteor IV hat sich am Karfreitag auf den Weg zu seinem letzten Bauschritt gemacht. Es soll gleich zwei Forschungsschiffe ablösen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Werft-Wechsel-Forschungsschiff-Meteor-IV-faehrt-letztem-Bauschritt-entgegen-10356693.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/4/0/0/7/1/meteor_research_vessel_exterior_1240x530-47f8529cddc7250e.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Das Forschungsschiff Meteor IV hat sich am Karfreitag auf den Weg zu seinem letzten Bauschritt gemacht. Es soll gleich zwei Forschungsschiffe ablösen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[ChatGPT kann jetzt deutlich präziser Standorte von Bildern lokalisieren]]></title>
+        <id>http://heise.de/-10356706</id>
+        <updated>2025-04-18T17:56:00+02:00</updated>
+        <published>2025-04-18T17:56:00+02:00</published>
+        <link href="https://www.heise.de/news/ChatGPT-kann-jetzt-deutlich-praeziser-Standorte-von-Bildern-lokalisieren-10356706.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Niklas Jan Engelking</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Herausfinden, wo ein fremdes Foto aufgenommen wurde – das geht mit einer neuen ChatGPT-Funktion deutlich genauer. ]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/ChatGPT-kann-jetzt-deutlich-praeziser-Standorte-von-Bildern-lokalisieren-10356706.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/4/0/0/8/0/shutterstock_2253487389-d447dffde1291cdd.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Herausfinden, wo ein fremdes Foto aufgenommen wurde – das geht mit einer neuen ChatGPT-Funktion deutlich genauer. </p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Steelseries Apex Pro TKL Wireless im Test: Gaming-Tastatur mit OLED-Display]]></title>
+        <id>http://heise.de/-10356435</id>
+        <updated>2025-04-18T16:00:00+02:00</updated>
+        <published>2025-04-18T16:00:00+02:00</published>
+        <link href="https://www.heise.de/bestenlisten/testbericht/steelseries-apex-pro-tkl-im-test/h6l1c08?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html"><![CDATA[Die Steelseries Apex Pro TKL besticht durch ein phänomenales Tippgefühl, hohe Individualisierbarkeit dank magnetisch-mechanischer Schalter.]]></summary>
+        <content type="html"><![CDATA[<p>Die Steelseries Apex Pro TKL besticht durch ein phänomenales Tippgefühl, hohe Individualisierbarkeit dank magnetisch-mechanischer Schalter.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Umweltbewusstes Online-Shopping – Frauen etwas achtsamer]]></title>
+        <id>http://heise.de/-10356626</id>
+        <updated>2025-04-18T15:56:00+02:00</updated>
+        <published>2025-04-18T15:56:00+02:00</published>
+        <link href="https://www.heise.de/news/Umweltbewusstes-Online-Shopping-Frauen-etwas-achtsamer-10356626.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Kristina Beer</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Ist online oder stationär einkaufen umweltfreundlicher? Der Bitkom warnt vor Pauschalurteilen. Und Frauen bemühen sich etwas mehr, Emissionen zu sparen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Umweltbewusstes-Online-Shopping-Frauen-etwas-achtsamer-10356626.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/4/0/0/3/6/shutterstock_1711140016-11d9a7e95a68ae3a.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Ist online oder stationär einkaufen umweltfreundlicher? Der Bitkom warnt vor Pauschalurteilen. Und Frauen bemühen sich etwas mehr, Emissionen zu sparen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[IT-Panne: Hunderte arbeiten mit veralteten Sicherheitschecks an deutschen AKWs]]></title>
+        <id>http://heise.de/-10356595</id>
+        <updated>2025-04-18T14:52:00+02:00</updated>
+        <published>2025-04-18T14:52:00+02:00</published>
+        <link href="https://www.heise.de/news/IT-Panne-Hunderte-Sicherheitsueberpruefungen-fuer-norddeutschen-AKW-Rueckbau-fehlen-10356595.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Niklas Jan Engelking</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Um am Rückbau deutscher Atomkraftwerke mitzuarbeiten, bedarf es einer Sicherheitsüberprüfung. In Schleswig-Holstein ist sie zurzeit technisch nicht möglich.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/IT-Panne-Hunderte-Sicherheitsueberpruefungen-fuer-norddeutschen-AKW-Rueckbau-fehlen-10356595.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/4/0/0/2/0/Gelaende_des_Kernkraftwerk_Isar__KKI_-63455a0a6518184b-50e8b30d1b6ac508.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Um am Rückbau deutscher Atomkraftwerke mitzuarbeiten, bedarf es einer Sicherheitsüberprüfung. In Schleswig-Holstein ist sie zurzeit technisch nicht möglich.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Neuer "Star Wars"-Film mit Ryan Gosling erscheint im Mai 2027]]></title>
+        <id>http://heise.de/-10356599</id>
+        <updated>2025-04-18T14:03:00+02:00</updated>
+        <published>2025-04-18T14:03:00+02:00</published>
+        <link href="https://www.heise.de/news/Neuer-Star-Wars-Film-mit-Ryan-Gosling-erscheint-im-Mai-2027-10356599.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Wilhelm Drehling</name>
+        </author>
+        
+        <summary type="html"><![CDATA[1977 kam der erste "Krieg der Sterne"-Film in die Kinos. 50 Jahre später soll es einen neuen Film mit Ryan Gosling in der Hauptrolle geben.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Neuer-Star-Wars-Film-mit-Ryan-Gosling-erscheint-im-Mai-2027-10356599.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/4/0/0/2/2/shutterstock_1708856893-3ca3fa29d417c1b6.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>1977 kam der erste "Krieg der Sterne"-Film in die Kinos. 50 Jahre später soll es einen neuen Film mit Ryan Gosling in der Hauptrolle geben.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[ Nächstes US-Gericht sieht bei Google illegales Monopol]]></title>
+        <id>http://heise.de/-10356579</id>
+        <updated>2025-04-18T13:07:00+02:00</updated>
+        <published>2025-04-18T13:07:00+02:00</published>
+        <link href="https://www.heise.de/news/Naechstes-US-Gericht-sieht-bei-Google-illegales-Monopol-10356579.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Niklas Jan Engelking</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Google geriet in den vergangenen Jahren verstärkt unter Druck von Wettbewerbshütern in den USA. Nun folgt vor Gericht die nächste Schlappe.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Naechstes-US-Gericht-sieht-bei-Google-illegales-Monopol-10356579.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/4/0/0/1/2/shutterstock_2131206415-bb8b771e425cdc57.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Google geriet in den vergangenen Jahren verstärkt unter Druck von Wettbewerbshütern in den USA. Nun folgt vor Gericht die nächste Schlappe.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[heise-Angebot: iX-Workshop: Kubernetes für Linux-Administratoren]]></title>
+        <id>http://heise.de/-10344392</id>
+        <updated>2025-04-18T13:00:00+02:00</updated>
+        <published>2025-04-18T13:00:00+02:00</published>
+        <link href="https://www.heise.de/news/iX-Workshop-Kubernetes-fuer-Linux-Administratoren-10344392.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Ilona Krause</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Von der Automatisierung bis zur Wartung - Ein praxisorientierter Einstieg in die Container-Orchestrierung mit Kubernetes.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/iX-Workshop-Kubernetes-fuer-Linux-Administratoren-10344392.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/3/6/6/5/kubernetes_fuer_linux-administratoren_ticker-1920x1080px-303975abf4570831.png" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Von der Automatisierung bis zur Wartung - Ein praxisorientierter Einstieg in die Container-Orchestrierung mit Kubernetes.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Koalitionsvertrag: Digitalministerium "nicht nur auf dem Klingelschild"]]></title>
+        <id>http://heise.de/-10356569</id>
+        <updated>2025-04-18T12:56:00+02:00</updated>
+        <published>2025-04-18T12:56:00+02:00</published>
+        <link href="https://www.heise.de/news/Koalitionsvertrag-Digitalministerium-nicht-nur-auf-dem-Klingelschild-10356569.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>dpa</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Ein Ministerium für Digitales gab es auf Bundesebene bisher nicht. Die künftige Bundesregierung will eines aufbauen, aber was soll die neue Behörde machen?]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Koalitionsvertrag-Digitalministerium-nicht-nur-auf-dem-Klingelschild-10356569.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/4/0/0/0/7/shutterstock_2327001717-fc1747a2d3dc4ccc.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Ein Ministerium für Digitales gab es auf Bundesebene bisher nicht. Die künftige Bundesregierung will eines aufbauen, aber was soll die neue Behörde machen?</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[heise+ | heise+ Update vom 18. April 2025: Lesetipps fürs Osterwochenende ]]></title>
+        <id>http://heise.de/-10355312</id>
+        <updated>2025-04-18T12:00:00+02:00</updated>
+        <published>2025-04-18T12:00:00+02:00</published>
+        <link href="https://www.heise.de/news/heise-Update-vom-18-April-2025-Lesetipps-fuers-Osterwochenende-10355312.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"/>
+        <author>
+            <name>Michaela Gebauer</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Der wöchentliche Newsletter von heise+ mit den Themen: Pollen-Assistant, Investieren in deutsche Unternehmen, Google Pixel 9a, Supermarkt-IT und Expertentalk.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/heise-Update-vom-18-April-2025-Lesetipps-fuers-Osterwochenende-10355312.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/3/4/3/heiseplus_red-update_1700x955px_Michaela-b597d6fa8920c0e1.png" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Der wöchentliche Newsletter von heise+ mit den Themen: Pollen-Assistant, Investieren in deutsche Unternehmen, Google Pixel 9a, Supermarkt-IT und Expertentalk.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Netflix setzt KI bei Produktionen ein und veröffentlicht Quartalszahlen]]></title>
+        <id>http://heise.de/-10356539</id>
+        <updated>2025-04-18T11:52:00+02:00</updated>
+        <published>2025-04-18T11:52:00+02:00</published>
+        <link href="https://www.heise.de/news/Netflix-setzt-KI-bei-Produktionen-ein-und-veroeffentlicht-Quartalszahlen-10356539.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Wilhelm Drehling</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Der Streamingdienst Netflix benutzt KI in seinen Produktionen. Zudem übertrifft Netflix mit den jüngsten Quartalszahlen die Erwartungen von Analysten.
+]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Netflix-setzt-KI-bei-Produktionen-ein-und-veroeffentlicht-Quartalszahlen-10356539.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/9/9/1/shutterstock_2361923019-fa6bdfe8ebd8c5f0.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Der Streamingdienst Netflix benutzt KI in seinen Produktionen. Zudem übertrifft Netflix mit den jüngsten Quartalszahlen die Erwartungen von Analysten.
+</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[#TGIQF: Frühlingsquiz – das sind unsere spannendsten News der Woche]]></title>
+        <id>http://heise.de/-10356396</id>
+        <updated>2025-04-18T11:45:00+02:00</updated>
+        <published>2025-04-18T11:45:00+02:00</published>
+        <link href="https://www.heise.de/news/TGIQF-Fruehlingsquiz-das-sind-unsere-spannendsten-News-der-Woche-10356396.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Markus Will</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Der heise online-Newsticker bot in dieser Woche wieder spannende News, die Sie in unserem Quiz noch einmal in Erinnerung rufen können. Knobeln Sie mit!]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/TGIQF-Fruehlingsquiz-das-sind-unsere-spannendsten-News-der-Woche-10356396.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/9/1/5/Overlay_TGIQF_29_-fccf832783aba730.png" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Der heise online-Newsticker bot in dieser Woche wieder spannende News, die Sie in unserem Quiz noch einmal in Erinnerung rufen können. Knobeln Sie mit!</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[ EU-Kommission will Reparierbarkeitsindex für Haushaltsgeräte einführen]]></title>
+        <id>http://heise.de/-10356468</id>
+        <updated>2025-04-18T11:42:00+02:00</updated>
+        <published>2025-04-18T11:42:00+02:00</published>
+        <link href="https://www.heise.de/news/EU-Kommission-will-Reparierbarkeitsindex-fuer-Haushaltsgeraete-einfuehren-10356468.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Stefan Krempl</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Die EU-Kommission wird neue Anforderungen an die Reparierbarkeit von Produkten wie Unterhaltungselektronik aufstellen. Es geht um die Ökodesign-Verordnung.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/EU-Kommission-will-Reparierbarkeitsindex-fuer-Haushaltsgeraete-einfuehren-10356468.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/9/5/5/shutterstock_377577979-6a91b879ef5dfbb5.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Die EU-Kommission wird neue Anforderungen an die Reparierbarkeit von Produkten wie Unterhaltungselektronik aufstellen. Es geht um die Ökodesign-Verordnung.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[heise-Angebot: Der heise Osterkalender 2025: Täglich neue Angebote und Geschenke]]></title>
+        <id>http://heise.de/-10353410</id>
+        <updated>2025-04-18T10:00:00+02:00</updated>
+        <published>2025-04-18T10:00:00+02:00</published>
+        <link href="https://www.heise.de/news/Der-heise-Osterkalender-2025-Taeglich-neue-Angebote-und-Geschenke-10353410.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Florian Papenfuß</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Tolle heise-Angebote, zahlreiche Gratis-Vollversionen – und die Chance auf 96 tolle Gewinne: der heise Osterkalender ist am 14. April zum ersten Mal gestartet!]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Der-heise-Osterkalender-2025-Taeglich-neue-Angebote-und-Geschenke-10353410.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/3/5/8/der-heise-osterkalender-2025-aufmacher-2313bf6b4602200c.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Tolle heise-Angebote, zahlreiche Gratis-Vollversionen – und die Chance auf 96 tolle Gewinne: der heise Osterkalender ist am 14. April zum ersten Mal gestartet!</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Rückschau secIT 2025 – alte Gefahren in neuem Gewand]]></title>
+        <id>http://heise.de/-10354246</id>
+        <updated>2025-04-18T09:30:00+02:00</updated>
+        <published>2025-04-18T09:30:00+02:00</published>
+        <link href="https://www.heise.de/hintergrund/Rueckschau-secIT-2025-alte-Gefahren-in-neuem-Gewand-10354246.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Kornelius Kindermann</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Auf der IT-Security-Konferenzmesse zeigt sich KI weiter als Gefahrenmultiplikator. Die moderne Cloud- und Lieferkettenkomplexität potenziert Sicherheitsrisiken.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/hintergrund/Rueckschau-secIT-2025-alte-Gefahren-in-neuem-Gewand-10354246.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/7/8/5/pxl_20250320_17185ssdssdsf2228-9ff6e20c831ad36f.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Auf der IT-Security-Konferenzmesse zeigt sich KI weiter als Gefahrenmultiplikator. Die moderne Cloud- und Lieferkettenkomplexität potenziert Sicherheitsrisiken.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Manjaro Linux 25 "Zetar" bringt neue Desktop-Versionen]]></title>
+        <id>http://heise.de/-10356355</id>
+        <updated>2025-04-18T09:00:00+02:00</updated>
+        <published>2025-04-18T09:00:00+02:00</published>
+        <link href="https://www.heise.de/news/Manjaro-Linux-25-Zetar-bringt-neue-Desktop-Versionen-10356355.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Liane M. Dubowy</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Manjaro Linux 25.0 mit dem Code-Namen Zetar bringt aktuelle Versionen von Gnome, Plasma und Xfce mit. Auch die Immutable-Variante macht Fortschritte.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Manjaro-Linux-25-Zetar-bringt-neue-Desktop-Versionen-10356355.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/8/9/3/manjaro_gnome_02-085de3f6e557bf83.png" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Manjaro Linux 25.0 mit dem Code-Namen Zetar bringt aktuelle Versionen von Gnome, Plasma und Xfce mit. Auch die Immutable-Variante macht Fortschritte.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Neu in .NET 9.0 [17]: Neue Mengenklasse ReadOnlySet<T>]]></title>
+        <id>http://heise.de/-10353850</id>
+        <updated>2025-04-18T08:57:00+02:00</updated>
+        <published>2025-04-18T08:57:00+02:00</published>
+        <link href="https://www.heise.de/blog/Neu-in-NET-9-0-17-Neue-Mengenklasse-ReadOnlySet-T-10353850.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Dr. Holger Schwichtenberg</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Die neue Klasse ReadOnlySet<T> vervollständigt die Nur-Lese-Mengen in .NET. ]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/blog/Neu-in-NET-9-0-17-Neue-Mengenklasse-ReadOnlySet-T-10353850.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/5/8/4/dotnet-sign-b922a1793256c1e8.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Die neue Klasse ReadOnlySet<T> vervollständigt die Nur-Lese-Mengen in .NET. </p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Auslegungssache 132: KI-Verordnung und Datenschutz – ein schwieriges Verhältnis]]></title>
+        <id>http://heise.de/-10355964</id>
+        <updated>2025-04-18T06:00:00+02:00</updated>
+        <published>2025-04-18T06:00:00+02:00</published>
+        <link href="https://www.heise.de/hintergrund/Auslegungssache-132-KI-Verordnung-und-Datenschutz-ein-schwieriges-Verhaeltnis-10355964.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Holger Bleich</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Inwieweit sind KI-Verordnung und DSGVO in der Praxis vereinbar? In der neuen Folge des c't-Datenschutz-Podcasts ist dazu Prof. Rolf Schwartmann zu Gast. ]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/hintergrund/Auslegungssache-132-KI-Verordnung-und-Datenschutz-ein-schwieriges-Verhaeltnis-10355964.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/6/8/5/pas132_teaser-bd5227f7cf3432e3.png" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Inwieweit sind KI-Verordnung und DSGVO in der Praxis vereinbar? In der neuen Folge des c't-Datenschutz-Podcasts ist dazu Prof. Rolf Schwartmann zu Gast. </p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Top 10: Das beste Ladegerät fürs Handy bis 65 Watt – billig lädt schneller]]></title>
+        <id>http://heise.de/-10356300</id>
+        <updated>2025-04-17T20:00:00+02:00</updated>
+        <published>2025-04-17T20:00:00+02:00</published>
+        <link href="https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-ladegeraet-fuers-handy/y3c3lpe?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html"><![CDATA[Um Handys zu laden, benötigt man kein teures Ladegerät. Wir haben USB-Netzteile bis 65 Watt auf ihre Leistungsfähigkeit getestet und zeigen die besten Modelle.]]></summary>
+        <content type="html"><![CDATA[<p>Um Handys zu laden, benötigt man kein teures Ladegerät. Wir haben USB-Netzteile bis 65 Watt auf ihre Leistungsfähigkeit getestet und zeigen die besten Modelle.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Polizei warnt vor Betrug bei britischer Einreiseerlaubnis – mit falscher URL]]></title>
+        <id>http://heise.de/-10356319</id>
+        <updated>2025-04-17T18:55:00+02:00</updated>
+        <published>2025-04-17T18:55:00+02:00</published>
+        <link href="https://www.heise.de/news/Polizei-warnt-vor-Betrug-bei-britischer-Einreiseerlaubnis-mit-falscher-URL-10356319.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Martin Holland</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Für Reisen nach Großbritannien braucht man eine elektronische Erlaubnis. Bei einer Warnung vor einer Betrugsmasche unterläuft der Polizei selbst ein Fehler.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Polizei-warnt-vor-Betrug-bei-britischer-Einreiseerlaubnis-mit-falscher-URL-10356319.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/8/7/5/shutterstock_2404056471-f1844a4a111d0573.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Für Reisen nach Großbritannien braucht man eine elektronische Erlaubnis. Bei einer Warnung vor einer Betrugsmasche unterläuft der Polizei selbst ein Fehler.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Neue PC-Spiele im Mai 2025: "Doom: The Dark Ages"]]></title>
+        <id>http://heise.de/-10355696</id>
+        <updated>2025-04-17T18:22:00+02:00</updated>
+        <published>2025-04-17T18:22:00+02:00</published>
+        <link href="https://www.heise.de/news/Neue-PC-Spiele-im-Mai-2025-Doom-The-Dark-Ages-10355696.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Sebastian Minnich</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Im Mai geht der Ego-Shooter "Doom: The Dark Ages" an den Start. Außerdem wird "Elden Ring Nightreign" veröffentlicht.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Neue-PC-Spiele-im-Mai-2025-Doom-The-Dark-Ages-10355696.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/5/4/2/_aufmacher-f697c5d95a3fa259.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Im Mai geht der Ego-Shooter "Doom: The Dark Ages" an den Start. Außerdem wird "Elden Ring Nightreign" veröffentlicht.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Vision Pro 2, Apples Immersive-Utility, Webcam-Support | TNBT-Podcast ]]></title>
+        <id>http://heise.de/-10356294</id>
+        <updated>2025-04-17T17:31:00+02:00</updated>
+        <published>2025-04-17T17:31:00+02:00</published>
+        <link href="https://www.heise.de/news/Vision-Pro-2-Apples-Immersive-Utility-Webcam-Support-TNBT-Podcast-10356294.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Leo Becker</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Themen: Gerüchte zu neuer Vision-Hardware und Metas Hypernova, was das Apple Immersive Video Utility bringt und externe Kameras an der Vision Pro.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Vision-Pro-2-Apples-Immersive-Utility-Webcam-Support-TNBT-Podcast-10356294.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/8/6/2/2023_TNBT_16_9-01ebf5634d4ce8d7.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Themen: Gerüchte zu neuer Vision-Hardware und Metas Hypernova, was das Apple Immersive Video Utility bringt und externe Kameras an der Vision Pro.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Smartes Wohnen für Senioren: Forschung im AAL Living Lab]]></title>
+        <id>http://heise.de/-10353575</id>
+        <updated>2025-04-17T17:30:00+02:00</updated>
+        <published>2025-04-17T17:30:00+02:00</published>
+        <link href="https://www.heise.de/hintergrund/Smartes-Wohnen-fuer-Senioren-Forschung-im-AAL-Living-Lab-10353575.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Daniel Augustin</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Wie smarte Technik älteren Menschen hilft, länger selbstständig zu leben – Einblick in das AAL Living Lab der Hochschule Kempten.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/hintergrund/Smartes-Wohnen-fuer-Senioren-Forschung-im-AAL-Living-Lab-10353575.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/4/4/1/Aufmahcer_AAL_V1-d7381a5fb5212abe.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Wie smarte Technik älteren Menschen hilft, länger selbstständig zu leben – Einblick in das AAL Living Lab der Hochschule Kempten.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[5G-Mobilfunk: Belastung für "Elektrosensible" nicht nachweisbar]]></title>
+        <id>http://heise.de/-10356282</id>
+        <updated>2025-04-17T17:28:00+02:00</updated>
+        <published>2025-04-17T17:28:00+02:00</published>
+        <link href="https://www.heise.de/news/Bundesregierung-5G-hat-Mobilfunk-Strahlenbelastung-nicht-wesentlich-verstaerkt-10356282.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Stefan Krempl</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Steigende Datenübertragungsmengen erfordern eine ständige Weiterentwicklung des Mobilfunks. Bei der Strahlung sieht die Regierung aber keinen Grund zur Panik.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Bundesregierung-5G-hat-Mobilfunk-Strahlenbelastung-nicht-wesentlich-verstaerkt-10356282.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/8/5/6/5g-mobilfunk-symbol-07-qualcomm-mwc-2019-260219-vbr-da56bb007467e2b1.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Steigende Datenübertragungsmengen erfordern eine ständige Weiterentwicklung des Mobilfunks. Bei der Strahlung sieht die Regierung aber keinen Grund zur Panik.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Britische Armee schießt erfolgreich Drohnenschwärme mit Energiewaffe ab ]]></title>
+        <id>http://heise.de/-10356125</id>
+        <updated>2025-04-17T16:54:00+02:00</updated>
+        <published>2025-04-17T16:54:00+02:00</published>
+        <link href="https://www.heise.de/news/Britische-Armee-schiesst-erfolgreich-Drohnenschwaerme-mit-Energiewaffe-ab-10356125.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Alex Cameron Hall</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Die britische Armee testet eine Energiewaffe auf Basis von Radiowellen, um Drohnenschwärme zu zerstören. Das System besticht durch geringe Einsatzkosten.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Britische-Armee-schiesst-erfolgreich-Drohnenschwaerme-mit-Energiewaffe-ab-10356125.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/7/7/7/shutterstock_782313298-873699a3f2b1de9b.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Die britische Armee testet eine Energiewaffe auf Basis von Radiowellen, um Drohnenschwärme zu zerstören. Das System besticht durch geringe Einsatzkosten.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[heise+ | Thermomix TM7: Smarte Küchenmaschine im Test]]></title>
+        <id>http://heise.de/-10344237</id>
+        <updated>2025-04-17T16:50:00+02:00</updated>
+        <published>2025-04-17T16:50:00+02:00</published>
+        <link href="https://www.heise.de/tests/Thermomix-TM7-Smarte-Kuechenmaschine-im-Test-10344237.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"/>
+        <author>
+            <name>Alexander Spier</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Der neue Thermomix ist leiser, schlanker und hat ein größeres Display als sein Vorgänger. Wir testen in unserer Küche, ob die Neuauflage den Preis rechtfertigt.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/tests/Thermomix-TM7-Smarte-Kuechenmaschine-im-Test-10344237.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/3/5/8/5/PXL_20250417_091114720-2f11576aa88491e7.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Der neue Thermomix ist leiser, schlanker und hat ein größeres Display als sein Vorgänger. Wir testen in unserer Küche, ob die Neuauflage den Preis rechtfertigt.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[TSMC: GPUs gleichen schwächelnde Smartphones aus]]></title>
+        <id>http://heise.de/-10356046</id>
+        <updated>2025-04-17T16:48:00+02:00</updated>
+        <published>2025-04-17T16:48:00+02:00</published>
+        <link href="https://www.heise.de/news/TSMC-GPUs-gleichen-schwaechelnde-Smartphones-aus-10356046.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Mark Mantel</name>
+        </author>
+        
+        <summary type="html"><![CDATA[TSMC wächst dank der Nachfrage nach modernen Halbleitern. KI-Beschleuniger dämpfen den schwächelnden Endkundenmarkt.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/TSMC-GPUs-gleichen-schwaechelnde-Smartphones-aus-10356046.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/7/3/7/Wafer3_rgb-4968c2d8028bc1b1.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>TSMC wächst dank der Nachfrage nach modernen Halbleitern. KI-Beschleuniger dämpfen den schwächelnden Endkundenmarkt.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Ich versuche, KI-Bilder zu erkennen | Quiz]]></title>
+        <id>http://heise.de/-10356005</id>
+        <updated>2025-04-17T16:04:00+02:00</updated>
+        <published>2025-04-17T16:04:00+02:00</published>
+        <link href="https://www.heise.de/news/Kann-ich-alle-KI-Bilder-erkennen-10356005.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Jan-Keno Janssen</name>
+        </author>
+        
+        <summary type="html"><![CDATA[GPT-4o erzeugt erschreckend realistische Bilder. c't 3003 prüft, ob man die neuen KI-Generationen noch entlarven kann. Außerdem: Tipps zum Erkennen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Kann-ich-alle-KI-Bilder-erkennen-10356005.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/7/1/4/3003_Thumb_KIQuiz_v5-29b21cfa3ef2a3f9.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>GPT-4o erzeugt erschreckend realistische Bilder. c't 3003 prüft, ob man die neuen KI-Generationen noch entlarven kann. Außerdem: Tipps zum Erkennen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Samsung Galaxy A36 im Test: Richtig gut, unter 300 Euro, 6 Jahre Updates]]></title>
+        <id>http://heise.de/-10356068</id>
+        <updated>2025-04-17T16:00:00+02:00</updated>
+        <published>2025-04-17T16:00:00+02:00</published>
+        <link href="https://www.heise.de/bestenlisten/testbericht/samsung-galaxy-a36-5g-im-test/mhxnsxl?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html"><![CDATA[Das Samsung Galaxy A36 ist ein Smartphone für den schmalen Geldbeutel, überrascht aber mit guter Ausstattung. Wie es sich im Alltag schlägt, zeigt der Test.]]></summary>
+        <content type="html"><![CDATA[<p>Das Samsung Galaxy A36 ist ein Smartphone für den schmalen Geldbeutel, überrascht aber mit guter Ausstattung. Wie es sich im Alltag schlägt, zeigt der Test.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[VW fährt im Werk Wolfsburg Sonderschichten wegen hoher Nachfrage]]></title>
+        <id>http://heise.de/-10356028</id>
+        <updated>2025-04-17T15:55:00+02:00</updated>
+        <published>2025-04-17T15:55:00+02:00</published>
+        <link href="https://www.heise.de/news/VW-faehrt-im-Werk-Wolfsburg-Sonderschichten-wegen-hoher-Nachfrage-10356028.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>dpa</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Eigentlich leidet VW unter Überkapazitäten. Die aktuellen Sonderschichten in Wolfsburg verdankt VW der Beliebtheit des Tiguan.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/VW-faehrt-im-Werk-Wolfsburg-Sonderschichten-wegen-hoher-Nachfrage-10356028.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/7/2/8/Tiguan_Fertigung_WOB-42bd291b8cc79c09.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Eigentlich leidet VW unter Überkapazitäten. Die aktuellen Sonderschichten in Wolfsburg verdankt VW der Beliebtheit des Tiguan.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Windows-Insider: Microsoft verpasst Snipping-Tool bequemere Texterkennung]]></title>
+        <id>http://heise.de/-10356036</id>
+        <updated>2025-04-17T15:49:00+02:00</updated>
+        <published>2025-04-17T15:49:00+02:00</published>
+        <link href="https://www.heise.de/news/Windows-Insider-Microsoft-verpasst-Snipping-Tool-Texterkennung-10356036.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Andreas Floemer</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Microsoft verteilt eine aktualisierte Version des Snipping-Tools im Windows-Insider-Kanal. Die aktualisierte App kann jetzt bequemer Text extrahieren. ]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Windows-Insider-Microsoft-verpasst-Snipping-Tool-Texterkennung-10356036.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/7/3/2/shutterstock_1450286750-f56c5d09c2902a55.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Microsoft verteilt eine aktualisierte Version des Snipping-Tools im Windows-Insider-Kanal. Die aktualisierte App kann jetzt bequemer Text extrahieren. </p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Songsterr erstellt per KI recht genaue Gitarren-Tabs aus eigenen Aufnahmen]]></title>
+        <id>http://heise.de/-10355904</id>
+        <updated>2025-04-17T15:41:00+02:00</updated>
+        <published>2025-04-17T15:41:00+02:00</published>
+        <link href="https://www.heise.de/news/Songsterr-erstellt-per-KI-recht-genaue-Gitarren-Tabs-aus-eigenen-Aufnahmen-10355904.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Nico Ernst</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Noten oder Tabulaturen für Gitarre sind nun kein Hexenwerk mehr: Der Dienst Songsterr erstellt sie aus YouTube-Videos oder eigenen Aufnahmen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Songsterr-erstellt-per-KI-recht-genaue-Gitarren-Tabs-aus-eigenen-Aufnahmen-10355904.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/6/5/1/Songsterr-Tab-14f6532c741d344f.png" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Noten oder Tabulaturen für Gitarre sind nun kein Hexenwerk mehr: Der Dienst Songsterr erstellt sie aus YouTube-Videos oder eigenen Aufnahmen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[PHP-Sicherheitsprüfung: 27 Schwachstellen entdeckt und behoben]]></title>
+        <id>http://heise.de/-10354122</id>
+        <updated>2025-04-17T15:20:00+02:00</updated>
+        <published>2025-04-17T15:20:00+02:00</published>
+        <link href="https://www.heise.de/news/PHP-Sicherheitspruefung-deckt-kritische-Schwachstellen-auf-10354122.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Madeleine Domogalla</name>
+        </author>
+        
+        <summary type="html"><![CDATA[PHP-Sicherheitsprüfung enthüllt 27 Schwachstellen. Quarkslab bewertet PHP-Codebasis dennoch als positiv. Update dringend empfohlen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/PHP-Sicherheitspruefung-deckt-kritische-Schwachstellen-auf-10354122.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/7/2/2/shutterstock_669226057-ace6e31cb4097da0.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>PHP-Sicherheitsprüfung enthüllt 27 Schwachstellen. Quarkslab bewertet PHP-Codebasis dennoch als positiv. Update dringend empfohlen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA["Hubble-Spannung": Rotierendes Universum könnte Rätsel der Kosmologie lösen]]></title>
+        <id>http://heise.de/-10355976</id>
+        <updated>2025-04-17T15:11:00+02:00</updated>
+        <published>2025-04-17T15:11:00+02:00</published>
+        <link href="https://www.heise.de/news/Hubble-Spannung-Rotierendes-Universum-koennte-Raetsel-der-Kosmologie-loesen-10355976.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Martin Holland</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Noch immer wird gerätselt, warum sich nahe Objekte und ferne Galaxien unterschiedlich schnell von uns entfernen. Womöglich gibt es jetzt eine simple Erklärung.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Hubble-Spannung-Rotierendes-Universum-koennte-Raetsel-der-Kosmologie-loesen-10355976.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/6/9/1/potw2150a-8f695405548a37fe.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Noch immer wird gerätselt, warum sich nahe Objekte und ferne Galaxien unterschiedlich schnell von uns entfernen. Womöglich gibt es jetzt eine simple Erklärung.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Datenleck: Autovermieter Hertz beendet Untersuchung]]></title>
+        <id>http://heise.de/-10355982</id>
+        <updated>2025-04-17T15:06:00+02:00</updated>
+        <published>2025-04-17T15:06:00+02:00</published>
+        <link href="https://www.heise.de/news/Datenleck-Autovermieter-Hertz-beendet-Untersuchung-10355982.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Dirk Knop</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Im Januar wurde Autovermieter Hertz mit der Veröffentlichung von gestohlenen Daten erpresst. Nun erklärt sich das Unternehmen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Datenleck-Autovermieter-Hertz-beendet-Untersuchung-10355982.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/6/9/4/Polestar-Hertz-Uber-UK-004-scaled-4dd30291449a1ea2.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Im Januar wurde Autovermieter Hertz mit der Veröffentlichung von gestohlenen Daten erpresst. Nun erklärt sich das Unternehmen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[KI-Update: OpenAI o3 und o4-mini, KI-Dronen, KI-Version von "Wizard of Oz"]]></title>
+        <id>http://heise.de/-10355890</id>
+        <updated>2025-04-17T15:00:00+02:00</updated>
+        <published>2025-04-17T15:00:00+02:00</published>
+        <link href="https://www.heise.de/news/KI-Update-OpenAI-o3-und-o4-mini-KI-Dronen-KI-Version-von-Wizard-of-Oz-10355890.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Marko Pauli</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Das "KI-Update" liefert werktäglich eine Zusammenfassung der wichtigsten KI-Entwicklungen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/KI-Update-OpenAI-o3-und-o4-mini-KI-Dronen-KI-Version-von-Wizard-of-Oz-10355890.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/6/4/4/KIupdate_Titel_122023-0953f976150f021c.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Das "KI-Update" liefert werktäglich eine Zusammenfassung der wichtigsten KI-Entwicklungen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[One UI 7: Diese Galaxy-Modelle erhalten laut Samsung das Update auf Andoid 15]]></title>
+        <id>http://heise.de/-10355815</id>
+        <updated>2025-04-17T14:34:00+02:00</updated>
+        <published>2025-04-17T14:34:00+02:00</published>
+        <link href="https://www.heise.de/news/One-UI-7-Diese-Galaxy-Modelle-erhalten-laut-Samsung-das-Update-auf-Andoid-15-10355815.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Andreas Floemer</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Samsung hat eine offizielle Übersicht mit Galaxy-Smartphones und -Tablets veröffentlicht, die das große Update auf One UI 7 erhalten sollen.  ]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/One-UI-7-Diese-Galaxy-Modelle-erhalten-laut-Samsung-das-Update-auf-Andoid-15-10355815.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/6/0/4/samsung-galaxy-s24-plus-acf1f6a8ab29838d.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Samsung hat eine offizielle Übersicht mit Galaxy-Smartphones und -Tablets veröffentlicht, die das große Update auf One UI 7 erhalten sollen.  </p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Kein Apple Intelligence für WhatsApp & Co: Spekulationen über Meta-Blockade]]></title>
+        <id>http://heise.de/-10355914</id>
+        <updated>2025-04-17T14:06:00+02:00</updated>
+        <published>2025-04-17T14:06:00+02:00</published>
+        <link href="https://www.heise.de/news/Kein-Apple-Intelligence-fuer-WhatsApp-Co-Spekulationen-ueber-Meta-Blockade-10355914.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Leo Becker</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Meta pusht die eigene KI in WhatsApp, Apple Intelligence muss draußen bleiben – auch in Facebook, Instagram und Threads. Doch ist das wirklich ein Boykott?]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Kein-Apple-Intelligence-fuer-WhatsApp-Co-Spekulationen-ueber-Meta-Blockade-10355914.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/6/5/6/shutterstock_2329754675-b99ae6d19bdf9a08.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Meta pusht die eigene KI in WhatsApp, Apple Intelligence muss draußen bleiben – auch in Facebook, Instagram und Threads. Doch ist das wirklich ein Boykott?</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Support-Ende von Ubuntu 20.04 dräut]]></title>
+        <id>http://heise.de/-10355860</id>
+        <updated>2025-04-17T14:02:00+02:00</updated>
+        <published>2025-04-17T14:02:00+02:00</published>
+        <link href="https://www.heise.de/news/Support-Ende-von-Ubuntu-20-04-draeut-10355860.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Dirk Knop</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Der Support für Ubuntu 20.04 endet in wenigen Wochen. Ubuntu empfiehlt ein Upgrade oder erweiterten Support mit Ubuntu Pro.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Support-Ende-von-Ubuntu-20-04-draeut-10355860.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/6/2/7/2024-09-17-Bing_Image_Creator-Linux_Coding_Penguin_vor_Computer-1-b088cc0c2ed9d0e5.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Der Support für Ubuntu 20.04 endet in wenigen Wochen. Ubuntu empfiehlt ein Upgrade oder erweiterten Support mit Ubuntu Pro.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[heise-Angebot: iX-Workshop: Microsoft 365 sicher einrichten und datenschutzkonform betreiben]]></title>
+        <id>http://heise.de/-10344283</id>
+        <updated>2025-04-17T14:00:00+02:00</updated>
+        <published>2025-04-17T14:00:00+02:00</published>
+        <link href="https://www.heise.de/news/iX-Workshop-Microsoft-365-sicher-einrichten-und-datenschutzkonform-betreiben-10344283.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Ilona Krause</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Microsoft 365 sicher betreiben und notwendige Maßnahmen in Bezug auf Datenschutz und Informationssicherheit umsetzen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/iX-Workshop-Microsoft-365-sicher-einrichten-und-datenschutzkonform-betreiben-10344283.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/3/6/0/9/Baselines-fuer-Tenant-Settings-Ticker-Header-16-9-0384d1edd87d12fb.png" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Microsoft 365 sicher betreiben und notwendige Maßnahmen in Bezug auf Datenschutz und Informationssicherheit umsetzen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Sony World Photography Awards 2025: Die Illusion des menschlichen Zeitalters ]]></title>
+        <id>http://heise.de/-9645523</id>
+        <updated>2025-04-17T13:49:00+02:00</updated>
+        <published>2025-04-17T13:49:00+02:00</published>
+        <link href="https://www.heise.de/news/Sony-World-Photography-Awards-2025-Die-Illusion-des-menschlichen-Zeitalters-9645523.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Judith Hohmann</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Der britische Fotograf Zed Nelson gewinnt den Sony World Photography Award 2025 mit kritischen Wildlife-Bildern. ]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Sony-World-Photography-Awards-2025-Die-Illusion-des-menschlichen-Zeitalters-9645523.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/5/5/1/4/3/7/3365_8949_ZedNelson_UnitedKingdom_Professional_WildlifeNature_2025-a271aa48e86945dc.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Der britische Fotograf Zed Nelson gewinnt den Sony World Photography Award 2025 mit kritischen Wildlife-Bildern. </p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Atlassian stopft hochriskante Lecks in Confluence, Jira & Co.]]></title>
+        <id>http://heise.de/-10355832</id>
+        <updated>2025-04-17T13:29:00+02:00</updated>
+        <published>2025-04-17T13:29:00+02:00</published>
+        <link href="https://www.heise.de/news/Atlassian-stopft-hochriskante-Lecks-in-Confluence-Jira-Co-10355832.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Dirk Knop</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Atlassian hat Sicherheitsupdates für Bamboo, Confluence und Jira veröffentlicht. Sie dichten als hohes Risiko eingestufte Lücken.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Atlassian-stopft-hochriskante-Lecks-in-Confluence-Jira-Co-10355832.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/6/1/3/2025-03-27-Bing_Creator-Hand_tippt_Update_Schaltflaeche-2-2e34eeb0c7c401a0.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Atlassian hat Sicherheitsupdates für Bamboo, Confluence und Jira veröffentlicht. Sie dichten als hohes Risiko eingestufte Lücken.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Deezer: Fast ein Fünftel der eingereichten Musikstücke ist bereits KI-generiert]]></title>
+        <id>http://heise.de/-10355615</id>
+        <updated>2025-04-17T12:56:00+02:00</updated>
+        <published>2025-04-17T12:56:00+02:00</published>
+        <link href="https://www.heise.de/news/Deezer-Fast-ein-Fuenftel-der-eingereichten-Musikstuecke-ist-bereits-KI-generiert-10355615.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Martin Holland</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Deezer rühmt sich, den besten Detektor für KI-generierte Musik zu haben – und der sei auch nötig. Schon jeder fünfte eingereichte Titel stamme von Suno & Co.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Deezer-Fast-ein-Fuenftel-der-eingereichten-Musikstuecke-ist-bereits-KI-generiert-10355615.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/5/0/1/shutterstock_1572373894-7de258b12fe2ebec.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Deezer rühmt sich, den besten Detektor für KI-generierte Musik zu haben – und der sei auch nötig. Schon jeder fünfte eingereichte Titel stamme von Suno & Co.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Sonicwall SMA100: Angreifer missbrauchen alte Sicherheitslücke]]></title>
+        <id>http://heise.de/-10355459</id>
+        <updated>2025-04-17T12:00:00+02:00</updated>
+        <published>2025-04-17T12:00:00+02:00</published>
+        <link href="https://www.heise.de/news/Sonicwall-SMA100-Angreifer-missbrauchen-alte-Sicherheitsluecke-10355459.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Dirk Knop</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Derzeit finden Angriffe auf alte Sicherheitslücken in Sonicwalls Firmware für Geräte der SMA100-Baureihen statt. ]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Sonicwall-SMA100-Angreifer-missbrauchen-alte-Sicherheitsluecke-10355459.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/4/1/8/_f73b7219-c7c5-450b-831f-e550990e0151-6d6f45632f3a1232.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Derzeit finden Angriffe auf alte Sicherheitslücken in Sonicwalls Firmware für Geräte der SMA100-Baureihen statt. </p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[heise-Angebot: iX-Workshop: BCM und IT-Notfallplanung – Vorbereitet für den Ernstfall]]></title>
+        <id>http://heise.de/-10344269</id>
+        <updated>2025-04-17T12:00:00+02:00</updated>
+        <published>2025-04-17T12:00:00+02:00</published>
+        <link href="https://www.heise.de/news/iX-Workshop-BCM-und-IT-Notfallplanung-Vorbereitet-fuer-den-Ernstfall-10344269.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Ilona Krause</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Erstellen Sie für Ihr Unternehmen einen Leitfaden zur professionellen IT-Notfallplanung im interaktiven Workshop.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/iX-Workshop-BCM-und-IT-Notfallplanung-Vorbereitet-fuer-den-Ernstfall-10344269.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/3/6/0/2/Notfallplanung-Ticker-Header-16-9-546bd7563331220b.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Erstellen Sie für Ihr Unternehmen einen Leitfaden zur professionellen IT-Notfallplanung im interaktiven Workshop.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA["Schadet Wine auf dem Mac": Open-Source-Tool Whisky stoppt Weiterentwicklung]]></title>
+        <id>http://heise.de/-10355609</id>
+        <updated>2025-04-17T11:53:00+02:00</updated>
+        <published>2025-04-17T11:53:00+02:00</published>
+        <link href="https://www.heise.de/news/Schadet-Wine-auf-dem-Mac-Open-Source-Tool-Whisky-stoppt-Weiterentwicklung-10355609.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Leo Becker</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Whisky macht es einfach, Wine auf macOS zu bringen, um Windows-Games zu zocken. Das schadet der Laufzeitumgebung, fürchtet der Entwickler und hört auf.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Schadet-Wine-auf-dem-Mac-Open-Source-Tool-Whisky-stoppt-Weiterentwicklung-10355609.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/4/9/8/Bildschirmfoto_2025-04-17_um_11-ce82bb3ad20e3620.png" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Whisky macht es einfach, Wine auf macOS zu bringen, um Windows-Games zu zocken. Das schadet der Laufzeitumgebung, fürchtet der Entwickler und hört auf.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Alles auf Azure: So will Microsoft den Umstieg von AWS vereinfachen]]></title>
+        <id>http://heise.de/-10355328</id>
+        <updated>2025-04-17T11:49:00+02:00</updated>
+        <published>2025-04-17T11:49:00+02:00</published>
+        <link href="https://www.heise.de/news/Azure-Migration-Hub-Microsoft-unterstuetzt-bei-Umstieg-von-AWS-und-Google-Cloud-10355328.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Sven Festag</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Microsoft bietet eine neue Wissensplattform für Azure an. Sie soll Administratoren bei Workload-Umzügen von AWS und Google Cloud unterstützen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Azure-Migration-Hub-Microsoft-unterstuetzt-bei-Umstieg-von-AWS-und-Google-Cloud-10355328.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/3/5/1/shutterstock_2519856553-57153f4c15072074.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Microsoft bietet eine neue Wissensplattform für Azure an. Sie soll Administratoren bei Workload-Umzügen von AWS und Google Cloud unterstützen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Android 16: Vierte und letzte Beta kommt heute ]]></title>
+        <id>http://heise.de/-10355485</id>
+        <updated>2025-04-17T11:46:00+02:00</updated>
+        <published>2025-04-17T11:46:00+02:00</published>
+        <link href="https://www.heise.de/news/Android-16-Vierte-und-letzte-Beta-kommt-heute-10355485.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Andreas Floemer</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Android 16 ist kurz vor der Fertigstellung. Laut Google wird die vierte und letzte Betaversion am Donnerstag erscheinen. ]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Android-16-Vierte-und-letzte-Beta-kommt-heute-10355485.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/4/3/1/android-logo-auf-smartphone-a6ed747764d28afd.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Android 16 ist kurz vor der Fertigstellung. Laut Google wird die vierte und letzte Betaversion am Donnerstag erscheinen. </p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[E Ink zeigt ersten faltbaren E-Reader]]></title>
+        <id>http://heise.de/-10355419</id>
+        <updated>2025-04-17T11:03:00+02:00</updated>
+        <published>2025-04-17T11:03:00+02:00</published>
+        <link href="https://www.heise.de/news/E-Ink-zeigt-ersten-faltbaren-E-Reader-10355419.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Daniel Herbig</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Ein E-Reader, der sich wie ein Buch zusammenfalten lässt: Das haben E Ink und Readmoo nun auf der Messe Touch Taiwan gezeigt. ]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/E-Ink-zeigt-ersten-faltbaren-E-Reader-10355419.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/3/9/7/1744793578899-28fa00f0e3db5f14.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Ein E-Reader, der sich wie ein Buch zusammenfalten lässt: Das haben E Ink und Readmoo nun auf der Messe Touch Taiwan gezeigt. </p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Windows-Updates: Netzwerkprobleme bei Domaincontrollern und Windows-11-BSoDs]]></title>
+        <id>http://heise.de/-10355226</id>
+        <updated>2025-04-17T10:53:00+02:00</updated>
+        <published>2025-04-17T10:53:00+02:00</published>
+        <link href="https://www.heise.de/news/Windows-Update-Probleme-Netzwerk-bei-Domaincontrollern-und-Windows-11-BSoDs-10355226.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Dirk Knop</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Microsoft hat weitere Probleme mit Windows-Updates eingeräumt. Domaincontroller haben Probleme im Netz, Windows 11 kann abstürzen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Windows-Update-Probleme-Netzwerk-bei-Domaincontrollern-und-Windows-11-BSoDs-10355226.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/2/9/9/2025-04-14-Bing_Creator-Windows_Update_Error-1-3c40fd1d33a05b2f.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Microsoft hat weitere Probleme mit Windows-Updates eingeräumt. Domaincontroller haben Probleme im Netz, Windows 11 kann abstürzen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Outlook: E-Mail schreiben = 30 bis 50 Prozent CPU-Auslastung]]></title>
+        <id>http://heise.de/-10355253</id>
+        <updated>2025-04-17T10:30:00+02:00</updated>
+        <published>2025-04-17T10:30:00+02:00</published>
+        <link href="https://www.heise.de/news/Microsoft-bestaetigt-Outlook-frisst-CPU-Leistung-10355253.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Moritz Förster</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Eine E-Mail zu tippen, sollte keinen Rechner herausfordern. Nicht so mit Outlook: Ein Fehler lastet die CPU massiv aus. Eine Lösung lässt auf sich warten.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Microsoft-bestaetigt-Outlook-frisst-CPU-Leistung-10355253.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/3/1/3/Bildschirmfoto_2018-08-28_um_11-414e417816c26a51.png" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Eine E-Mail zu tippen, sollte keinen Rechner herausfordern. Nicht so mit Outlook: Ein Fehler lastet die CPU massiv aus. Eine Lösung lässt auf sich warten.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[heise-Angebot: iX-Workshop: Passwortlose Authentifizierung mit Passkeys, FIDO, SSO und mehr ]]></title>
+        <id>http://heise.de/-10344327</id>
+        <updated>2025-04-17T10:00:00+02:00</updated>
+        <published>2025-04-17T10:00:00+02:00</published>
+        <link href="https://www.heise.de/news/iX-Workshop-Passwortlose-Authentifizierung-mit-Passkeys-FIDO-SSO-und-mehr-10344327.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Ilona Krause</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Wie man FIDO2 und SSO in Webdienste integriert: Konzepte, Protokolle und Best Practices für eine sichere Authentifizierung mit und ohne Passwort.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/iX-Workshop-Passwortlose-Authentifizierung-mit-Passkeys-FIDO-SSO-und-mehr-10344327.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/3/6/3/1/Public-Key_Ticker-Header-16-9-0be2b10342091a6b.png" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Wie man FIDO2 und SSO in Webdienste integriert: Konzepte, Protokolle und Best Practices für eine sichere Authentifizierung mit und ohne Passwort.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Mikro-Schlagflügelroboter RoboBee landet sicher auf Pflanzenblättern]]></title>
+        <id>http://heise.de/-10355186</id>
+        <updated>2025-04-17T09:47:00+02:00</updated>
+        <published>2025-04-17T09:47:00+02:00</published>
+        <link href="https://www.heise.de/news/RoboBee-Mikro-Schlagfluegelroboter-landet-sicher-auf-Pflanzenblaettern-10355186.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Oliver Bünte</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Die RoboBee ist schon etwas älter. Sie hat nun ein Landegestell und eine Flugsteuerung als Upgrade bekommen, die sichere Landungen ermöglichen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/RoboBee-Mikro-Schlagfluegelroboter-landet-sicher-auf-Pflanzenblaettern-10355186.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/2/7/8/RoboBee-2db747cf92660129.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Die RoboBee ist schon etwas älter. Sie hat nun ein Landegestell und eine Flugsteuerung als Upgrade bekommen, die sichere Landungen ermöglichen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[OpenAI bringt o3 und o4-mini raus]]></title>
+        <id>http://heise.de/-10355096</id>
+        <updated>2025-04-17T09:44:00+02:00</updated>
+        <published>2025-04-17T09:44:00+02:00</published>
+        <link href="https://www.heise.de/news/OpenAI-bringt-o3-und-o4-mini-raus-10355096.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Eva-Maria Weiß</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Zwei neue KI-Modelle von OpenAI: o3 und o4-mini denken länger nach und haben einen größeren Funktionsumfang – etwa Bildgenerierung. ]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/OpenAI-bringt-o3-und-o4-mini-raus-10355096.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/2/3/3/shutterstock_2395623655-e060671f0ee8ff6a.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Zwei neue KI-Modelle von OpenAI: o3 und o4-mini denken länger nach und haben einen größeren Funktionsumfang – etwa Bildgenerierung. </p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Gezielte Angriffe auf iPhones: Apple patcht Betriebssysteme außerhalb der Reihe]]></title>
+        <id>http://heise.de/-10355206</id>
+        <updated>2025-04-17T09:23:00+02:00</updated>
+        <published>2025-04-17T09:23:00+02:00</published>
+        <link href="https://www.heise.de/news/iOS-18-4-1-macOS-15-4-1-Co-Apple-liefert-Notfall-Patches-fuer-mehrere-Systeme-10355206.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Leo Becker</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Die Updates sollen zwei Zero-Day-Lücken beseitigen, die offenbar für gezielte Angriffe genutzt wurden. Auch ein CarPlay-Problem geht Apple an.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/iOS-18-4-1-macOS-15-4-1-Co-Apple-liefert-Notfall-Patches-fuer-mehrere-Systeme-10355206.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/2/8/9/shutterstock_1739408351-fa69cb66d20e7ce6.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Die Updates sollen zwei Zero-Day-Lücken beseitigen, die offenbar für gezielte Angriffe genutzt wurden. Auch ein CarPlay-Problem geht Apple an.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Gemini Live: Bildschirm- und Kamera-Analyse kostenlos für alle Android-Nutzer]]></title>
+        <id>http://heise.de/-10355164</id>
+        <updated>2025-04-17T09:12:00+02:00</updated>
+        <published>2025-04-17T09:12:00+02:00</published>
+        <link href="https://www.heise.de/news/Gemini-Live-Bildschirm-und-Kamera-Analyse-kostenlos-fuer-alle-Android-Nutzer-10355164.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Andreas Floemer</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Google macht die neue Gemini-Live-Funktion, die der KI Augen verleiht, für alle Android-Nutzer kostenlos verfügbar.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Gemini-Live-Bildschirm-und-Kamera-Analyse-kostenlos-fuer-alle-Android-Nutzer-10355164.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/2/6/7/google-gemini-shutterstock-181029cb21d6a458.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Google macht die neue Gemini-Live-Funktion, die der KI Augen verleiht, für alle Android-Nutzer kostenlos verfügbar.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Notfallupdate für anonymisierendes Linux Tails]]></title>
+        <id>http://heise.de/-10355154</id>
+        <updated>2025-04-17T09:01:00+02:00</updated>
+        <published>2025-04-17T09:01:00+02:00</published>
+        <link href="https://www.heise.de/news/Notfallupdate-fuer-anonymisierendes-Linux-Tails-10355154.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Dirk Knop</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Die Tails-Maintainer haben das Notfallupdate auf Version 6.14.2 veröffentlicht. Sie schließen darin Sicherheitslücken.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Notfallupdate-fuer-anonymisierendes-Linux-Tails-10355154.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/2/6/2/2025-04-16-Tails-6-306963c7013e8842.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Die Tails-Maintainer haben das Notfallupdate auf Version 6.14.2 veröffentlicht. Sie schließen darin Sicherheitslücken.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA["Dwarf Fortress" erreicht Meilenstein: Über eine Million Mal auf Steam verkauft]]></title>
+        <id>http://heise.de/-10355069</id>
+        <updated>2025-04-17T09:01:00+02:00</updated>
+        <published>2025-04-17T09:01:00+02:00</published>
+        <link href="https://www.heise.de/news/Dwarf-Fortress-Kult-Klassiker-ueber-eine-Million-Mal-auf-Steam-verkauft-10355069.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Daniel Herbig</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Das Aufbauspiel "Dwarf Fortress" gibt es seit Ende 2022 auf Steam. Nun haben die Entwickler einen Verkaufs-Meilenstein bekannt gegeben. ]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Dwarf-Fortress-Kult-Klassiker-ueber-eine-Million-Mal-auf-Steam-verkauft-10355069.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/2/1/8/bafkreic2a3adumt34v2dhwy6qmicd34jsvoyq4ab53cxppgq5j2uj2wsqi-d6476e6b936c9e4d.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Das Aufbauspiel "Dwarf Fortress" gibt es seit Ende 2022 auf Steam. Nun haben die Entwickler einen Verkaufs-Meilenstein bekannt gegeben. </p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[heise+ | IT-Sicherheit: Technische Tricks sicherer Messenger]]></title>
+        <id>http://heise.de/-10305737</id>
+        <updated>2025-04-17T09:00:00+02:00</updated>
+        <published>2025-04-17T09:00:00+02:00</published>
+        <link href="https://www.heise.de/ratgeber/IT-Sicherheit-Technische-Tricks-sicherer-Messenger-10305737.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"/>
+        <author>
+            <name>Sylvester Tremmel</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Kommunikation abzusichern ist ein kompliziertes Unterfangen. Moderne Messenger greifen zu allerlei Tricks, um Daten und Metadaten gegen Angriffe zu schützen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/ratgeber/IT-Sicherheit-Technische-Tricks-sicherer-Messenger-10305737.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/1/3/5/2/0/ct0925Messenger_133121-syt-A_Online-0cb875c5dd930026.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Kommunikation abzusichern ist ein kompliziertes Unterfangen. Moderne Messenger greifen zu allerlei Tricks, um Daten und Metadaten gegen Angriffe zu schützen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[heise+ | Sechs sichere Messenger im Vergleich]]></title>
+        <id>http://heise.de/-10297137</id>
+        <updated>2025-04-17T09:00:00+02:00</updated>
+        <published>2025-04-17T09:00:00+02:00</published>
+        <link href="https://www.heise.de/ratgeber/Sechs-sichere-Messenger-im-Vergleich-10297137.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"/>
+        <author>
+            <name>Kathrin Stoll</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Schlicht oder verspielt, aber jedenfalls sicher? Wir vergleichen sechs Ende-zu-Ende-verschlüsselte Messenger mit unterschiedlichen Prioritäten und Konzepten.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/ratgeber/Sechs-sichere-Messenger-im-Vergleich-10297137.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/0/9/0/4/0/ct0925Messenger_133069-syt-A_Online-0b5976df159614f9.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Schlicht oder verspielt, aber jedenfalls sicher? Wir vergleichen sechs Ende-zu-Ende-verschlüsselte Messenger mit unterschiedlichen Prioritäten und Konzepten.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[CVE-Aus abgewendet, Schwachstellendatenbank der EU geht an den Start]]></title>
+        <id>http://heise.de/-10354324</id>
+        <updated>2025-04-17T08:25:00+02:00</updated>
+        <published>2025-04-17T08:25:00+02:00</published>
+        <link href="https://www.heise.de/news/Nach-drohendem-CVE-Aus-Schwachstellendatenbank-der-EU-geht-an-den-Start-10354324.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Dr. Christopher Kunz</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Entscheidung in letzter Minute - offenbar geht der Vertrag zwischen CISA und MITRE in die Verlängerung. Mehrere Initiativen präsentieren derweil Alternativen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Nach-drohendem-CVE-Aus-Schwachstellendatenbank-der-EU-geht-an-den-Start-10354324.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/8/2/6/Bildschirmfoto_2025-04-16_um_15-da1fd95f7f637f1f.png" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Entscheidung in letzter Minute - offenbar geht der Vertrag zwischen CISA und MITRE in die Verlängerung. Mehrere Initiativen präsentieren derweil Alternativen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[heise-Angebot:  c't-Workshop: Von Excel zu Power BI ]]></title>
+        <id>http://heise.de/-10344471</id>
+        <updated>2025-04-17T08:00:00+02:00</updated>
+        <published>2025-04-17T08:00:00+02:00</published>
+        <link href="https://www.heise.de/news/c-t-Workshop-Effizient-Daten-analysieren-und-interaktive-Berichte-erstellen-10344471.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Anke Brandt</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Der Workshop zeigt, wie Sie mit Power BI Datenquellen zusammenführen, Modelle erstellen und interaktive Berichte gestalten – für klar strukturierte Analysen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/c-t-Workshop-Effizient-Daten-analysieren-und-interaktive-Berichte-erstellen-10344471.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/3/7/0/5/Einfuerung-Power-BI-Ticker-Header-16-9-4273099b3c2cfcda.png" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Der Workshop zeigt, wie Sie mit Power BI Datenquellen zusammenführen, Modelle erstellen und interaktive Berichte gestalten – für klar strukturierte Analysen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Microsofts Copilot sieht im Browser Edge nun, was du siehst]]></title>
+        <id>http://heise.de/-10355061</id>
+        <updated>2025-04-17T07:50:00+02:00</updated>
+        <published>2025-04-17T07:50:00+02:00</published>
+        <link href="https://www.heise.de/news/Microsofts-Copilot-sieht-im-Browser-Edge-nun-was-du-siehst-10355061.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Eva-Maria Weiß</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Mit Copilot Vision bekommt Microsofts Browser Edge nun Augen. Die neue KI-Funktion ist frei verfügbar – für ausgewählte Seiten.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Microsofts-Copilot-sieht-im-Browser-Edge-nun-was-du-siehst-10355061.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/2/1/4/Bildschirmfoto_2025-04-17_um_07-46a4eecf19d9ebec.png" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Mit Copilot Vision bekommt Microsofts Browser Edge nun Augen. Die neue KI-Funktion ist frei verfügbar – für ausgewählte Seiten.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Meta vor Gericht: Zuckerberg sagt 13 Stunden lang aus]]></title>
+        <id>http://heise.de/-10355026</id>
+        <updated>2025-04-17T07:15:00+02:00</updated>
+        <published>2025-04-17T07:15:00+02:00</published>
+        <link href="https://www.heise.de/news/Meta-vor-Gericht-Zuckerberg-sagt-13-Stunden-lang-aus-10355026.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Eva-Maria Weiß</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Anzeigen in WhatsApp, Instagram und dem Facebook Messenger bringen Meta zehn Milliarden US-Dollar ein, sagt Zuckerberg im FTC-Prozess.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Meta-vor-Gericht-Zuckerberg-sagt-13-Stunden-lang-aus-10355026.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/1/9/6/shutterstock_2329754675-b99ae6d19bdf9a08.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Anzeigen in WhatsApp, Instagram und dem Facebook Messenger bringen Meta zehn Milliarden US-Dollar ein, sagt Zuckerberg im FTC-Prozess.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Weltraumteleskop James Webb: Bislang klarster Hinweis auf außerirdisches Leben]]></title>
+        <id>http://heise.de/-10355034</id>
+        <updated>2025-04-17T07:07:00+02:00</updated>
+        <published>2025-04-17T07:07:00+02:00</published>
+        <link href="https://www.heise.de/news/Auf-riesiger-Wasserwelt-Bislang-eindeutigster-Hinweis-auf-ausserirdisches-Leben-10355034.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Martin Holland</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Der Exoplanet K2-18 b steht schon länger im Fokus der Forschung. Nun meldet ein Forschungsteam, dort die eindeutigsten Hinweise auf Leben entdeckt zu haben.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Auf-riesiger-Wasserwelt-Bislang-eindeutigster-Hinweis-auf-ausserirdisches-Leben-10355034.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/2/0/0/K2-18b_illustration_lowres-1440x756-253850ba525f5f27.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Der Exoplanet K2-18 b steht schon länger im Fokus der Forschung. Nun meldet ein Forschungsteam, dort die eindeutigsten Hinweise auf Leben entdeckt zu haben.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Studie: Mikroplastik in Umwelt könnte bis 2060 rasant ansteigen]]></title>
+        <id>http://heise.de/-10355030</id>
+        <updated>2025-04-17T06:46:00+02:00</updated>
+        <published>2025-04-17T06:46:00+02:00</published>
+        <link href="https://www.heise.de/news/Studie-Mikroplastik-in-Umwelt-koennte-bis-2060-rasant-ansteigen-10355030.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>dpa</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Eine Studie französischer Wissenschaftler schätzt die Verschmutzung der Umwelt durch Mikroplastik höher ein als bisher angenommen. ]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Studie-Mikroplastik-in-Umwelt-koennte-bis-2060-rasant-ansteigen-10355030.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/1/9/8/shutterstock_1898175136-2d498770a373f76f.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Eine Studie französischer Wissenschaftler schätzt die Verschmutzung der Umwelt durch Mikroplastik höher ein als bisher angenommen. </p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Donnerstag: Handyverträge auf 2 Jahre begrenzt, Nvidia von Trump überrumpelt]]></title>
+        <id>http://heise.de/-10355018</id>
+        <updated>2025-04-17T06:15:00+02:00</updated>
+        <published>2025-04-17T06:15:00+02:00</published>
+        <link href="https://www.heise.de/news/Donnerstag-Handyvertraege-auf-2-Jahre-begrenzt-Nvidia-von-Trump-ueberrumpelt-10355018.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Frank Schräer</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Laufzeit von Mobilfunkverträgen + Nvidia vor Milliardenausfall + Europol-Erfolg nach Chat-Überwachung + Datenschutz in Blockchains + Exoplanet in seltenem Orbit]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Donnerstag-Handyvertraege-auf-2-Jahre-begrenzt-Nvidia-von-Trump-ueberrumpelt-10355018.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/1/9/2/thursday-0a04d641cdb11645.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Laufzeit von Mobilfunkverträgen + Nvidia vor Milliardenausfall + Europol-Erfolg nach Chat-Überwachung + Datenschutz in Blockchains + Exoplanet in seltenem Orbit</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Nvidias Kosten wegen neuer US-Exportregeln für KI-Chips könnten sich verdoppeln]]></title>
+        <id>http://heise.de/-10355004</id>
+        <updated>2025-04-17T04:33:00+02:00</updated>
+        <published>2025-04-17T04:33:00+02:00</published>
+        <link href="https://www.heise.de/news/Nvidias-Kosten-wegen-neuer-US-Exportregeln-fuer-KI-Chips-koennten-sich-verdoppeln-10355004.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Frank Schräer</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Nvidia dürfte aufgrund der neuen US-Exportkontrolle für KI-Chips deutlich mehr verlieren als 5,5 Milliarden Dollar. Auch Intel ist betroffen und nennt Details.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Nvidias-Kosten-wegen-neuer-US-Exportregeln-fuer-KI-Chips-koennten-sich-verdoppeln-10355004.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/1/8/5/hopper-announcement-li-tw-h100-sxm-2048x1024-063b6b998322e328.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Nvidia dürfte aufgrund der neuen US-Exportkontrolle für KI-Chips deutlich mehr verlieren als 5,5 Milliarden Dollar. Auch Intel ist betroffen und nennt Details.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[EUGH bestätigt: Mobilfunkverträge maximal 24 Monate lang]]></title>
+        <id>http://heise.de/-10354962</id>
+        <updated>2025-04-17T00:18:00+02:00</updated>
+        <published>2025-04-17T00:18:00+02:00</published>
+        <link href="https://www.heise.de/news/EUGH-bestaetigt-Mobilfunkvertraege-maximal-24-Monate-lang-10354962.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Daniel AJ Sokolov</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Vodafone Deutschland darf Verbraucher nie länger als 2 Jahre binden. Das gilt auch für Bestandskunden, sagt der EuGH.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/EUGH-bestaetigt-Mobilfunkvertraege-maximal-24-Monate-lang-10354962.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/1/6/4/Google_Pixel_3_und_Google_Pixel_3_XL-b07d22d66e57559d.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Vodafone Deutschland darf Verbraucher nie länger als 2 Jahre binden. Das gilt auch für Bestandskunden, sagt der EuGH.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Entschlüsselte Chats: Europäische Ermittler nehmen kriminelle Netzwerke hoch]]></title>
+        <id>http://heise.de/-10354886</id>
+        <updated>2025-04-16T21:43:00+02:00</updated>
+        <published>2025-04-16T21:43:00+02:00</published>
+        <link href="https://www.heise.de/news/Entschluesselte-Chats-Europaeische-Ermittler-nehmen-kriminelle-Netzwerke-hoch-10354886.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Stefan Krempl</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Europol meldet über 230 Festnahmen bei Drogenrazzien, auch in der Türkei. Strafverfolger schöpften erneut Erkenntnisse aus geknackten Messaging-Diensten ab.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Entschluesselte-Chats-Europaeische-Ermittler-nehmen-kriminelle-Netzwerke-hoch-10354886.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/1/2/2/Polizei-236b55848c232506.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Europol meldet über 230 Festnahmen bei Drogenrazzien, auch in der Türkei. Strafverfolger schöpften erneut Erkenntnisse aus geknackten Messaging-Diensten ab.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Löschrechte: EU-Datenschützer legen Regeln für Blockchain-Einsatz fest]]></title>
+        <id>http://heise.de/-10354843</id>
+        <updated>2025-04-16T20:35:00+02:00</updated>
+        <published>2025-04-16T20:35:00+02:00</published>
+        <link href="https://www.heise.de/news/Loeschrechte-EU-Datenschuetzer-legen-Regeln-fuer-Blockchain-Einsatz-fest-10354843.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Stefan Krempl</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Der Europäische Datenschutzausschuss hat Leitlinien zur Verarbeitung personenbezogener Daten durch Blockchains, auch bei Kryptowährungen, verabschiedet.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Loeschrechte-EU-Datenschuetzer-legen-Regeln-fuer-Blockchain-Einsatz-fest-10354843.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/0/9/8/Blockchain_Illustration-42d9babb55b95ee2.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Der Europäische Datenschutzausschuss hat Leitlinien zur Verarbeitung personenbezogener Daten durch Blockchains, auch bei Kryptowährungen, verabschiedet.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA["Außergewöhnlich und aufregend": Exoplanet in senkrechtem Orbit um ein Sternpaar]]></title>
+        <id>http://heise.de/-10353981</id>
+        <updated>2025-04-16T20:00:00+02:00</updated>
+        <published>2025-04-16T20:00:00+02:00</published>
+        <link href="https://www.heise.de/news/Aussergewoehnlich-und-aufregend-Exoplanet-in-senkrechtem-Orbit-um-ein-Sternpaar-10353981.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Martin Holland</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Exoplaneten, die zwei Sterne umkreisen, kennen wir schon. Aber 2M1510 (AB) b ist ein Novum: Seine Umlaufbahn steht senkrecht auf denen seiner Sterne.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Aussergewoehnlich-und-aufregend-Exoplanet-in-senkrechtem-Orbit-um-ein-Sternpaar-10353981.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/6/5/1/eso2508a-fa34e7c1ce34cb82.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Exoplaneten, die zwei Sterne umkreisen, kennen wir schon. Aber 2M1510 (AB) b ist ein Novum: Seine Umlaufbahn steht senkrecht auf denen seiner Sterne.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Ratgeber OLED-TV: 55-Zoll-Testsieger von LG zum Bestpreis für 1200 Euro]]></title>
+        <id>http://heise.de/-10353975</id>
+        <updated>2025-04-16T20:00:00+02:00</updated>
+        <published>2025-04-16T20:00:00+02:00</published>
+        <link href="https://www.heise.de/bestenlisten/ratgeber/ratgeber-oled-tv-55-zoll-testsieger-von-lg-zum-bestpreis-fuer-1200-euro/60cgsdj?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html"><![CDATA[Wer einmal einen OLED-Fernseher erlebt hat, will nichts anderes mehr. Wir erklären, was man beim Kauf beachten sollte und informieren über attraktive Angebote.]]></summary>
+        <content type="html"><![CDATA[<p>Wer einmal einen OLED-Fernseher erlebt hat, will nichts anderes mehr. Wir erklären, was man beim Kauf beachten sollte und informieren über attraktive Angebote.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Nvidia lässt KI-Server künftig in den USA bauen]]></title>
+        <id>http://heise.de/-10354683</id>
+        <updated>2025-04-16T19:02:00+02:00</updated>
+        <published>2025-04-16T19:02:00+02:00</published>
+        <link href="https://www.heise.de/news/Nvidia-laesst-KI-Server-kuenftig-in-den-USA-bauen-10354683.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Mark Mantel</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Foxconn und Wistron bauen US-Fabriken zur Herstellung von Nvidia-Servern. Die Pläne sind alt, stimmen dem US-Präsidenten aber glücklich.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Nvidia-laesst-KI-Server-kuenftig-in-den-USA-bauen-10354683.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/0/1/6/NVIDIA-GB200-NVL72-672f5a39d071681e-acd49304cb2f7084.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Foxconn und Wistron bauen US-Fabriken zur Herstellung von Nvidia-Servern. Die Pläne sind alt, stimmen dem US-Präsidenten aber glücklich.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Apple stuft Intel-Mac-mini als "Vintage" ein]]></title>
+        <id>http://heise.de/-10354702</id>
+        <updated>2025-04-16T18:39:00+02:00</updated>
+        <published>2025-04-16T18:39:00+02:00</published>
+        <link href="https://www.heise.de/news/Letzter-Mac-mini-mit-Intel-Chip-fuer-Apple-jetzt-Vintage-10354702.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Leo Becker</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Die letzte Mac-mini-Generation mit Intel-Prozessor hat Apples Vorstufe zum Obsolet-Status erreicht. Im Reparaturfall kann es dadurch knifflig werden.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Letzter-Mac-mini-mit-Intel-Chip-fuer-Apple-jetzt-Vintage-10354702.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/9/0/2/6/MacMiniAufmacher3-393db4583a9bcce2-7e68fbcf0186dac7.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Die letzte Mac-mini-Generation mit Intel-Prozessor hat Apples Vorstufe zum Obsolet-Status erreicht. Im Reparaturfall kann es dadurch knifflig werden.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Photonen statt Elektronen: Erste Licht-Prozessoren betreiben effizient KI]]></title>
+        <id>http://heise.de/-10354605</id>
+        <updated>2025-04-16T18:35:00+02:00</updated>
+        <published>2025-04-16T18:35:00+02:00</published>
+        <link href="https://www.heise.de/news/Erste-Licht-Prozessoren-betreiben-effizient-KI-10354605.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Dr. Sabrina Patsch</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Die Start-ups Lightmatter und Lightelligence haben erste Photonik-Prozessoren entwickelt, auf denen sogar fortschrittliche KI-Systeme laufen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Erste-Licht-Prozessoren-betreiben-effizient-KI-10354605.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/9/7/4/chip-4160e1eac4808c75.png" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Die Start-ups Lightmatter und Lightelligence haben erste Photonik-Prozessoren entwickelt, auf denen sogar fortschrittliche KI-Systeme laufen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[DSA: Bürgerrechtler legen Beschwerde gegen Meta wegen News-Feeds ein]]></title>
+        <id>http://heise.de/-10354635</id>
+        <updated>2025-04-16T18:20:00+02:00</updated>
+        <published>2025-04-16T18:20:00+02:00</published>
+        <link href="https://www.heise.de/news/DSA-Buergerrechtler-legen-Beschwerde-gegen-Meta-wegen-News-Feeds-ein-10354635.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Stefan Krempl</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Meta biete auf Facebook und Instagram keine alternativen und fest einstellbaren News-Feeds an, die nicht auf Nutzerprofilen basieren, kritisieren Aktivisten.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/DSA-Buergerrechtler-legen-Beschwerde-gegen-Meta-wegen-News-Feeds-ein-10354635.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/9/9/0/shutterstock_2329754675-b99ae6d19bdf9a08.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Meta biete auf Facebook und Instagram keine alternativen und fest einstellbaren News-Feeds an, die nicht auf Nutzerprofilen basieren, kritisieren Aktivisten.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[PowerHarvester: Akkusystem für dynamische Stromtarife]]></title>
+        <id>http://heise.de/-10353920</id>
+        <updated>2025-04-16T18:04:00+02:00</updated>
+        <published>2025-04-16T18:04:00+02:00</published>
+        <link href="https://www.heise.de/news/Akkusystem-nur-fuer-dynamische-Stromtarife-1Komma5-PowerHarvester-10353920.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Clemens Gleich</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Der "PowerHarvester" soll sich trotz Mindestkosten von 8900 Euro für Haushalte mit hohen Verbräuchen schon ab sechs Jahren amortisieren können. ]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Akkusystem-nur-fuer-dynamische-Stromtarife-1Komma5-PowerHarvester-10353920.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/6/2/0/1K5___Battery_Launch_2025-4-440372cbc40cbc7c.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Der "PowerHarvester" soll sich trotz Mindestkosten von 8900 Euro für Haushalte mit hohen Verbräuchen schon ab sechs Jahren amortisieren können. </p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Lyft übernimmt Freenow: Ubers größter Konkurrent kommt nach Europa]]></title>
+        <id>http://heise.de/-10354595</id>
+        <updated>2025-04-16T17:05:00+02:00</updated>
+        <published>2025-04-16T17:05:00+02:00</published>
+        <link href="https://www.heise.de/news/Mobilitaetsplattformen-Lyft-uebernimmt-Freenow-10354595.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Volker Briegleb</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Ubers größter US-Konkurrent wagt endlich den Schritt nach Europa und übernimmt den Taxivermittler Freenow von Mercedes und BMW. 
+ ]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Mobilitaetsplattformen-Lyft-uebernimmt-Freenow-10354595.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/9/6/9/Freenow06-55a4f51ee6e2e726.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Ubers größter US-Konkurrent wagt endlich den Schritt nach Europa und übernimmt den Taxivermittler Freenow von Mercedes und BMW. 
+ </p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Webbrowser: Kritische Sicherheitslücke in Chrome abgedichtet]]></title>
+        <id>http://heise.de/-10354575</id>
+        <updated>2025-04-16T16:51:00+02:00</updated>
+        <published>2025-04-16T16:51:00+02:00</published>
+        <link href="https://www.heise.de/news/Google-dichtet-kritische-Sicherheitsluecke-in-Chrome-ab-10354575.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Dirk Knop</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Google stopft ein als kritisches Risiko eingestuftes Sicherheitsleck im Webbrowser Chrome. Nutzer sollten zügig aktualisieren.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Google-dichtet-kritische-Sicherheitsluecke-in-Chrome-ab-10354575.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/9/5/9/2024-02-21-Bing-Designer-Burning_Chrome_Logo_on_Laptop-1280px-232ab6c2efec8b9b.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Google stopft ein als kritisches Risiko eingestuftes Sicherheitsleck im Webbrowser Chrome. Nutzer sollten zügig aktualisieren.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Weltweite Störung: Massive Probleme bei Spotify]]></title>
+        <id>http://heise.de/-10354569</id>
+        <updated>2025-04-16T16:27:00+02:00</updated>
+        <published>2025-04-16T16:27:00+02:00</published>
+        <link href="https://www.heise.de/news/Weltweite-Stoerung-Spotify-ist-down-10354569.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Volker Briegleb</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Der Musikstreaming-Dienst hatte am Mittwoch weltweit mit massiven Ausfällen zu kämpfen. Am Abend gab Spotify dann Entwarnung. ]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Weltweite-Stoerung-Spotify-ist-down-10354569.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/9/5/6/shutterstock_1771451024-7e471bd6d94c9e68.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Der Musikstreaming-Dienst hatte am Mittwoch weltweit mit massiven Ausfällen zu kämpfen. Am Abend gab Spotify dann Entwarnung. </p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Carrera Hybrid Speedway to Hell im Test: Porsche mit dem Smartphone steuern]]></title>
+        <id>http://heise.de/-10354043</id>
+        <updated>2025-04-16T16:00:00+02:00</updated>
+        <published>2025-04-16T16:00:00+02:00</published>
+        <link href="https://www.heise.de/bestenlisten/testbericht/carrera-hybrid-speedway-to-hell-im-test/2mv1dl7?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html"><![CDATA[Carrera Hybrid Speedway to Hell modernisiert die traditionellen Spielzeugautos per App. Bleibt der hybride Fahrspaß trotz technischer Probleme erhalten?]]></summary>
+        <content type="html"><![CDATA[<p>Carrera Hybrid Speedway to Hell modernisiert die traditionellen Spielzeugautos per App. Bleibt der hybride Fahrspaß trotz technischer Probleme erhalten?</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Elektro-SUV Lucid Gravity kommt im Herbst aus den USA nach Deutschland]]></title>
+        <id>http://heise.de/-10354438</id>
+        <updated>2025-04-16T15:41:00+02:00</updated>
+        <published>2025-04-16T15:41:00+02:00</published>
+        <link href="https://www.heise.de/news/Elektro-SUV-Lucid-Gravity-kommt-im-Herbst-aus-den-USA-nach-Deutschland-10354438.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Florian Pillau</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Die E-Automarke Lucid aus den USA bringt mit dem Gravity ihr erstes SUV heraus. Ab September soll der Luxus-Allrad-Siebensitzer in Deutschland erhältlich sein.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Elektro-SUV-Lucid-Gravity-kommt-im-Herbst-aus-den-USA-nach-Deutschland-10354438.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/8/8/6/Gravity-WA-91a5bcf065f9684a.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Die E-Automarke Lucid aus den USA bringt mit dem Gravity ihr erstes SUV heraus. Ab September soll der Luxus-Allrad-Siebensitzer in Deutschland erhältlich sein.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[5G: Vodafone will Funklöcher in Tunneln mit neuartigen Antennen schließen]]></title>
+        <id>http://heise.de/-10354382</id>
+        <updated>2025-04-16T15:31:00+02:00</updated>
+        <published>2025-04-16T15:31:00+02:00</published>
+        <link href="https://www.heise.de/news/5G-Vodafone-will-Funkloecher-in-Tunneln-mit-neuartigen-Antennen-schliessen-10354382.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Andreas Floemer</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Mit windfesten, kegelförmigen Antennen will der Netzbetreiber Vodafone auch längere Tunnel mit 5G-Netz versorgen. ]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/5G-Vodafone-will-Funkloecher-in-Tunneln-mit-neuartigen-Antennen-schliessen-10354382.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/8/5/8/vodafone-netzausbau_tunnel_5g-mobilfunk-9ff8dd5d8152d7dd.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Mit windfesten, kegelförmigen Antennen will der Netzbetreiber Vodafone auch längere Tunnel mit 5G-Netz versorgen. </p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Gender Pay Gap kehrt sich um: IT-Freiberuflerinnen verdienen mehr als Männer]]></title>
+        <id>http://heise.de/-10354371</id>
+        <updated>2025-04-16T15:23:00+02:00</updated>
+        <published>2025-04-16T15:23:00+02:00</published>
+        <link href="https://www.heise.de/news/Trendwende-bei-IT-Freelancern-Frauen-bekommen-neun-Prozent-mehr-Geld-als-Maenner-10354371.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Sven Festag</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Oft bekommen Frauen weniger Gehalt als männliche Kollegen. Für IT-Freiberuflerinnen ist das anders ‒ sie verdienen mittlerweile mehr Geld als Männer.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Trendwende-bei-IT-Freelancern-Frauen-bekommen-neun-Prozent-mehr-Geld-als-Maenner-10354371.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/8/5/2/shutterstock_390162592-42cbed50132908df.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Oft bekommen Frauen weniger Gehalt als männliche Kollegen. Für IT-Freiberuflerinnen ist das anders ‒ sie verdienen mittlerweile mehr Geld als Männer.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Nvidia: GeForce RTX 5060 Ti startet jetzt, die RTX 5060 folgt]]></title>
+        <id>http://heise.de/-10354356</id>
+        <updated>2025-04-16T15:00:00+02:00</updated>
+        <published>2025-04-16T15:00:00+02:00</published>
+        <link href="https://www.heise.de/news/Nvidia-bringt-GeForce-RTX-5060-Ti-und-gibt-Ausblick-auf-RTX-5060-10354356.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Mark Mantel</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Die GeForce RTX 5060 Ti soll ab heute mit 8 und 16 GByte Speicher verfügbar sein. Die günstigere RTX 5060 braucht noch etwas.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Nvidia-bringt-GeForce-RTX-5060-Ti-und-gibt-Ausblick-auf-RTX-5060-10354356.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/8/4/4/GeForce-RTX-5060Ti-Partner-Group-bcd8f3810919da70.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Die GeForce RTX 5060 Ti soll ab heute mit 8 und 16 GByte Speicher verfügbar sein. Die günstigere RTX 5060 braucht noch etwas.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[KI-Update: KI für die NATO, Soziales Netzwerk von Open AI, neue GPT-Modelle]]></title>
+        <id>http://heise.de/-10353486</id>
+        <updated>2025-04-16T15:00:00+02:00</updated>
+        <published>2025-04-16T15:00:00+02:00</published>
+        <link href="https://www.heise.de/news/KI-Update-KI-fuer-die-NATO-Soziales-Netzwerk-von-Open-AI-neue-GPT-Modelle-10353486.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Marko Pauli</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Das "KI-Update" liefert werktäglich eine Zusammenfassung der wichtigsten KI-Entwicklungen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/KI-Update-KI-fuer-die-NATO-Soziales-Netzwerk-von-Open-AI-neue-GPT-Modelle-10353486.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/3/9/6/KIupdate_Titel_122023-0953f976150f021c.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Das "KI-Update" liefert werktäglich eine Zusammenfassung der wichtigsten KI-Entwicklungen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Datenschützer: Nutzung privater Inhalte für Metas KI-Training widersprechen ]]></title>
+        <id>http://heise.de/-10354260</id>
+        <updated>2025-04-16T14:23:00+02:00</updated>
+        <published>2025-04-16T14:23:00+02:00</published>
+        <link href="https://www.heise.de/news/Datenschuetzer-Nutzung-privater-Inhalte-fuer-Metas-KI-Training-widersprechen-10354260.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>dpa</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Meta will für das Training seiner KI auch die von Nutzern bei Instagram und Facebook geteilten Daten nutzen. Hamburgs Datenschutzbeauftragten besorgt dies.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Datenschuetzer-Nutzung-privater-Inhalte-fuer-Metas-KI-Training-widersprechen-10354260.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/7/9/2/shutterstock_2525579773-67430246707ff359.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Meta will für das Training seiner KI auch die von Nutzern bei Instagram und Facebook geteilten Daten nutzen. Hamburgs Datenschutzbeauftragten besorgt dies.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[heise-Angebot: iX-Workshop: Produktiver programmieren mit Github Copilot und ChatGPT]]></title>
+        <id>http://heise.de/-10344261</id>
+        <updated>2025-04-16T14:00:00+02:00</updated>
+        <published>2025-04-16T14:00:00+02:00</published>
+        <link href="https://www.heise.de/news/iX-Workshop-Produktiver-programmieren-mit-Github-Copilot-und-ChatGPT-10344261.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Ilona Krause</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Anwendungen schneller und komfortabler programmieren mit den KI-Funktionen von GitHub Copilot und ChatGPT — eine Praxisanleitung]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/iX-Workshop-Produktiver-programmieren-mit-Github-Copilot-und-ChatGPT-10344261.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/3/5/9/8/Github-Copilot-Ticker-Header-16-9-945178848223680f.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Anwendungen schneller und komfortabler programmieren mit den KI-Funktionen von GitHub Copilot und ChatGPT — eine Praxisanleitung</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Browser Opera: Apples DMA-Änderungen reichen nicht aus]]></title>
+        <id>http://heise.de/-10353269</id>
+        <updated>2025-04-16T13:45:00+02:00</updated>
+        <published>2025-04-16T13:45:00+02:00</published>
+        <link href="https://www.heise.de/news/Browser-Opera-Apples-DMA-Aenderungen-reichen-nicht-aus-10353269.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Ben Schwan</name>
+        </author>
+        
+        <summary type="html"><![CDATA[In der EU muss Apple seine Plattformen iOS und iPadOS deutlich stärker freigeben als früher. Dem Browser-Anbieter Opera geht das aber nicht weit genug.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Browser-Opera-Apples-DMA-Aenderungen-reichen-nicht-aus-10353269.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/2/8/7/shutterstock_2386008717-59ee5fb5a84f6789.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>In der EU muss Apple seine Plattformen iOS und iPadOS deutlich stärker freigeben als früher. Dem Browser-Anbieter Opera geht das aber nicht weit genug.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Support bis September: Microsoft drängt Exchange-Kunden zum Umstieg in die Cloud]]></title>
+        <id>http://heise.de/-10353757</id>
+        <updated>2025-04-16T13:11:00+02:00</updated>
+        <published>2025-04-16T13:11:00+02:00</published>
+        <link href="https://www.heise.de/news/Support-bis-September-Microsoft-draengt-Exchange-Kunden-zum-Umstieg-in-die-Cloud-10353757.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Sven Festag</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Microsoft erinnert erneut auf das Support-Ende von Exchange 2016 und 2019 im Oktober 2025. Jedoch ist ein Release von Exchange Server SE erst im Juli geplant.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Support-bis-September-Microsoft-draengt-Exchange-Kunden-zum-Umstieg-in-die-Cloud-10353757.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/5/3/5/shutterstock_574000213-f4471487092da113.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Microsoft erinnert erneut auf das Support-Ende von Exchange 2016 und 2019 im Oktober 2025. Jedoch ist ein Release von Exchange Server SE erst im Juli geplant.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Counterpoint: Apple kriegt erstmals Smartphone-Marktführerschaft – wegen 16e]]></title>
+        <id>http://heise.de/-10353265</id>
+        <updated>2025-04-16T12:45:00+02:00</updated>
+        <published>2025-04-16T12:45:00+02:00</published>
+        <link href="https://www.heise.de/news/Dank-iPhone-16e-Apple-laut-Analysten-erstmals-globaler-Smartphone-Marktfuehrer-10353265.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Ben Schwan</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Apples neues Einsteiger-iPhone verkauft sich offenbar gut. So gut, dass es gelang, chinesische Konkurrenten und Samsung zu schlagen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Dank-iPhone-16e-Apple-laut-Analysten-erstmals-globaler-Smartphone-Marktfuehrer-10353265.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/2/8/5/Screenshot_2025-02-20_at_09-5b27152be98ebdbf-55c234cda7c617ac.png" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Apples neues Einsteiger-iPhone verkauft sich offenbar gut. So gut, dass es gelang, chinesische Konkurrenten und Samsung zu schlagen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Pimoroni Presto bringt RP2350-Power auf den Schreibtisch]]></title>
+        <id>http://heise.de/-10354068</id>
+        <updated>2025-04-16T12:40:00+02:00</updated>
+        <published>2025-04-16T12:40:00+02:00</published>
+        <link href="https://www.heise.de/news/Pimoroni-Presto-Touch-Display-auf-Basis-von-Pi-Pico-10354068.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Daniel Schwabe</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Pimoroni bringt mit dem Presto ein Displaygerät mit Touchscreen, WLAN, RGB-LEDs und Sensoranschluss für eigene Projekte und Anwendungen auf den Markt.
+]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Pimoroni-Presto-Touch-Display-auf-Basis-von-Pi-Pico-10354068.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/6/9/5/Thumb-2222adc8ab3d861f.png" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Pimoroni bringt mit dem Presto ein Displaygerät mit Touchscreen, WLAN, RGB-LEDs und Sensoranschluss für eigene Projekte und Anwendungen auf den Markt.
+</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Überwachungs-KI für die Bundeswehr]]></title>
+        <id>http://heise.de/-10353985</id>
+        <updated>2025-04-16T12:34:00+02:00</updated>
+        <published>2025-04-16T12:34:00+02:00</published>
+        <link href="https://www.heise.de/news/Ueberwachungs-KI-fuer-die-Bundeswehr-10353985.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Alex Cameron Hall</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Die Bundeswehr will erstmals großflächig KI einsetzen, um die NATO-Grenzen zu überwachen. Neben Branchenriesen bewerben sich auch Start-ups.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Ueberwachungs-KI-fuer-die-Bundeswehr-10353985.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/6/5/3/shutterstock_761939458-9a38af5a94ac4289.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Die Bundeswehr will erstmals großflächig KI einsetzen, um die NATO-Grenzen zu überwachen. Neben Branchenriesen bewerben sich auch Start-ups.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Messenger-Alternative: Volla Messages mit großen Versprechungen ]]></title>
+        <id>http://heise.de/-10352561</id>
+        <updated>2025-04-16T12:30:00+02:00</updated>
+        <published>2025-04-16T12:30:00+02:00</published>
+        <link href="https://www.heise.de/news/Messenger-Alternative-Volla-Messages-mit-grossen-Versprechungen-10352561.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Sylvester Tremmel</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Die angebliche "WhatsApp- und Telegram-Alternative" Volla Messages wird mit Lob überhäuft, kann aber noch(?) kaum echte Vorteile ins Feld führen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Messenger-Alternative-Volla-Messages-mit-grossen-Versprechungen-10352561.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/7/9/1/7/Volla_1-0d30ee8c532f1337.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Die angebliche "WhatsApp- und Telegram-Alternative" Volla Messages wird mit Lob überhäuft, kann aber noch(?) kaum echte Vorteile ins Feld führen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Whatsapp macht eigenen Chat auf ]]></title>
+        <id>http://heise.de/-10353837</id>
+        <updated>2025-04-16T12:24:00+02:00</updated>
+        <published>2025-04-16T12:24:00+02:00</published>
+        <link href="https://www.heise.de/news/Whatsapp-macht-eigenen-Chat-auf-10353837.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Andreas Floemer</name>
+        </author>
+        
+        <summary type="html"><![CDATA[WhatsApp will mit eigenem WhatsApp-Chat über neue Funktionen informieren und Tipps zur Nutzung liefern. ]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Whatsapp-macht-eigenen-Chat-auf-10353837.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/5/7/7/whatsapp-app-icon-shutterstock-97bf256520cfc971.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>WhatsApp will mit eigenem WhatsApp-Chat über neue Funktionen informieren und Tipps zur Nutzung liefern. </p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA["Doom": Sammleredition kommt in Box, die "Doom" spielen kann]]></title>
+        <id>http://heise.de/-10353899</id>
+        <updated>2025-04-16T12:18:00+02:00</updated>
+        <published>2025-04-16T12:18:00+02:00</published>
+        <link href="https://www.heise.de/news/Doom-Sammleredition-kommt-in-Box-die-Doom-spielen-kann-10353899.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Daniel Herbig</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Eine neue Sammleredition von "Doom" kommt in einer Box mit Display, die "Doom" spielen kann. Mit dabei: ein Cacodemon, der ebenfalls "Doom" spielen kann. ]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Doom-Sammleredition-kommt-in-Box-die-Doom-spielen-kann-10353899.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/6/0/9/Doom-1_2__MockUp_Market_Banner_CE_Square_Will-It-Run-0885eb56dbf54cf8.png" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Eine neue Sammleredition von "Doom" kommt in einer Box mit Display, die "Doom" spielen kann. Mit dabei: ein Cacodemon, der ebenfalls "Doom" spielen kann. </p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[heise-Angebot: Online-Meetup im April zu KI im Marketing]]></title>
+        <id>http://heise.de/-10353052</id>
+        <updated>2025-04-16T12:00:00+02:00</updated>
+        <published>2025-04-16T12:00:00+02:00</published>
+        <link href="https://www.heise.de/news/Online-Meetup-im-April-zu-KI-im-Marketing-10353052.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Kathrin Kunsch</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Die kostenlose Anmeldung für Online-Events im Vorfeld der Horizons by heise #25 ist jetzt möglich! Im April thematisieren wir die Anwendung von KI im Marketing.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Online-Meetup-im-April-zu-KI-im-Marketing-10353052.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/1/7/0/Horizons__25_LinkedIn_Event___2_-cf190ae5f5ba2d93.png" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Die kostenlose Anmeldung für Online-Events im Vorfeld der Horizons by heise #25 ist jetzt möglich! Im April thematisieren wir die Anwendung von KI im Marketing.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[ASML: Zweitbestes Quartal in Firmengeschichte führt zu Börsenminus]]></title>
+        <id>http://heise.de/-10353954</id>
+        <updated>2025-04-16T11:59:00+02:00</updated>
+        <published>2025-04-16T11:59:00+02:00</published>
+        <link href="https://www.heise.de/news/ASML-Zweitbestes-Quartal-in-Firmengeschichte-fuehrt-zu-Boersenminus-10353954.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Mark Mantel</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Auf Rekordzahlen folgt das zweitbeste Ergebnis für ASML. Der Ausblick bleibt unverändert. Die Börse zeigt sich trotzdem unzufrieden.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/ASML-Zweitbestes-Quartal-in-Firmengeschichte-fuehrt-zu-Boersenminus-10353954.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/6/3/7/240727143_18893cc4df-e18ba95909ec35c8.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Auf Rekordzahlen folgt das zweitbeste Ergebnis für ASML. Der Ausblick bleibt unverändert. Die Börse zeigt sich trotzdem unzufrieden.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Batterie wie Zahnpasta kann jede Form annehmen]]></title>
+        <id>http://heise.de/-10353914</id>
+        <updated>2025-04-16T11:57:00+02:00</updated>
+        <published>2025-04-16T11:57:00+02:00</published>
+        <link href="https://www.heise.de/news/Batterie-aus-der-Tube-Weiches-Material-laesst-Batterien-jede-Form-annehmen-10353914.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Oliver Bünte</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Die Bauform der Batterie bestimmt häufig das Design von elektronischen Produkten. Eine beliebig formbare Batterie lässt mehr Freiheiten beim Produktdesign zu.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Batterie-aus-der-Tube-Weiches-Material-laesst-Batterien-jede-Form-annehmen-10353914.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/6/1/7/Batterie_Tube-12346feeb6fecfff.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Die Bauform der Batterie bestimmt häufig das Design von elektronischen Produkten. Eine beliebig formbare Batterie lässt mehr Freiheiten beim Produktdesign zu.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Für die Sphere Las Vegas: Google baut "Wizard of Oz" hochauflösend mit KI nach]]></title>
+        <id>http://heise.de/-10349667</id>
+        <updated>2025-04-16T11:40:00+02:00</updated>
+        <published>2025-04-16T11:40:00+02:00</published>
+        <link href="https://www.heise.de/news/Fuer-die-Sphere-Las-Vegas-Google-baut-Wizard-of-Oz-hochaufloesend-mit-KI-nach-10349667.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Ben Schwan</name>
+        </author>
+        
+        <summary type="html"><![CDATA[1939 erschien der Filmklassiker "The Wizard of Oz". Für ein Projekt im Riesenkino Sphere in Las Vegas half nun Google aus: mit ganz viel KI und sogar Prompting.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Fuer-die-Sphere-Las-Vegas-Google-baut-Wizard-of-Oz-hochaufloesend-mit-KI-nach-10349667.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/6/4/2/8/wizgoog-2c58d80f2515c134.png" class="webfeedsFeaturedVisual" alt="" /></a></p><p>1939 erschien der Filmklassiker "The Wizard of Oz". Für ein Projekt im Riesenkino Sphere in Las Vegas half nun Google aus: mit ganz viel KI und sogar Prompting.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[.NET MAUI erweitern: GUI-Elemente, Backend und Datenanbindung]]></title>
+        <id>http://heise.de/-10353424</id>
+        <updated>2025-04-16T11:35:00+02:00</updated>
+        <published>2025-04-16T11:35:00+02:00</published>
+        <link href="https://www.heise.de/hintergrund/NET-MAUI-erweitern-GUI-Elemente-Backend-und-Datenanbindung-10353424.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Veikko Krypczyk</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Plug-ins liefern handliche Steuerelemente, Datenvisualisierung, Zugriff auf Sensoren oder Synchronisation mit dem Backend – oft kostenlos und Open Source.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/hintergrund/NET-MAUI-erweitern-GUI-Elemente-Backend-und-Datenanbindung-10353424.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/3/6/5/maui_midjourney-b9147559e77007a6.png" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Plug-ins liefern handliche Steuerelemente, Datenvisualisierung, Zugriff auf Sensoren oder Synchronisation mit dem Backend – oft kostenlos und Open Source.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Nach Signal-Affäre: Auch EU-Minister kommunizieren über Gruppenchat]]></title>
+        <id>http://heise.de/-10353749</id>
+        <updated>2025-04-16T11:00:00+02:00</updated>
+        <published>2025-04-16T11:00:00+02:00</published>
+        <link href="https://www.heise.de/news/EU-gesteht-Existenz-von-Signal-Gruppenchat-der-EU-Aussenminister-ein-10353749.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Martin Holland</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Nicht nur in den USA kommunizieren Regierungsvertreter miteinander über Signal, auch in der EU ist das offenbar verbreitet. Die Inhalte sollen geheim bleiben.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/EU-gesteht-Existenz-von-Signal-Gruppenchat-der-EU-Aussenminister-ein-10353749.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/5/3/1/shutterstock_2595492199-3d8461d81578d6e6.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Nicht nur in den USA kommunizieren Regierungsvertreter miteinander über Signal, auch in der EU ist das offenbar verbreitet. Die Inhalte sollen geheim bleiben.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Google sagt exzessiv energieverbrauchenden Android-Apps den Kampf an]]></title>
+        <id>http://heise.de/-10353687</id>
+        <updated>2025-04-16T10:27:00+02:00</updated>
+        <published>2025-04-16T10:27:00+02:00</published>
+        <link href="https://www.heise.de/news/Google-sagt-exzessiv-energieverbrauchenden-Android-Apps-den-Kampf-an-10353687.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Andreas Floemer</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Google will mit einer neuen Initiative die Laufzeit von Smartphones erhöhen. Zuerst will der Hersteller exzessiv energieverbrauchenden Apps an den Kragen. ]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Google-sagt-exzessiv-energieverbrauchenden-Android-Apps-den-Kampf-an-10353687.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/4/9/9/pixel-9-pro-d320cb87d4510d96.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Google will mit einer neuen Initiative die Laufzeit von Smartphones erhöhen. Zuerst will der Hersteller exzessiv energieverbrauchenden Apps an den Kragen. </p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Notion Mail veröffentlicht: E-Mail-Client sortiert Gmail-Postfach mit KI]]></title>
+        <id>http://heise.de/-10353679</id>
+        <updated>2025-04-16T10:22:00+02:00</updated>
+        <published>2025-04-16T10:22:00+02:00</published>
+        <link href="https://www.heise.de/news/KI-im-Posteingang-Notion-und-Anthropic-starten-KI-Features-fuer-Gmail-Postfaecher-10353679.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Sven Festag</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Notion bringt für Gmail einen E-Mail-Client mit KI-Funktionen für ein übersichtlicheres Postfach. Auch Anthropic ermöglicht eine Anbindung von Claude an Gmail.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/KI-im-Posteingang-Notion-und-Anthropic-starten-KI-Features-fuer-Gmail-Postfaecher-10353679.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/4/9/5/notionmail-fc540c7243f8f9a8.png" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Notion bringt für Gmail einen E-Mail-Client mit KI-Funktionen für ein übersichtlicheres Postfach. Auch Anthropic ermöglicht eine Anbindung von Claude an Gmail.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Traum von Donald Trump: Ist ein iPhone aus den USA möglich?]]></title>
+        <id>http://heise.de/-10350418</id>
+        <updated>2025-04-16T10:07:00+02:00</updated>
+        <published>2025-04-16T10:07:00+02:00</published>
+        <link href="https://www.heise.de/news/iPhone-made-in-USA-Was-es-moeglich-machen-wuerde-und-was-nicht-10350418.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Ben Schwan</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Die aktuelle Zollgeisterfahrt der US-Regierung hat das Ziel, High-Tech-Produkte wieder in der Heimat zu bauen. Wie realistisch ist das?]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/iPhone-made-in-USA-Was-es-moeglich-machen-wuerde-und-was-nicht-10350418.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/6/8/0/7/iphone16-b02e769fdf8b748f.png" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Die aktuelle Zollgeisterfahrt der US-Regierung hat das Ziel, High-Tech-Produkte wieder in der Heimat zu bauen. Wie realistisch ist das?</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[heise-Angebot: iX-Workshop: Wireshark für Netzwerkdiagnose und -sicherheit]]></title>
+        <id>http://heise.de/-10344183</id>
+        <updated>2025-04-16T10:00:00+02:00</updated>
+        <published>2025-04-16T10:00:00+02:00</published>
+        <link href="https://www.heise.de/news/iX-Workshop-Wireshark-effizient-zur-Netzwerkanalyse-einsetzen-10344183.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Ilona Krause</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Praktische Übungen, Experten-Tipps und fundiertes Wissen: Lernen Sie, wie Sie mit Wireshark Netzwerkprobleme erkennen und beheben.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/iX-Workshop-Wireshark-effizient-zur-Netzwerkanalyse-einsetzen-10344183.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/3/5/5/8/netzwerkanalyse_und_fehlersuche_mit_wireshark_ticker-1920x1080px-69cfacac8e430811.png" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Praktische Übungen, Experten-Tipps und fundiertes Wissen: Lernen Sie, wie Sie mit Wireshark Netzwerkprobleme erkennen und beheben.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Erste Deutsche im All: Mein Flug soll inspirieren]]></title>
+        <id>http://heise.de/-10353587</id>
+        <updated>2025-04-16T09:35:00+02:00</updated>
+        <published>2025-04-16T09:35:00+02:00</published>
+        <link href="https://www.heise.de/news/Erste-Deutsche-im-All-Mein-Flug-soll-inspirieren-10353587.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>dpa</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Rund vier Tage lang flog Rabea Rogge als erste deutsche Frau um die Erdpole. Ihre Mission könnte erst der Anfang sein.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Erste-Deutsche-im-All-Mein-Flug-soll-inspirieren-10353587.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/4/4/7/hp-21e104834190aa7b.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Rund vier Tage lang flog Rabea Rogge als erste deutsche Frau um die Erdpole. Ihre Mission könnte erst der Anfang sein.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Leak mit vielen Interna: 4chan nach Hackerangriff offline gegangen]]></title>
+        <id>http://heise.de/-10353492</id>
+        <updated>2025-04-16T09:19:00+02:00</updated>
+        <published>2025-04-16T09:19:00+02:00</published>
+        <link href="https://www.heise.de/news/Leak-mit-vielen-Interna-4chan-nach-Hackerangriff-offline-gegangen-10353492.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Martin Holland</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Unbekannte behaupten, weitreichenden Zugriff auf 4chan gehabt zu haben und haben angebliche Beweise öffentlich gemacht. Die Seite ist jetzt weitgehend offline.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Leak-mit-vielen-Interna-4chan-nach-Hackerangriff-offline-gegangen-10353492.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/3/9/9/shutterstock_1778976905-962da58374511afc.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Unbekannte behaupten, weitreichenden Zugriff auf 4chan gehabt zu haben und haben angebliche Beweise öffentlich gemacht. Die Seite ist jetzt weitgehend offline.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA["Unvernünftige Schikane": Hongkong setzt Warenversand in die USA aus]]></title>
+        <id>http://heise.de/-10353579</id>
+        <updated>2025-04-16T09:17:00+02:00</updated>
+        <published>2025-04-16T09:17:00+02:00</published>
+        <link href="https://www.heise.de/news/Zollstreit-Hongkong-setzt-Warenversand-in-die-USA-aus-10353579.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>dpa</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Der Zollstreit mit den USA erreicht zusehends den Endverbraucher. In Hongkong zieht die Post nun Konsequenzen aus Donald Trumps Handelspolitik.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Zollstreit-Hongkong-setzt-Warenversand-in-die-USA-aus-10353579.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/4/4/3/shutterstock_170638406-c39f4b36b0abdde2.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Der Zollstreit mit den USA erreicht zusehends den Endverbraucher. In Hongkong zieht die Post nun Konsequenzen aus Donald Trumps Handelspolitik.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Selbstbevorzugung bei Big-Tech: OpenAI macht es wie Meta und Google]]></title>
+        <id>http://heise.de/-10353388</id>
+        <updated>2025-04-16T08:47:00+02:00</updated>
+        <published>2025-04-16T08:47:00+02:00</published>
+        <link href="https://www.heise.de/hintergrund/Selbstbevorzugung-bei-Big-Tech-OpenAI-macht-es-wie-Meta-und-Google-10353388.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Eva-Maria Weiß</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Meta und Google droht wegen ihrer Monopolstellungen die Zerschlagung. Gleichzeitig will OpenAI ein nächstes Standbein aufbauen. Eine Analyse von Eva-Maria Weiß.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/hintergrund/Selbstbevorzugung-bei-Big-Tech-OpenAI-macht-es-wie-Meta-und-Google-10353388.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/3/4/7/AnalyseSF-6b2604b31781f561.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Meta und Google droht wegen ihrer Monopolstellungen die Zerschlagung. Gleichzeitig will OpenAI ein nächstes Standbein aufbauen. Eine Analyse von Eva-Maria Weiß.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Autonome Drohne schlägt erstmals menschliche Drohnen-Weltmeister im Rennen]]></title>
+        <id>http://heise.de/-10353420</id>
+        <updated>2025-04-16T08:47:00+02:00</updated>
+        <published>2025-04-16T08:47:00+02:00</published>
+        <link href="https://www.heise.de/news/Autonome-Drohne-schlaegt-erstmals-menschliche-Drohnen-Weltmeister-im-Rennen-10353420.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Oliver Bünte</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Eine autonome Drohne durchfliegt einen Meisterschaftsparcours schneller als ein Mensch. Möglich macht das eine KI, die auf Raumfahrttechnik zurückgreift.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Autonome-Drohne-schlaegt-erstmals-menschliche-Drohnen-Weltmeister-im-Rennen-10353420.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/3/6/3/Autonome_Drohne_Delft-39cb3d0ed18e7d68.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Eine autonome Drohne durchfliegt einen Meisterschaftsparcours schneller als ein Mensch. Möglich macht das eine KI, die auf Raumfahrttechnik zurückgreift.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Beschlossen: Lebensdauer für TLS-Serverzertifikate sinkt auf 47 Tage]]></title>
+        <id>http://heise.de/-10352867</id>
+        <updated>2025-04-16T08:42:00+02:00</updated>
+        <published>2025-04-16T08:42:00+02:00</published>
+        <link href="https://www.heise.de/news/47-Tage-CAs-und-Browserhersteller-beschliessen-kuerzere-Laufzeit-fuer-Zertifikate-10352867.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Dr. Christopher Kunz</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Von derzeit maximal dreizehn Monaten sinkt die Gültigkeit auf anderthalb. Allerdings mit jahrelanger Übergangsfrist für Admins.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/47-Tage-CAs-und-Browserhersteller-beschliessen-kuerzere-Laufzeit-fuer-Zertifikate-10352867.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/0/7/5/d32fa76b-1c94-4527-a21f-1d590d44fd73__1_-d32809a17626716a.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Von derzeit maximal dreizehn Monaten sinkt die Gültigkeit auf anderthalb. Allerdings mit jahrelanger Übergangsfrist für Admins.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[GPT-4.1 ist da: OpenAI bringt neue Sprachmodelle für Coding und KI-Agenten]]></title>
+        <id>http://heise.de/-10352422</id>
+        <updated>2025-04-16T08:40:00+02:00</updated>
+        <published>2025-04-16T08:40:00+02:00</published>
+        <link href="https://www.heise.de/news/GPT-4-1-ist-da-OpenAI-bringt-neue-Sprachmodelle-fuer-Coding-und-KI-Agenten-10352422.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Sven Festag</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Mit GPT-4.1 gibt es von OpenAI neue KI-Modelle für die Softwareentwicklung. In Coding-Benchmarks liegt GPT-4.1 hinter der Konkurrenz von Google und Anthropic.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/GPT-4-1-ist-da-OpenAI-bringt-neue-Sprachmodelle-fuer-Coding-und-KI-Agenten-10352422.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/7/8/4/6/shutterstock_2500976757-052d1b8d9248b04b.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Mit GPT-4.1 gibt es von OpenAI neue KI-Modelle für die Softwareentwicklung. In Coding-Benchmarks liegt GPT-4.1 hinter der Konkurrenz von Google und Anthropic.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[heise-Angebot: iX-Workshop: Nachhaltigkeit messbar machen - ESG-Reporting in IT-Abteilungen ]]></title>
+        <id>http://heise.de/-10344211</id>
+        <updated>2025-04-16T08:00:00+02:00</updated>
+        <published>2025-04-16T08:00:00+02:00</published>
+        <link href="https://www.heise.de/news/iX-Workshop-Nachhaltigkeit-messbar-machen-ESG-Reporting-in-IT-Abteilungen-10344211.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Ilona Krause</name>
+        </author>
+        
+        <summary type="html"><![CDATA[CSRD-Anforderungen erfüllen: Erfahren Sie, wie IT-Abteilungen Nachhaltigkeitsdaten erfassen, analysieren und in die Unternehmensberichterstattung integrieren.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/iX-Workshop-Nachhaltigkeit-messbar-machen-ESG-Reporting-in-IT-Abteilungen-10344211.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/3/5/7/2/csrd_und_it_nachhaltigkeit_messbar_machen_ticker-1920x1080px-fbba42d68f9b4c3e.png" class="webfeedsFeaturedVisual" alt="" /></a></p><p>CSRD-Anforderungen erfüllen: Erfahren Sie, wie IT-Abteilungen Nachhaltigkeitsdaten erfassen, analysieren und in die Unternehmensberichterstattung integrieren.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Verfahren gegen Meta: Mark Zuckerberg wollte Instagram 2018 wieder verkaufen]]></title>
+        <id>http://heise.de/-10353368</id>
+        <updated>2025-04-16T07:08:00+02:00</updated>
+        <published>2025-04-16T07:08:00+02:00</published>
+        <link href="https://www.heise.de/news/Verfahren-gegen-Meta-Mark-Zuckerberg-wollte-Instagram-2018-wieder-verkaufen-10353368.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Martin Holland</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Am zweiten Tag des Meta-Verfahrens ging es ums Geld: So war das Angebot für Snapchat höher als bekannt und auch an die FTC ging eine Milliardenofferte.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Verfahren-gegen-Meta-Mark-Zuckerberg-wollte-Instagram-2018-wieder-verkaufen-10353368.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/3/3/7/shutterstock_2564438445-b3ece3276fe30053.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Am zweiten Tag des Meta-Verfahrens ging es ums Geld: So war das Angebot für Snapchat höher als bekannt und auch an die FTC ging eine Milliardenofferte.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[20 Jahre Hommingberger Gepardenforelle: Her mit Eurem Fisch!]]></title>
+        <id>http://heise.de/-10351670</id>
+        <updated>2025-04-16T06:30:00+02:00</updated>
+        <published>2025-04-16T06:30:00+02:00</published>
+        <link href="https://www.heise.de/news/20-Jahre-Hommingberger-Gepardenforelle-Her-mit-Eurem-Fisch-10351670.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Jo Bager</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Zum Jubiläum ihres Wettbewerbs um eine mysteriöse Forellenart startet die c't einen neuen Wettstreit: Diesmal geht es um KI-kreierte Bilder.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/20-Jahre-Hommingberger-Gepardenforelle-Her-mit-Eurem-Fisch-10351670.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/7/4/5/3/johoo_A_photorealistic_painting_of_an_unpredictably_shaped_le_85eeec1c-3592-4228-aeaf-1c715b13590f_3-8df4c192f624f1ed.png" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Zum Jubiläum ihres Wettbewerbs um eine mysteriöse Forellenart startet die c't einen neuen Wettstreit: Diesmal geht es um KI-kreierte Bilder.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Mittwoch: Soziales Netzwerk von OpenAI, Lizenzpflicht für Nvidias KI-Chips]]></title>
+        <id>http://heise.de/-10353354</id>
+        <updated>2025-04-16T06:15:00+02:00</updated>
+        <published>2025-04-16T06:15:00+02:00</published>
+        <link href="https://www.heise.de/news/Mittwoch-Soziales-Netzwerk-von-OpenAI-Lizenzpflicht-fuer-Nvidias-KI-Chips-10353354.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Frank Schräer</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Social Web für ChatGPT + Milliardenkosten für Nvidia + Ende von ActiveX + CVE-Liste vor dem Aus + KDE für Fedora Linux 42 + Apple Ads jenseits der Suche]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Mittwoch-Soziales-Netzwerk-von-OpenAI-Lizenzpflicht-fuer-Nvidias-KI-Chips-10353354.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/3/3/0/mittw-b2a1d591ad753911.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Social Web für ChatGPT + Milliardenkosten für Nvidia + Ende von ActiveX + CVE-Liste vor dem Aus + KDE für Fedora Linux 42 + Apple Ads jenseits der Suche</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Nvidia drohen Milliardenkosten wegen neuer US-Regeln für Chip-Export nach China]]></title>
+        <id>http://heise.de/-10353338</id>
+        <updated>2025-04-16T04:32:00+02:00</updated>
+        <published>2025-04-16T04:32:00+02:00</published>
+        <link href="https://www.heise.de/news/Nvidia-drohen-Milliardenkosten-wegen-neuer-US-Regeln-fuer-Chip-Export-nach-China-10353338.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Frank Schräer</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Die US-Regierung verlangt ab sofort Lizenzen für den Export von KI-Chips nach China. Das dürfte Nvidia rund 5,5 Milliarden US-Dollar kosten. Die Aktie fällt.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Nvidia-drohen-Milliardenkosten-wegen-neuer-US-Regeln-fuer-Chip-Export-nach-China-10353338.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/3/2/2/shutterstock_1418675876-e79bdb266f1a9c1f.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Die US-Regierung verlangt ab sofort Lizenzen für den Export von KI-Chips nach China. Das dürfte Nvidia rund 5,5 Milliarden US-Dollar kosten. Die Aktie fällt.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[US-Kürzungen: CVE-Liste könnte sofort stoppen]]></title>
+        <id>http://heise.de/-10353326</id>
+        <updated>2025-04-16T02:16:00+02:00</updated>
+        <published>2025-04-16T02:16:00+02:00</published>
+        <link href="https://www.heise.de/news/US-Kuerzungen-CVE-Liste-koennte-sofort-stoppen-10353326.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Daniel AJ Sokolov</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Die CVE-Liste ist zentral für koordinierte Maßnahmen gegen gefährliche Bugs. Die US-Regierung entzieht die Finanzierung. Per sofort.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/US-Kuerzungen-CVE-Liste-koennte-sofort-stoppen-10353326.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/3/1/6/Tresore-0cf5687809fa292e.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Die CVE-Liste ist zentral für koordinierte Maßnahmen gegen gefährliche Bugs. Die US-Regierung entzieht die Finanzierung. Per sofort.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Vollzug: Microsoft 365 wird ActiveX los]]></title>
+        <id>http://heise.de/-10353306</id>
+        <updated>2025-04-16T00:11:00+02:00</updated>
+        <published>2025-04-16T00:11:00+02:00</published>
+        <link href="https://www.heise.de/news/Vollzug-bei-Microsoft-365-ActiveX-wird-jetzt-abgedreht-10353306.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Daniel AJ Sokolov</name>
+        </author>
+        
+        <summary type="html"><![CDATA[ActiveX folgt Flash. Die riskanten Plug-ins funktionieren in Microsoft-365-Apps bald standardmäßig nicht mehr.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Vollzug-bei-Microsoft-365-ActiveX-wird-jetzt-abgedreht-10353306.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/3/0/6/shutterstock_2108335628-adc80289ca5993c0.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>ActiveX folgt Flash. Die riskanten Plug-ins funktionieren in Microsoft-365-Apps bald standardmäßig nicht mehr.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Bericht: OpenAI baut eigenes Soziales Netz]]></title>
+        <id>http://heise.de/-10353285</id>
+        <updated>2025-04-15T22:30:00+02:00</updated>
+        <published>2025-04-15T22:30:00+02:00</published>
+        <link href="https://www.heise.de/news/Bericht-OpenAI-baut-eigenes-Soziales-Netz-10353285.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Daniel AJ Sokolov</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Meta Platforms und X reiten auf der KI-Welle. Dann machen wir eben in Soziale Netzwerke, denkt sich OpenAI-Chef Sam Altman da.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Bericht-OpenAI-baut-eigenes-Soziales-Netz-10353285.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/2/9/5/shutterstock_768531205-94ae3d55450b4562.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Meta Platforms und X reiten auf der KI-Welle. Dann machen wir eben in Soziale Netzwerke, denkt sich OpenAI-Chef Sam Altman da.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Fedora Linux 42 befördert KDE-Ausgabe zur Hauptversion neben Gnome]]></title>
+        <id>http://heise.de/-10352887</id>
+        <updated>2025-04-15T21:47:00+02:00</updated>
+        <published>2025-04-15T21:47:00+02:00</published>
+        <link href="https://www.heise.de/news/Fedora-Linux-42-befoerdert-KDE-Ausgabe-zur-Hauptversion-neben-Gnome-10352887.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>David Wolski</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Die bisher als sekundärer Spin gepflegte KDE-Variante holt Fedora vom Rücksitz in die erste Reihe. Die Gnome-Hauptausgabe hat einen neuen Installer bekommen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Fedora-Linux-42-befoerdert-KDE-Ausgabe-zur-Hauptversion-neben-Gnome-10352887.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/0/8/5/00_aufmacher_fedora42-ed0c807638038e7a.png" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Die bisher als sekundärer Spin gepflegte KDE-Variante holt Fedora vom Rücksitz in die erste Reihe. Die Gnome-Hauptausgabe hat einen neuen Installer bekommen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Apple Ads: Apples Werbeplattform stellt sich breiter auf]]></title>
+        <id>http://heise.de/-10353227</id>
+        <updated>2025-04-15T20:40:00+02:00</updated>
+        <published>2025-04-15T20:40:00+02:00</published>
+        <link href="https://www.heise.de/news/Apple-Ads-Apples-Werbeplattform-stellt-sich-breiter-auf-10353227.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Leo Becker</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Aus "Search Ads" wird "Apple Ads": Die Namensänderung signalisiert Apples steigendes Interesse am Milliardengeschäft mit Werbung in eigenen Apps.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Apple-Ads-Apples-Werbeplattform-stellt-sich-breiter-auf-10353227.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/2/6/6/app-store-updates_tre-7bb6a8bae8a341a5.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Aus "Search Ads" wird "Apple Ads": Die Namensänderung signalisiert Apples steigendes Interesse am Milliardengeschäft mit Werbung in eigenen Apps.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Top 10: Der beste günstige E-Scooter bis 500 Euro im Test – Ninebot vor Xiaomi]]></title>
+        <id>http://heise.de/-10352773</id>
+        <updated>2025-04-15T20:00:00+02:00</updated>
+        <published>2025-04-15T20:00:00+02:00</published>
+        <link href="https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-guenstige-e-scooter-im-test/wzwnpn9?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html"><![CDATA[Egal, ob Ninebot, Xiaomi oder Soflow – günstige E-Scooter mit Straßenzulassung gibt es schon für 500 Euro zu kaufen. Wir zeigen die besten preiswerten Modelle.]]></summary>
+        <content type="html"><![CDATA[<p>Egal, ob Ninebot, Xiaomi oder Soflow – günstige E-Scooter mit Straßenzulassung gibt es schon für 500 Euro zu kaufen. Wir zeigen die besten preiswerten Modelle.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Google macht Veo 2 in Gemini verfügbar]]></title>
+        <id>http://heise.de/-10352004</id>
+        <updated>2025-04-15T19:00:00+02:00</updated>
+        <published>2025-04-15T19:00:00+02:00</published>
+        <link href="https://www.heise.de/news/Google-macht-Veo-2-in-Gemini-verfuegbar-10352004.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Eva-Maria Weiß</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Veo 2 ist Googles KI zum Erstellen von Videos. Menschen mit Advanced-Gemini-Konto können sie nun nutzen. ]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Google-macht-Veo-2-in-Gemini-verfuegbar-10352004.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/7/6/2/7/shutterstock_ue552493561-c5f185f236f1c72e.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Veo 2 ist Googles KI zum Erstellen von Videos. Menschen mit Advanced-Gemini-Konto können sie nun nutzen. </p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Wieder mit Sonar an Bord: Polaroid präsentiert Sofortbildkamera Flip]]></title>
+        <id>http://heise.de/-10353046</id>
+        <updated>2025-04-15T18:58:00+02:00</updated>
+        <published>2025-04-15T18:58:00+02:00</published>
+        <link href="https://www.heise.de/news/Wieder-mit-Sonar-an-Bord-Polaroid-praesentiert-Sofortbildkamera-Flip-10353046.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Hendrik Vatheuer</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Optimierte Funktionen bei bekannter Technik, die Polaroid Flip verspricht bessere Sofortbilder. Das Point&Shoot-Konzept der Kamera richtet sich an Einsteiger.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Wieder-mit-Sonar-an-Bord-Polaroid-praesentiert-Sofortbildkamera-Flip-10353046.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/1/6/7/Polaroid-Flip-Comms-Lifestyle-3x2-09-9f58b5-80931541393dca0b.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Optimierte Funktionen bei bekannter Technik, die Polaroid Flip verspricht bessere Sofortbilder. Das Point&Shoot-Konzept der Kamera richtet sich an Einsteiger.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[ Digitale Spaltung bei Nutzung von Bezahldiensten – Bargeld-Zwang nervt viele]]></title>
+        <id>http://heise.de/-10353203</id>
+        <updated>2025-04-15T18:35:00+02:00</updated>
+        <published>2025-04-15T18:35:00+02:00</published>
+        <link href="https://www.heise.de/news/Digitale-Spaltung-bei-Nutzung-von-Bezahldiensten-Bargeld-Zwang-nervt-viele-10353203.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Stefan Krempl</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Laut repräsentativen Umfragen gibt es ein großes Gefälle in der Nutzung digitaler Bezahlangebote, während fast ein Drittel der Bundesbürger "Cash only" ablehnt.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Digitale-Spaltung-bei-Nutzung-von-Bezahldiensten-Bargeld-Zwang-nervt-viele-10353203.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/2/4/9/shutterstock_1189321624-d25c87efb0331c40.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Laut repräsentativen Umfragen gibt es ein großes Gefälle in der Nutzung digitaler Bezahlangebote, während fast ein Drittel der Bundesbürger "Cash only" ablehnt.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Fehlerbehaftete Apple Intelligence: Abgleich mit iPhone-Daten soll helfen]]></title>
+        <id>http://heise.de/-10353093</id>
+        <updated>2025-04-15T18:11:00+02:00</updated>
+        <published>2025-04-15T18:11:00+02:00</published>
+        <link href="https://www.heise.de/news/Fehlerbehaftete-Apple-Intelligence-Abgleich-mit-iPhone-Daten-soll-helfen-10353093.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Leo Becker</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Apples Datenschutzversprechen machen es schwer, KI-Funktionen zu verbessern. Mit einem frischen Ansatz will der Konzern das Dilemma lösen. ]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Fehlerbehaftete-Apple-Intelligence-Abgleich-mit-iPhone-Daten-soll-helfen-10353093.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/1/9/1/Apple_Intelligence_iPhone_tre-bc9be6aa4f99429f.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Apples Datenschutzversprechen machen es schwer, KI-Funktionen zu verbessern. Mit einem frischen Ansatz will der Konzern das Dilemma lösen. </p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Elektronische Patientenakte kommt ab 29. April flächendeckend]]></title>
+        <id>http://heise.de/-10353138</id>
+        <updated>2025-04-15T18:00:00+02:00</updated>
+        <published>2025-04-15T18:00:00+02:00</published>
+        <link href="https://www.heise.de/news/Elektronische-Patientenakte-kommt-ab-29-April-flaechendeckend-10353138.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Falk Steiner</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Das Bundesgesundheitsministerium hält die nachgewiesenen Sicherheitsprobleme für behoben. Die Widerspruchsrate liegt weiter bei etwa fünf Prozent.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Elektronische-Patientenakte-kommt-ab-29-April-flaechendeckend-10353138.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/2/1/5/shutterstock_269044253-56ce0ca512045f7b.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Das Bundesgesundheitsministerium hält die nachgewiesenen Sicherheitsprobleme für behoben. Die Widerspruchsrate liegt weiter bei etwa fünf Prozent.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA["Baldur's Gate 3": Letzter großer Patch kommt mit 12 neuen Unterklassen]]></title>
+        <id>http://heise.de/-10352992</id>
+        <updated>2025-04-15T17:26:00+02:00</updated>
+        <published>2025-04-15T17:26:00+02:00</published>
+        <link href="https://www.heise.de/news/Baldur-s-Gate-3-Letzter-grosser-Patch-kommt-mit-12-neuen-Unterklassen-10352992.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Daniel Herbig</name>
+        </author>
+        
+        <summary type="html"><![CDATA["Baldur's Gate 3" gehört zu den größten RPG-Erfolgen des vergangenen Jahrzehnts. Nun erscheint mit Update 8 der letzte große Inhaltspatch. ]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Baldur-s-Gate-3-Letzter-grosser-Patch-kommt-mit-12-neuen-Unterklassen-10352992.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/1/3/9/67474e36d8e9b-71b7df0f860ba62e.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>"Baldur's Gate 3" gehört zu den größten RPG-Erfolgen des vergangenen Jahrzehnts. Nun erscheint mit Update 8 der letzte große Inhaltspatch. </p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Eigene Kabel: Beats verkauft neue USB-Strippen mit Textilmantel]]></title>
+        <id>http://heise.de/-10352944</id>
+        <updated>2025-04-15T16:01:00+02:00</updated>
+        <published>2025-04-15T16:01:00+02:00</published>
+        <link href="https://www.heise.de/news/Eigene-Kabel-Beats-verkauft-neue-USB-Strippen-mit-Textilmantel-10352944.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Holger Zelder</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Auf Hüllen folgen Strippen: Die Apple-Tochter Beats bringt weiteres Smartphone-Zubehör auf den Markt.  Die vorgestellten Kabel sollen besonders robust sein.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Eigene-Kabel-Beats-verkauft-neue-USB-Strippen-mit-Textilmantel-10352944.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/1/1/4/Family_Image_2__300_DPI_-1ec2b096867a94a6.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Auf Hüllen folgen Strippen: Die Apple-Tochter Beats bringt weiteres Smartphone-Zubehör auf den Markt.  Die vorgestellten Kabel sollen besonders robust sein.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[AA Wireless Two im Test: Adapter für kabelloses Android Auto kostet nur 48 Euro]]></title>
+        <id>http://heise.de/-10352398</id>
+        <updated>2025-04-15T16:00:00+02:00</updated>
+        <published>2025-04-15T16:00:00+02:00</published>
+        <link href="https://www.heise.de/bestenlisten/testbericht/aa-wireless-two-im-test/sc9j2s2?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html"><![CDATA[Der AA Wireless Two rüstet kabelloses Android Auto preiswert im Fahrzeug nach. Wie gut der Adapter ist, zeigt dieser Test.]]></summary>
+        <content type="html"><![CDATA[<p>Der AA Wireless Two rüstet kabelloses Android Auto preiswert im Fahrzeug nach. Wie gut der Adapter ist, zeigt dieser Test.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Light Mount & Dark Mount: Be quiet stellt seine ersten Tastaturen vor]]></title>
+        <id>http://heise.de/-10352873</id>
+        <updated>2025-04-15T15:53:00+02:00</updated>
+        <published>2025-04-15T15:53:00+02:00</published>
+        <link href="https://www.heise.de/news/Be-quiet-stellt-seine-ersten-Tastaturen-vor-10352873.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Mark Mantel</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Der für Gehäuse, Kühler und Netzteile bekannte Hersteller Be quiet betritt den Peripheriemarkt. Mit dabei: ein modulares Modell mit Display.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Be-quiet-stellt-seine-ersten-Tastaturen-vor-10352873.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/0/7/8/Dark-Mount_ISO_DE2-c50c3a0ce49a32f5.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Der für Gehäuse, Kühler und Netzteile bekannte Hersteller Be quiet betritt den Peripheriemarkt. Mit dabei: ein modulares Modell mit Display.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Android-Smartphones starten sich nach 3 Tagen Inaktivität von selbst neu]]></title>
+        <id>http://heise.de/-10352891</id>
+        <updated>2025-04-15T15:52:00+02:00</updated>
+        <published>2025-04-15T15:52:00+02:00</published>
+        <link href="https://www.heise.de/news/Android-Smartphones-starten-sich-nach-3-Tagen-Inaktivitaet-von-selbst-neu-10352891.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Andreas Floemer</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Google liefert eine neue Funktion aus, die Android-Smartphones weiter absichern soll.  ]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Android-Smartphones-starten-sich-nach-3-Tagen-Inaktivitaet-von-selbst-neu-10352891.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/8/0/8/7/Android_Google-b6dd30caa2b0c368.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Google liefert eine neue Funktion aus, die Android-Smartphones weiter absichern soll.  </p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[heise+ | heise+ Expertentalk: Weg von US-Diensten]]></title>
+        <id>http://heise.de/-10351291</id>
+        <updated>2025-04-15T15:16:00+02:00</updated>
+        <published>2025-04-15T15:16:00+02:00</published>
+        <link href="https://www.heise.de/ratgeber/heise-Expertentalk-Weg-von-US-Diensten-10351291.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"/>
+        <author>
+            <name>Daniel Augustin</name>
+        </author>
+        
+        <summary type="html"><![CDATA[US-Dienste dominieren unseren digitalen Alltag, doch es gibt Alternativen. Heise-Redakteure Peter Siering und Holger Bleich beantworten Ihre Fragen im Livetalk.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/ratgeber/heise-Expertentalk-Weg-von-US-Diensten-10351291.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/7/2/5/6/Thumbnail_Expertentalk_US_Dienste-402f3e3e43ed40e7.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>US-Dienste dominieren unseren digitalen Alltag, doch es gibt Alternativen. Heise-Redakteure Peter Siering und Holger Bleich beantworten Ihre Fragen im Livetalk.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Spotify bietet jetzt auch in Deutschland Hörbücher an]]></title>
+        <id>http://heise.de/-10351541</id>
+        <updated>2025-04-15T15:09:00+02:00</updated>
+        <published>2025-04-15T15:09:00+02:00</published>
+        <link href="https://www.heise.de/news/Spotify-bietet-jetzt-auch-in-Deutschland-Hoerbuecher-an-10351541.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Alex Cameron Hall</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Spotify bringt sein Hörbuchangebot nach Deutschland, Premium-Nutzer können 12 Stunden monatlich kostenlos hören. Wer mehr braucht, muss draufzahlen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Spotify-bietet-jetzt-auch-in-Deutschland-Hoerbuecher-an-10351541.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/7/3/8/3/shutterstock_2050120502-8c33e4c2337c65bd.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Spotify bringt sein Hörbuchangebot nach Deutschland, Premium-Nutzer können 12 Stunden monatlich kostenlos hören. Wer mehr braucht, muss draufzahlen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Rätsel um kohlenstoffhaltige Meteoriten offenbar gelöst]]></title>
+        <id>http://heise.de/-10352636</id>
+        <updated>2025-04-15T15:05:00+02:00</updated>
+        <published>2025-04-15T15:05:00+02:00</published>
+        <link href="https://www.heise.de/news/Raetsel-um-kohlenstoffhaltige-Meteoriten-offenbar-geloest-10352636.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Martin Holland</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Eigentlich müssten auf der Erde viel mehr kohlenstoffhaltige Meteoriten einschlagen, als tatsächlich entdeckt werden. Nun gibt es offenbar eine Erklärung dafür.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Raetsel-um-kohlenstoffhaltige-Meteoriten-offenbar-geloest-10352636.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/7/9/5/5/shutterstock_2287799055-cd9c6600a12c8fc9.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Eigentlich müssten auf der Erde viel mehr kohlenstoffhaltige Meteoriten einschlagen, als tatsächlich entdeckt werden. Nun gibt es offenbar eine Erklärung dafür.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[KI-Update: KI-Halluzinationen, Meta saugt Daten, Siri-Chaos, Text2Robot ]]></title>
+        <id>http://heise.de/-10352024</id>
+        <updated>2025-04-15T15:00:00+02:00</updated>
+        <published>2025-04-15T15:00:00+02:00</published>
+        <link href="https://www.heise.de/news/KI-Update-KI-Halluzinationen-Meta-saugt-Daten-Siri-Chaos-Text2Robot-10352024.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Marko Pauli</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Das "KI-Update" liefert werktäglich eine Zusammenfassung der wichtigsten KI-Entwicklungen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/KI-Update-KI-Halluzinationen-Meta-saugt-Daten-Siri-Chaos-Text2Robot-10352024.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/7/6/3/7/KIupdate_Titel_122023-0953f976150f021c.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Das "KI-Update" liefert werktäglich eine Zusammenfassung der wichtigsten KI-Entwicklungen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[heise-Angebot: iX-Workshop: PowerShell in der Praxis - Automatisierung und Verwaltung]]></title>
+        <id>http://heise.de/-10344161</id>
+        <updated>2025-04-15T14:00:00+02:00</updated>
+        <published>2025-04-15T14:00:00+02:00</published>
+        <link href="https://www.heise.de/news/iX-Workshop-PowerShell-fuer-Systemadministratoren-Effiziente-Automatisierung-10344161.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Ilona Krause</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Aufgaben optimieren und Systeme verwalten: Lernen Sie, wie Sie mit PowerShell Ihre Windows-Administration effizient automatisieren und optimieren.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/iX-Workshop-PowerShell-fuer-Systemadministratoren-Effiziente-Automatisierung-10344161.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/3/5/4/7/powershell_fuer_systemadministratoren_ticker-1920x1080px-af78b053a2221875.png" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Aufgaben optimieren und Systeme verwalten: Lernen Sie, wie Sie mit PowerShell Ihre Windows-Administration effizient automatisieren und optimieren.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Lübecker IT-Unternehmen: Nach Medienbericht weitere Datenlecks entdeckt]]></title>
+        <id>http://heise.de/-10352235</id>
+        <updated>2025-04-15T13:45:00+02:00</updated>
+        <published>2025-04-15T13:45:00+02:00</published>
+        <link href="https://www.heise.de/news/Nach-Bericht-Weitere-Datenlecks-bei-Luebecker-IT-Unternehmen-gefunden-10352235.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Dirk Knop</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Ein Lübecker IT-Unternehmen wurde vergangenes Jahr Opfer einer Ransomware-Attacke. Das Datenleck besteht jedoch weiter.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Nach-Bericht-Weitere-Datenlecks-bei-Luebecker-IT-Unternehmen-gefunden-10352235.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/7/7/4/7/2024-08-28-Bing_Designer-Dataleak-1-114c60e8b0066c35.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Ein Lübecker IT-Unternehmen wurde vergangenes Jahr Opfer einer Ransomware-Attacke. Das Datenleck besteht jedoch weiter.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Zahlen, bitte! 30-30 Winchester: Festplattenstandard vom Großrechner zum IBM-PC]]></title>
+        <id>http://heise.de/-10352336</id>
+        <updated>2025-04-15T13:37:00+02:00</updated>
+        <published>2025-04-15T13:37:00+02:00</published>
+        <link href="https://www.heise.de/hintergrund/Zahlen-bitte-30-30-Winchester-Festplattenstandard-vom-Grossrechner-zum-IBM-PC-10352336.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Detlef Borchers</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Das wegweisende Festplattenkonzept der IBM 3340 mauserte sich als 30-30 oder Winchester zum Industriestandard, der in den 1980ern auch Einzug in PCs hielt.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/hintergrund/Zahlen-bitte-30-30-Winchester-Festplattenstandard-vom-Grossrechner-zum-IBM-PC-10352336.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/7/7/9/9/Overlay_Zahlenbitte_1_49_-7760a4d271833995.png" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Das wegweisende Festplattenkonzept der IBM 3340 mauserte sich als 30-30 oder Winchester zum Industriestandard, der in den 1980ern auch Einzug in PCs hielt.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Alibabas Quark: KI-Modell für Chat, Bilder und Videos aus China]]></title>
+        <id>http://heise.de/-10352355</id>
+        <updated>2025-04-15T13:26:00+02:00</updated>
+        <published>2025-04-15T13:26:00+02:00</published>
+        <link href="https://www.heise.de/news/Alibabas-Quark-KI-Modell-fuer-Chat-Bilder-und-Videos-aus-China-10352355.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Eva-Maria Weiß</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Quark ist Alibabas umfassender KI-Assistent. Er soll in China beliebter sein als ByteDances Doubao und Deepseek.  ]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Alibabas-Quark-KI-Modell-fuer-Chat-Bilder-und-Videos-aus-China-10352355.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/7/8/0/9/shutterstock_1785708704-03dafa08caf231ac.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Quark ist Alibabas umfassender KI-Assistent. Er soll in China beliebter sein als ByteDances Doubao und Deepseek.  </p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[RoboCake: Forscher kreieren essbare Robotertorte mit tanzenden Gummibärchen]]></title>
+        <id>http://heise.de/-10352569</id>
+        <updated>2025-04-15T12:53:00+02:00</updated>
+        <published>2025-04-15T12:53:00+02:00</published>
+        <link href="https://www.heise.de/news/RoboCake-Forscher-kreieren-essbare-Robotertorte-mit-tanzenden-Gummibaerchen-10352569.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Oliver Bünte</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Eine essbare Robotertorte soll demonstrieren, wie nachhaltig Robotik sein kann. Die wiederaufladbare Batterie der RoboCake etwa ist für den Verzehr geeignet. ]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/RoboCake-Forscher-kreieren-essbare-Robotertorte-mit-tanzenden-Gummibaerchen-10352569.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/7/9/2/1/RoboCake-d86000226ef17c9c.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Eine essbare Robotertorte soll demonstrieren, wie nachhaltig Robotik sein kann. Die wiederaufladbare Batterie der RoboCake etwa ist für den Verzehr geeignet. </p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Mehr Speicher, mehr RAM: Google hebt Android 15-Mindestanforderungen an]]></title>
+        <id>http://heise.de/-10352549</id>
+        <updated>2025-04-15T12:46:00+02:00</updated>
+        <published>2025-04-15T12:46:00+02:00</published>
+        <link href="https://www.heise.de/news/Andoid-15-Google-hebt-Hardware-Mindestanforderungen-an-10352549.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Andreas Floemer</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Smartphones mit weniger als 32 GByte Flashspeicher und zu wenig RAM wird das Update auf Android 15 seitens Google verwehrt. ]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Andoid-15-Google-hebt-Hardware-Mindestanforderungen-an-10352549.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/7/9/1/1/shutterstock_1372589405-c168129cd26377d8.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Smartphones mit weniger als 32 GByte Flashspeicher und zu wenig RAM wird das Update auf Android 15 seitens Google verwehrt. </p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Unerwarteter Wiedergänger: Windows-10-Update schlägt mit Code 0x80070643 fehl]]></title>
+        <id>http://heise.de/-10352516</id>
+        <updated>2025-04-15T12:37:00+02:00</updated>
+        <published>2025-04-15T12:37:00+02:00</published>
+        <link href="https://www.heise.de/news/Unerwarteter-Wiedergaenger-Windows-10-Update-schlaegt-mit-Code-0x80070643-fehl-10352516.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Dirk Knop</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Im vergangenen Jahr hatte es bereits Fehlermeldungen bei Windows Updates mit dem Code 0x80070643 gegeben. Nun tritt er wieder auf.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Unerwarteter-Wiedergaenger-Windows-10-Update-schlaegt-mit-Code-0x80070643-fehl-10352516.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/7/8/9/3/2024-02-22-Bing-Designer-Burning_windows_Logo_on_Laptop-1280px-b8ec4753e41d5af4.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Im vergangenen Jahr hatte es bereits Fehlermeldungen bei Windows Updates mit dem Code 0x80070643 gegeben. Nun tritt er wieder auf.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Keycloak 26.2 überarbeitet feingranulare Admin-Berechtigungen]]></title>
+        <id>http://heise.de/-10352464</id>
+        <updated>2025-04-15T12:33:00+02:00</updated>
+        <published>2025-04-15T12:33:00+02:00</published>
+        <link href="https://www.heise.de/news/Keycloak-26-2-ueberarbeitet-feingranulare-Admin-Berechtigungen-10352464.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Maika Möbus</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Im neuen Release sind der Standard Token Exchange, eine neue Anleitung für das Verwenden mit Grafana und feingranulare Admin-Permissions mit an Bord.  ]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Keycloak-26-2-ueberarbeitet-feingranulare-Admin-Berechtigungen-10352464.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/7/8/6/7/shutterstock_2267597197-66db9e636acb1aee.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Im neuen Release sind der Standard Token Exchange, eine neue Anleitung für das Verwenden mit Grafana und feingranulare Admin-Permissions mit an Bord.  </p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[China: Neue Gerüchte zum iPhone Foldable – darunter Auflösung und Kamera]]></title>
+        <id>http://heise.de/-10351874</id>
+        <updated>2025-04-15T12:14:00+02:00</updated>
+        <published>2025-04-15T12:14:00+02:00</published>
+        <link href="https://www.heise.de/news/China-Neue-Geruechte-zum-iPhone-Foldable-darunter-Aufloesung-und-Kamera-10351874.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Ben Schwan</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Apples erstes faltbares iPhone steht weiter für 2026 auf dem Programm.  Aus China kommen nun neue Angaben zu Display und Bildsensoren.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/China-Neue-Geruechte-zum-iPhone-Foldable-darunter-Aufloesung-und-Kamera-10351874.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/7/5/5/9/shutterstock_2590977359-64330020dc4b7868-28faeeeebc922dc6.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Apples erstes faltbares iPhone steht weiter für 2026 auf dem Programm.  Aus China kommen nun neue Angaben zu Display und Bildsensoren.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[heise-Angebot: Know-how zur Architektur-Dokumentation in einer heise-Konferenz mit 3 Workshops]]></title>
+        <id>http://heise.de/-10350521</id>
+        <updated>2025-04-15T12:00:00+02:00</updated>
+        <published>2025-04-15T12:00:00+02:00</published>
+        <link href="https://www.heise.de/news/Know-how-zur-Architektur-Dokumentation-in-einer-heise-Konferenz-mit-3-Workshops-10350521.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Wolf Hosbach</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Gebündeltes, praxisnahes Wissen zur Softwarearchitektur-Dokumentation gibt es auf der betterCode() ArchDoc: Techniken, Tools, Docs-as-Code und Hilfe mit KI.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Know-how-zur-Architektur-Dokumentation-in-einer-heise-Konferenz-mit-3-Workshops-10350521.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/6/8/5/9/bc__ArchDoc-2025-OnlineBanner-Ticker-Header-16-9-neu-04d82b7925332c6c.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Gebündeltes, praxisnahes Wissen zur Softwarearchitektur-Dokumentation gibt es auf der betterCode() ArchDoc: Techniken, Tools, Docs-as-Code und Hilfe mit KI.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[AMD zeigt ersten Wafer mit 2-Nanometer-Chips von TSMC]]></title>
+        <id>http://heise.de/-10352440</id>
+        <updated>2025-04-15T11:52:00+02:00</updated>
+        <published>2025-04-15T11:52:00+02:00</published>
+        <link href="https://www.heise.de/news/AMD-zeigt-ersten-Wafer-mit-2-Nanometer-Chips-von-TSMC-10352440.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <author>
+            <name>Mark Mantel</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Die nächste Epyc-Prozessorgeneration nutzt als erstes HPC-Produkt TSMCs Fertigungstechnik N2. Vorserien-Wafer sind bereits fertiggestellt.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/AMD-zeigt-ersten-Wafer-mit-2-Nanometer-Chips-von-TSMC-10352440.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/4/8/3/7/8/5/5/amd-tsmc-87c99c0aabae8498.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Die nächste Epyc-Prozessorgeneration nutzt als erstes HPC-Produkt TSMCs Fertigungstechnik N2. Vorserien-Wafer sind bereits fertiggestellt.</p>]]></content>
+    </entry>
+</feed>
