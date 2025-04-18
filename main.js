@@ -299,7 +299,7 @@ const urls = {
     digital: {
         heise: 'https://www.heise.de/rss/heise-atom.xml',
         spiegel_digital: 'https://www.spiegel.de/netzwelt/index.rss',
-        t3n: "https://t3n.de/feed/",
+        t3n: "https://t3n.de/rss.xml",
         golem: "https://rss.golem.de/rss.php?feed=RSS2.0",
         netzpolitik: "https://netzpolitik.org/feed/",
         computerbase: "https://www.computerbase.de/rss/news.xml"
@@ -346,25 +346,63 @@ async function fetchNews(url, origin) {
         if (!response.ok) {
             throw new Error(`News API Fehler: ${response.status}`);
         }
-        const data = await response.text();
-        const parser = new DOMParser();
-        const xmlDoc = parser.parseFromString(data, 'text/xml');
-        const items = xmlDoc.getElementsByTagName('item');
-        const newsContainer = document.getElementById('news');
-        if (!newsContainer) {
-            console.error('News-Container nicht gefunden');
-            return;
+        let formattedData;
+        switch (origin) {
+            case 'tagesschau':
+                formattedData = await itemParser(response);
+                return;
+            case 'spiegel':
+                formattedData = await itemParser(response);
+                return;
+            case 'zdf':
+                formattedData = await itemParser(response);
+                return;
+            case 't-online':
+                formattedData = await itemParser(response);
+                return;
+            case 'zeit':
+                formattedData = await itemParser(response);
+                return;
+            case 'sueddeutsche':
+                formattedData = await itemParser(response);
+                return;
+            case 'rbb':
+                formattedData = await itemParser(response);
+                return;
+            case 'heise':
+                formattedData = await entryParser(response);
+                return;
+            case 'spiegel_digital':
+                formattedData = await itemParser(response);
+                return;
+            case 't3n':
+                formattedData = await itemParser(response);
+                return;
+            case 'golem':
+                formattedData = await itemParser(response);
+                return;
+            case 'netzpolitik':
+                formattedData = await itemParser(response);
+                return;
+            case 'computerbase':
+                formattedData = await entryParser(response);
+                return;
+            case 'r_dingore':
+                formattedData = await entryParser(response);
+                return;
+            case 'r_schkreckl':
+                formattedData = await entryParser(response);
+                return;
+            case 'r_stvo':
+                formattedData = await entryParser(response);
+                return;
+            case 'r_berlin':
+                formattedData = await entryParser(response);
+                return;
+            default:
+                console.error('Unbekannte Nachrichtenquelle:', origin);
+                return;
         }
-        let list = {};
-        for (let i = 0; i < items.length; i++) {
-            const title = items[i].getElementsByTagName('title')[0].textContent;
-            const link = items[i].getElementsByTagName('link')[0].textContent;
-            const description = items[i].getElementsByTagName('description')[0].textContent;
-            const pubDate = items[i].getElementsByTagName('pubDate')[0].textContent;
-
-            await db.update(({origin}) => origin.push({ title, link, description, pubDate, read: false}));
-        }
-        return list;
     } catch (error) {
         console.error('Fehler beim Abrufen der Nachrichten:', error);
     }
@@ -416,3 +454,74 @@ function getMemes() {
     fetchNews(urls.memes.r_berlin, 'r_berlin');
 }
 
+
+
+async function itemParser(origin, response){
+    const parser = new DOMParser();
+    const xmlDoc = parser.parseFromString(response, 'text/xml');
+    for (let i = 0; i < response.length; i++) {
+        const items = xmlDoc.getElementsByTagName('item');
+        if (items.length === 0) {
+            console.error('Keine Einträge gefunden');
+            return;
+        }
+        const title = items[i].getElementsByTagName('title')[i].textContent;
+        const link = items[i].getElementsByTagName('link')[i].textContent;
+        const description = items[i].getElementsByTagName('description')[i].textContent;
+        const pubDate = items[i].getElementsByTagName('pubDate')[i].textContent;
+        let image = items[i].getElementsByTagName('media:thumbnail')[i].getAttribute('url');
+        const article = items[i].getElementsByTagName('content:encoded')[i].textContent;
+        if (image === undefined) {
+            const img = items[i].getElementsByTagName('enclosure')[i].getAttribute('url');
+            image = img;
+        }
+        if (image === undefined) {
+            const img = items[i].getElementsByTagName('media:content')[i].getAttribute('url');
+            image = img;
+        }
+        if (image === undefined) {
+            const img = items[i].getElementsByTagName('image')[i].getAttribute('url');
+            image = img;
+        }
+        if (image === undefined) {
+            const img = items[i].getElementsByTagName('media:thumbnail')[i].getAttribute('url');
+            image = img;
+        }
+        if (image === undefined) {
+            const img = items[i].getElementsByTagName('media:description')[i].getAttribute('url');
+            image = img;
+        }
+        if (image === undefined) {
+            const img = items[i].getElementsByTagName('media:group')[i].getAttribute('url');
+            image = img;
+        }
+        const origin = origin;
+        if (origin === 't-online'){
+            await db.update(({ t_online }) => t_online.push({ title, link, description, pubDate, image, article, read: false }));
+            return;
+        }
+        if (origin === 'netzpolitik'){
+            await db.update(({ netzpolitik }) => netzpolitik.push({ title, link, description, pubDate, image, article, read: false }));
+            return;
+        }
+        await db.update(({ origin }) => origin.push({ title, link, description, pubDate, image, read: false }));
+    }
+}
+
+async function entryParser(response){
+    const parser = new DOMParser();
+    const xmlDoc = parser.parseFromString(response, 'text/xml');
+    for (let i = 0; i < response.length; i++) {
+        const entries = xmlDoc.getElementsByTagName('entry');
+        if (entries.length === 0) {
+            console.error('Keine Einträge gefunden');
+            return;
+        }
+        const title = entries[i].getElementsByTagName('title')[i].textContent;
+        const link = entries[i].getElementsByTagName('link')[i].textContent;
+        const description = entries[i].getElementsByTagName('summary')[i].textContent;
+        const pubDate = entries[i].getElementsByTagName('updated')[i].textContent;
+        const image = entries[i].getElementsByTagName('media:thumbnail')[i].getAttribute('url');
+        await db.update(({ origin }) => origin.push({ title, link, description, pubDate, image, read: false }));
+    }
+}
