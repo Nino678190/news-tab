@@ -258,3 +258,48 @@ async function displayWeather(data) {
         weatherDisplay.innerHTML = `<p class="error">Fehler beim Laden der Wetterdaten: ${error.message}</p>`;
     }
 }
+
+async function updateWeather() {
+    const lat = saved.lat;
+    const lon = saved.lon;
+    try {
+        const weatherData = await fetchWeather(lat, lon);
+        displayWeather(weatherData);
+    } catch (error) {
+        console.error('Fehler beim Aktualisieren der Wetterdaten:', error);
+    }
+}
+setInterval(updateWeather, 3600000); // Update alle 60 Minuten
+
+
+const urls = {
+    // Nachrichtenquellen
+    news: {
+        tagesschau: 'https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml',
+        spiegel: 'https://www.spiegel.de/schlagzeilen/tops/index.rss',
+        zdf: "https://www.zdf.de/rss/zdf/nachrichten",
+        t_online: "https://feeds.t-online.de/rss/nachrichten",
+        zeit: "https://newsfeed.zeit.de/index",
+        sueddeutsche: "https://rss.sueddeutsche.de/rss/Topthemen",
+        rbb: "https://www.rbb24.de/aktuell/index.xml/feed=rss.xml"
+    },
+    
+    // Digitales und Tech
+    digital: {
+        heise: 'https://www.heise.de/rss/heise-atom.xml',
+        spiegel_digital: 'https://www.spiegel.de/netzwelt/index.rss',
+        t3n: "https://t3n.de/feed/",
+        golem: "https://rss.golem.de/rss.php?feed=RSS2.0",
+        netzpolitik: "https://netzpolitik.org/feed/",
+        computerbase: "https://www.computerbase.de/rss/news.xml"
+    },
+    
+    // Wissen & Bildung
+    wissen: {
+        spektrum: "https://www.spektrum.de/rss/spektrum.rss",
+        wissenschaft: "https://www.wissenschaft.de/feed/rss/",
+        scinexx: "https://www.scinexx.de/feed/",
+        nature: "https://www.nature.com/nature.rss"
+    }
+}
+
