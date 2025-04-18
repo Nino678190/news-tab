@@ -1,0 +1,57 @@
+{
+    "latitude": 52.52,
+    "longitude": 13.419998,
+    "generationtime_ms": 0.06723403930664062,
+    "utc_offset_seconds": 7200,
+    "timezone": "Europe/Berlin",
+    "timezone_abbreviation": "GMT+2",
+    "elevation": 38.0,
+    "current_units": {
+        "time": "unixtime",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "is_day": "",
+        "rain": "mm",
+        "weather_code": "wmo code"
+    },
+    "current": {
+        "time": 1745000100,
+        "interval": 900,
+        "temperature_2m": 11.6,
+        "is_day": 0,
+        "rain": 0.10,
+        "weather_code": 61
+    },
+    "hourly_units": {
+        "time": "unixtime",
+        "temperature_2m": "°C",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "is_day": ""
+    },
+    "hourly": {
+        "time": [1744927200, 1744930800, 1744934400, 1744938000, 1744941600, 1744945200, 1744948800, 1744952400, 1744956000, 1744959600, 1744963200, 1744966800, 1744970400, 1744974000, 1744977600, 1744981200, 1744984800, 1744988400, 1744992000, 1744995600, 1744999200, 1745002800, 1745006400, 1745010000],
+        "temperature_2m": [16.2, 15.8, 15.4, 14.8, 13.7, 13.5, 13.4, 13.3, 12.5, 11.8, 12.1, 12.2, 12.2, 12.2, 12.2, 12.5, 12.4, 12.4, 12.1, 12.0, 11.7, 11.3, 10.6, 10.3],
+        "rain": [0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.20, 0.10, 1.10],
+        "weather_code": [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 61, 61, 61, 61],
+        "is_day": [0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0]
+    },
+    "daily_units": {
+        "time": "unixtime",
+        "weather_code": "wmo code",
+        "sunrise": "unixtime",
+        "sunset": "unixtime",
+        "daylight_duration": "s",
+        "temperature_2m_max": "°C",
+        "temperature_2m_min": "°C"
+    },
+    "daily": {
+        "time": [1744927200],
+        "weather_code": [61],
+        "sunrise": [1744948867],
+        "sunset": [1744999805],
+        "daylight_duration": [50927.16],
+        "temperature_2m_max": [16.2],
+        "temperature_2m_min": [10.3]
+    }
+}
