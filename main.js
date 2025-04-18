@@ -1,10 +1,12 @@
 const { app, BrowserWindow, globalShortcut, Tray, Menu } = require('electron');
 const path = require('path');
-import { JSONFilePreset } from 'lowdb/node'
+
+const { JSONFilePreset } = require('lowdb/node');
 
 const defaultData = { tagesschau: [], spiegel: [], zdf: [], t_online: [], zeit: [], sueddeutsche: [], rbb: [], 
     heise: [], spiegel_digital: [], t3n: [], golem: [], netzpolitik: [], computerbase: [],
     r_dingore: [], r_schkreckl: [], r_stvo: [], r_berlin: [] };
+
 const db = await JSONFilePreset('news.json', defaultData)
 
 let mainWindow;
@@ -142,7 +144,7 @@ async function fetchWeather(lat, lon) {
         return data;
     } catch (error) {
         console.error('Fehler beim Abrufen der Wetterdaten:', error);
-        throw error; // Fehler weiterleiten
+        throw error;
     }
 }
 
@@ -348,55 +350,55 @@ async function fetchNews(url, origin) {
         }
         switch (origin) {
             case 'tagesschau':
-                formattedData = await itemParser(response);
+                await itemParser(response);
                 return;
             case 'spiegel':
-                formattedData = await itemParser(response);
+                await itemParser(response);
                 return;
             case 'zdf':
-                formattedData = await itemParser(response);
+                await itemParser(response);
                 return;
             case 't-online':
-                formattedData = await itemParser(response);
+                await itemParser(response);
                 return;
             case 'zeit':
-                formattedData = await itemParser(response);
+                await itemParser(response);
                 return;
             case 'sueddeutsche':
-                formattedData = await itemParser(response);
+                await itemParser(response);
                 return;
             case 'rbb':
-                formattedData = await itemParser(response);
+                await itemParser(response);
                 return;
             case 'heise':
-                formattedData = await entryParser(response);
+                await entryParser(response);
                 return;
             case 'spiegel_digital':
-                formattedData = await itemParser(response);
+                await itemParser(response);
                 return;
             case 't3n':
-                formattedData = await itemParser(response);
+                await itemParser(response);
                 return;
             case 'golem':
-                formattedData = await itemParser(response);
+                await itemParser(response);
                 return;
             case 'netzpolitik':
-                formattedData = await itemParser(response);
+                await itemParser(response);
                 return;
             case 'computerbase':
-                formattedData = await entryParser(response);
+                await entryParser(response);
                 return;
             case 'r_dingore':
-                formattedData = await entryParser(response);
+                await entryParser(response);
                 return;
             case 'r_schkreckl':
-                formattedData = await entryParser(response);
+                await entryParser(response);
                 return;
             case 'r_stvo':
-                formattedData = await entryParser(response);
+                await entryParser(response);
                 return;
             case 'r_berlin':
-                formattedData = await entryParser(response);
+                await entryParser(response);
                 return;
             default:
                 console.error('Unbekannte Nachrichtenquelle:', origin);
@@ -419,9 +421,7 @@ function getNews(){
     fetchNews(urls.news.spiegel, 'spiegel');
     fetchNews(urls.news.zdf, 'zdf');
     fetchNews(urls.news.t_online, 't-online');
-    fetchNews(urls.news.zeit, 'zeit', t);
-    fetchNews(urls.news.sueddeutsche, 'sueddeutsche');
-    fetchNews(urls.news.rbb, 'rbb');
+    fetchNews(urls.news.zeit, 'zeit');
 
     let tagesschau = db.get('tagesschau');
     let spiegel = db.get('spiegel');
@@ -433,7 +433,7 @@ function getNews(){
     let allNews = [...tagesschau, ...spiegel, ...zdf, ...t_online, ...zeit, ...sueddeutsche, ...rbb];
     allNews.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
     allNews.slice(0, 25).forEach((item) => {
-        const item = document.createElement('article');
+        let item = document.createElement('article');
         item.className = 'news-item';
         item.innerHTML = `
             <section class="news-header>
@@ -466,6 +466,7 @@ function getNews(){
                 <p class="news-date">${new Date(item.pubDate).toLocaleString('de-DE', { dateStyle: 'short', timeStyle: 'short' })}</p>
                 `;
         });
+        container.appendChild(item);
     })
 }
 
@@ -483,6 +484,52 @@ function getTechnik() {
     fetchNews(urls.digital.golem, 'golem');
     fetchNews(urls.digital.netzpolitik, 'netzpolitik');
     fetchNews(urls.digital.computerbase, 'computerbase');
+
+    let heise = db.get('heise');
+    let spiegel_digital = db.get('spiegel_digital');
+    let t3n = db.get('t3n');
+    let golem = db.get('golem');
+    let netzpolitik = db.get('netzpolitik');
+    let computerbase = db.get('computerbase');
+    let allNews = [...heise, ...spiegel_digital, ...t3n, ...golem, ...netzpolitik, ...computerbase];
+
+    allNews.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+    allNews.slice(0, 25).forEach((item) => {
+        let item = document.createElement('article');
+        item.className = 'news-item';
+        item.innerHTML = `
+            <section class="news-header>
+                <img src="${icons.news[item.origin]}" alt="${item.origin}" class="news-icon">
+                <h3 class="news-title">${item.title}</h3>
+            </section>
+            <section class="news-content">
+                <p class="news-description">${item.description}</p>
+                <a href="${item.link}" target="_blank" class="news-link">Mehr erfahren</a>
+            </section>
+            <section class="news-footer">
+                <p class="news-date">${new Date(item.pubDate).toLocaleString('de-DE', { dateStyle: 'short', timeStyle: 'short' })}</p>
+            </section>`;
+        item.addEventListener('click', () => {
+            db.update(({ [item.origin]: items }) => {
+                const index = items.findIndex(i => i.link === item.link);
+                if (index !== -1) {
+                    items[index].read = true;
+                }
+                return { [item.origin]: items };
+            });
+            item.classList.add('read');
+            container.innerHTML = '';
+            const text = item.article || item.description;
+            container.innerHTML = `
+                <img src="${item.image}" alt="${item.title}" class="news-image
+                <h2 class="news-title">${item.title}</h2>
+                <p class="news-description">${text}</p>
+                <a href="${item.link}" target="_blank" class="news-link">Mehr erfahren</a>
+                <p class="news-date">${new Date(item.pubDate).toLocaleString('de-DE', { dateStyle: 'short', timeStyle: 'short' })}</p>
+                `;
+        });
+        container.appendChild(item);
+    })
 }
 
 function getMemes() {
@@ -496,51 +543,92 @@ function getMemes() {
     fetchNews(urls.memes.r_schkreckl, 'r_schkreckl');
     fetchNews(urls.memes.r_stvo, 'r_stvo');
     fetchNews(urls.memes.r_berlin, 'r_berlin');
+
+    let r_dingore = db.get('r_dingore');
+    let r_schkreckl = db.get('r_schkreckl');
+    let r_stvo = db.get('r_stvo');
+    let r_berlin = db.get('r_berlin');
+    let allNews = [...r_dingore, ...r_schkreckl, ...r_stvo, ...r_berlin];
+
+    allNews.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+    allNews.slice(0, 25).forEach((item) => {
+        let item = document.createElement('article');
+        item.className = 'news-item';
+        item.innerHTML = `
+            <section class="news-header>
+                <img src="${icons.news[item.origin]}" alt="${item.origin}" class="news-icon">
+                <h3 class="news-title">${item.title}</h3>
+            </section>
+            <section class="news-content">
+                <p class="news-description">${item.description}</p>
+                <a href="${item.link}" target="_blank" class="news-link">Mehr erfahren</a>
+            </section>
+            <section class="news-footer">
+                <p class="news-date">${new Date(item.pubDate).toLocaleString('de-DE', { dateStyle: 'short', timeStyle: 'short' })}</p>
+            </section>`;
+        item.addEventListener('click', () => {
+            db.update(({ [item.origin]: items }) => {
+                const index = items.findIndex(i => i.link === item.link);
+                if (index !== -1) {
+                    items[index].read = true;
+                }
+                return { [item.origin]: items };
+            });
+            item.classList.add('read');
+            container.innerHTML = '';
+            const text = item.article || item.description;
+            container.innerHTML = `
+                <img src="${item.image}" alt="${item.title}" class="news-image
+                <h2 class="news-title">${item.title}</h2>
+                <p class="news-description">${text}</p>
+                <a href="${item.link}" target="_blank" class="news-link">Mehr erfahren</a>
+                <p class="news-date">${new Date(item.pubDate).toLocaleString('de-DE', { dateStyle: 'short', timeStyle: 'short' })}</p>
+                `;
+        });
+        container.appendChild(item);
+    })
 }
-
-
 
 async function itemParser(origin, response){
     const parser = new DOMParser();
     const xmlDoc = parser.parseFromString(response, 'text/xml');
-    const origin = origin;
     for (let i = 0; i < response.length; i++) {
-        const items = xmlDoc.getElementsByTagName('item');
+        let items = xmlDoc.getElementsByTagName('item');
         if (items.length === 0) {
             console.error('Keine Einträge gefunden');
             return;
         }
-        const title = items[i].getElementsByTagName('title')[i].textContent;
-        const link = items[i].getElementsByTagName('link')[i].textContent;
-        const description = items[i].getElementsByTagName('description')[i].textContent;
-        const pubDate = items[i].getElementsByTagName('pubDate')[i].textContent;
+
+        let title = items[i].getElementsByTagName('title')[i].textContent;
+        let link = items[i].getElementsByTagName('link')[i].textContent;
+        let description = items[i].getElementsByTagName('description')[i].textContent;
+        let pubDate = items[i].getElementsByTagName('pubDate')[i].textContent;
         let image = items[i].getElementsByTagName('media:thumbnail')[i].getAttribute('url');
-        const article = items[i].getElementsByTagName('content:encoded')[i].textContent;
+        let article = items[i].getElementsByTagName('content:encoded')[i].textContent;
         if (image === undefined) {
-            const img = items[i].getElementsByTagName('enclosure')[i].getAttribute('url');
+            let img = items[i].getElementsByTagName('enclosure')[i].getAttribute('url');
             image = img;
         }
         if (image === undefined) {
-            const img = items[i].getElementsByTagName('media:content')[i].getAttribute('url');
+            let img = items[i].getElementsByTagName('media:content')[i].getAttribute('url');
             image = img;
         }
         if (image === undefined) {
-            const img = items[i].getElementsByTagName('image')[i].getAttribute('url');
+            let img = items[i].getElementsByTagName('image')[i].getAttribute('url');
             image = img;
         }
         if (image === undefined) {
-            const img = items[i].getElementsByTagName('media:thumbnail')[i].getAttribute('url');
+            let img = items[i].getElementsByTagName('media:thumbnail')[i].getAttribute('url');
             image = img;
         }
         if (image === undefined) {
-            const img = items[i].getElementsByTagName('media:description')[i].getAttribute('url');
+            let img = items[i].getElementsByTagName('media:description')[i].getAttribute('url');
             image = img;
         }
         if (image === undefined) {
-            const img = items[i].getElementsByTagName('media:group')[i].getAttribute('url');
+            let img = items[i].getElementsByTagName('media:group')[i].getAttribute('url');
             image = img;
         }
-        const origin = origin;
         if (origin === 't-online'){
             await db.update(({ t_online }) => t_online.push({ title, link, description, pubDate, image, article, read: false }));
             return;
@@ -549,24 +637,23 @@ async function itemParser(origin, response){
             await db.update(({ netzpolitik }) => netzpolitik.push({ title, link, description, pubDate, image, article, read: false }));
             return;
         }
-        await db.update(({ origin }) => origin.push({ title, link, description, pubDate, image, read: false }));
+        await db.update(({ [origin]: items }) => items.push({ title, link, description, pubDate, image, read: false }));
     }
 }
-
-async function entryParser(response){
+async function entryParser(origin, response) {
     const parser = new DOMParser();
     const xmlDoc = parser.parseFromString(response, 'text/xml');
     for (let i = 0; i < response.length; i++) {
-        const entries = xmlDoc.getElementsByTagName('entry');
+        let entries = xmlDoc.getElementsByTagName('entry');
         if (entries.length === 0) {
             console.error('Keine Einträge gefunden');
             return;
         }
-        const title = entries[i].getElementsByTagName('title')[i].textContent;
-        const link = entries[i].getElementsByTagName('link')[i].textContent;
-        const description = entries[i].getElementsByTagName('summary')[i].textContent;
-        const pubDate = entries[i].getElementsByTagName('updated')[i].textContent;
-        const image = entries[i].getElementsByTagName('media:thumbnail')[i].getAttribute('url');
-        await db.update(({ origin }) => origin.push({ title, link, description, pubDate, image, read: false }));
+        let title = entries[i].getElementsByTagName('title')[i].textContent;
+        let link = entries[i].getElementsByTagName('link')[i].textContent;
+        let description = entries[i].getElementsByTagName('summary')[i].textContent;
+        let pubDate = entries[i].getElementsByTagName('updated')[i].textContent;
+        let image = entries[i].getElementsByTagName('media:thumbnail')[i].getAttribute('url');
+        await db.update(({ [origin]: entries }) => entries.push({ title, link, description, pubDate, image, read: false }));
     }
 }
