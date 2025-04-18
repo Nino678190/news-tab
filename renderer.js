@@ -1,5 +1,3 @@
-// Funktionen für das Frontend
-
 const saved = {
     lat: 0,
     lon: 0
@@ -189,7 +187,7 @@ async function displayWeather(data) {
             const now = new Date();
             const currentHour = new Date(now.setMinutes(0, 0, 0));
 
-            for (let i = 0; i < 6; i++) { // Zeige Prognose für die nächsten 6 Stunden
+            for (let i = 0; i < 8; i++) { // Zeige Prognose für die nächsten 8 Stunden
                 const forecastTime = new Date(currentHour);
                 forecastTime.setHours(currentHour.getHours() + i);
                 const forecastCode = data.hourly.weather_code[i];
@@ -466,16 +464,38 @@ function renderNewsList(allNews, container) {
             });
             itemObject.classList.add('read');
             container.innerHTML = '';
-            const text = item.article || item.description;
+            let text = item.article || item.description;
+            if (text === null ){
+                text = item.description;
+            }
             container.innerHTML = `
-                <img src="${item.image}" alt="${item.title}" class="news-image">
-                <h2 class="news-title">${item.title}</h2>
-                <p class="news-description">${text}</p>
-                <a href="${item.link}" target="_blank" class="news-link">Mehr erfahren</a>
-                <p class="news-date">${new Date(item.pubDate).toLocaleString('de-DE', { dateStyle: 'short', timeStyle: 'short' })}</p>
+                <section class="news-big-header">
+                    <button class="back-button" onclick="getNews()">Zurück</button>
+                    <img src="${item.image}" alt="${item.title}" class="news-image">
+                </section>
+                <section class="news-big-content">
+                    <h2 class="news-title">${item.title}</h2>
+                    <p class="news-description">${text}</p>
+                </section>
+                <section class="news-big-footer">
+                    <a href="${item.link}" target="_blank" class="news-link">Mehr erfahren</a>
+                    <p class="news-date">${new Date(item.pubDate).toLocaleString('de-DE', { dateStyle: 'short', timeStyle: 'short' })}</p>
+                </section>
                 `;
         });
         container.appendChild(itemObject);
+        // Check if the news item has an image embedded in the description
+        if (item.image && !item.image.includes('class=')) {
+            // Try to extract image from description if it doesn't have a class
+            const imgPattern = /<img[^>]+src="([^">]+)"[^>]*>/g;
+            const imgMatches = [...item.description.matchAll(imgPattern)];
+            
+            if (imgMatches.length > 0) {
+                const firstImgMatch = imgMatches[0][0];
+                // Remove the image from the description
+                item.description = item.description.replace(firstImgMatch, '');
+            }
+        }
     });
 }
 
@@ -606,8 +626,28 @@ async function entryParser(origin, responseText) {
                 image = mediaThumbnail.getAttribute('url');
             }
             
-            // Weitere Bildsuche wie bei itemParser
-            // ...
+            if (origin === 'computerbase') {
+                image = entry.getAttribute('summary')?.split('src=')[1]?.split('"')[1] || null;
+                description = description.replace(/<img[^>]+src="([^">]+)"/, '');
+            }
+            if (origin === 'netzpolitik') {
+                const contentToSearch = description || entry.querySelector('content')?.textContent || '';
+
+                const imgMatch = contentToSearch.match(/<img[^>]+src="([^">]+)"[^>]*class="[^"]*wp-post-image[^"]*"[^>]*>/);
+
+                if (imgMatch && imgMatch[1]) {
+                    image = imgMatch[1];
+                } else {
+                    const simpleImgMatch = contentToSearch.match(/<img[^>]+src="([^">]+)"/);
+                    image = simpleImgMatch ? simpleImgMatch[1] : null;
+                }
+
+                description = description
+                    .replace(/<figure\b[^>]*>[\s\S]*?<\/figure>/gi, '')
+                    .replace(/<img[^>]+src="([^">]+)"[^>]*>/gi, '');
+            }
+
+            
             
             const newsItem = {
                 title,

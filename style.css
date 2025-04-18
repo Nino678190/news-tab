@@ -16,6 +16,29 @@ header{
     flex-direction: row;
 }
 
+main{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex: 1;
+    gap: 20px;
+}
+
+#weather{
+    width: 30%;
+    display: flex;
+    align-items: flex-start;
+}
+
+#news{
+    width: 69%;
+}
+
+.news-item{
+    cursor: pointer;
+}
+
+
 .selections{
     display: flex;
     justify-content: space-between;
@@ -26,4 +49,22 @@ header{
 
 .selection{
     cursor: pointer;
+}
+
+.news-icon{
+    width: 40px;
+    height: 30px;
+}
+
+.news-image{
+    width: 100%;
+    height: auto;
+}
+
+.forecast-item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    gap: 10px;
 }
