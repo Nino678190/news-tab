@@ -1,5 +1,11 @@
 const { app, BrowserWindow, globalShortcut, Tray, Menu } = require('electron');
 const path = require('path');
+import { JSONFilePreset } from 'lowdb/node'
+
+const defaultData = { tagesschau: [], spiegel: [], zdf: [], t_online: [], zeit: [], sueddeutsche: [], rbb: [], 
+    heise: [], spiegel_digital: [], t3n: [], golem: [], netzpolitik: [], computerbase: [],
+    r_dingore: [], r_schkreckl: [], r_stvo: [], r_berlin: [] };
+const db = await JSONFilePreset('news.json', defaultData)
 
 let mainWindow;
 let tray;
@@ -334,7 +340,7 @@ const icons = {
     }
 }
 
-async function fetchNews(url, icon) {
+async function fetchNews(url, origin) {
     try {
         const response = await fetch(url);
         if (!response.ok) {
@@ -349,38 +355,16 @@ async function fetchNews(url, icon) {
             console.error('News-Container nicht gefunden');
             return;
         }
+        let list = {};
         for (let i = 0; i < items.length; i++) {
             const title = items[i].getElementsByTagName('title')[0].textContent;
             const link = items[i].getElementsByTagName('link')[0].textContent;
             const description = items[i].getElementsByTagName('description')[0].textContent;
             const pubDate = items[i].getElementsByTagName('pubDate')[0].textContent;
 
-            const newsItem = document.createElement('div');
-            newsItem.className = 'news-item';
-
-            const iconImg = document.createElement('img');
-            iconImg.src = icon;
-            iconImg.alt = 'News Icon';
-            iconImg.className = 'news-icon';
-            newsItem.appendChild(iconImg);
-
-            const titleLink = document.createElement('a');
-            titleLink.href = link;
-            titleLink.target = '_blank';
-            titleLink.textContent = title;
-            newsItem.appendChild(titleLink);
-
-            const descriptionText = document.createElement('p');
-            descriptionText.textContent = description;
-            newsItem.appendChild(descriptionText);
-
-            const dateText = document.createElement('p');
-            dateText.className = 'news-date';
-            dateText.textContent = new Date(pubDate).toLocaleString();
-            newsItem.appendChild(dateText);
-
-            newsContainer.appendChild(newsItem);
+            await db.update(({origin}) => origin.push({ title, link, description, pubDate, read: false}));
         }
+        return list;
     } catch (error) {
         console.error('Fehler beim Abrufen der Nachrichten:', error);
     }
@@ -393,14 +377,14 @@ function getNews(){
         return;
     }
     container.innerHTML = '';
-    const tagesschau = fetchNews(urls.news.tagesschau, icons.news.tagesschau);
-    const spiegel = fetchNews(urls.news.spiegel, icons.news.spiegel);
-    const zdf = fetchNews(urls.news.zdf, icons.news.zdf);
-    const t_online = fetchNews(urls.news.t_online, icons.news.t_online);
-    const zeit = fetchNews(urls.news.zeit, icons.news.zeit);
-    const sueddeutsche = fetchNews(urls.news.sueddeutsche, icons.news.sueddeutsche);
-    const rbb = fetchNews(urls.news.rbb, icons.news.rbb);
-    container.appendChild(tagesschau, spiegel, zdf, t_online, zeit, sueddeutsche, rbb);
+
+    fetchNews(urls.news.tagesschau, 'tagesschau');
+    fetchNews(urls.news.spiegel, 'spiegel');
+    fetchNews(urls.news.zdf, 'zdf');
+    fetchNews(urls.news.t_online, 't-online');
+    fetchNews(urls.news.zeit, 'zeit', t);
+    fetchNews(urls.news.sueddeutsche, 'sueddeutsche');
+    fetchNews(urls.news.rbb, 'rbb');
 }
 
 function getTechnik() {
@@ -410,13 +394,13 @@ function getTechnik() {
         return;
     }
     container.innerHTML = '';
-    const heise = fetchNews(urls.digital.heise, icons.digital.heise);
-    const spiegel_digital = fetchNews(urls.digital.spiegel_digital, icons.digital.spiegel_digital);
-    const t3n = fetchNews(urls.digital.t3n, icons.digital.t3n);
-    const golem = fetchNews(urls.digital.golem, icons.digital.golem);
-    const netzpolitik = fetchNews(urls.digital.netzpolitik, icons.digital.netzpolitik);
-    const computerbase = fetchNews(urls.digital.computerbase, icons.digital.computerbase);
-    container.appendChild(heise, spiegel_digital, t3n, golem, netzpolitik, computerbase);
+    
+    fetchNews(urls.digital.heise, 'heise');
+    fetchNews(urls.digital.spiegel_digital, 'spiegel_digital');
+    fetchNews(urls.digital.t3n, 't3n');
+    fetchNews(urls.digital.golem, 'golem');
+    fetchNews(urls.digital.netzpolitik, 'netzpolitik');
+    fetchNews(urls.digital.computerbase, 'computerbase');
 }
 
 function getMemes() {
@@ -426,10 +410,9 @@ function getMemes() {
         return;
     }
     container.innerHTML = '';
-    const r_dingore = fetchNews(urls.memes.r_dingore, icons.wissen.r_dingore);
-    const r_schkreckl = fetchNews(urls.memes.r_schkreckl, icons.wissen.r_schkreckl);
-    const r_stvo = fetchNews(urls.memes.r_stvo, icons.wissen.r_stvo);
-    const r_berlin = fetchNews(urls.memes.r_berlin, icons.wissen.r_berlin);
-    container.appendChild(r_dingore, r_schkreckl, r_stvo, r_berlin);
+    fetchNews(urls.memes.r_dingore, 'r_dingore');
+    fetchNews(urls.memes.r_schkreckl, 'r_schkreckl');
+    fetchNews(urls.memes.r_stvo, 'r_stvo');
+    fetchNews(urls.memes.r_berlin, 'r_berlin');
 }
 

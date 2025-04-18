@@ -14,13 +14,14 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/Nino678190/news-tab/issues"
   },
   "homepage": "https://github.com/Nino678190/news-tab#readme",
   "dependencies": {
     "axios": "^1.8.4",
-    "electron": "^35.1.5"
+    "electron": "^35.2.0",
+    "lowdb": "^7.0.1"
   }
 }
