@@ -1,7 +1,12 @@
 body{
     background-color: #010101;
     color: #ffffff;
+    font-family: 'Noto Sans';
+}
 
+@font-face {
+    font-family: 'Noto Sans';
+    src: url(Noto-Sans/NotoSans-Bold.ttf);
 }
 
 header{

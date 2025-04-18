@@ -19,8 +19,8 @@ let tray;
 
 function createWindow() {
     mainWindow = new BrowserWindow({
-        width: 1000,
-        height: 700,
+        width: 1200,
+        height: 900,
         frame: false, // Optional: rahmenlos
         show: true,  // false: Wir zeigen es erst bei Shortcut
         webPreferences: {
@@ -50,6 +50,7 @@ function createWindow() {
 }
 
 app.whenReady().then(createWindow);
+app.disableHardwareAcceleration();
 
 app.on('window-all-closed', () => {
     // Auf Linux kannst du das offen lassen, wenn du willst
@@ -277,9 +278,7 @@ async function displayWeather(data) {
     }
 }
 
-async function updateWeather() {
-    const lat = saved.lat;
-    const lon = saved.lon;
+async function updateWeather(lat, lon) {
     try {
         const weatherData = await fetchWeather(lat, lon);
         displayWeather(weatherData);
@@ -287,6 +286,7 @@ async function updateWeather() {
         console.error('Fehler beim Aktualisieren der Wetterdaten:', error);
     }
 }
+
 setInterval(updateWeather, 3600000); // Update alle 60 Minuten
 
 
