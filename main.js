@@ -346,7 +346,6 @@ async function fetchNews(url, origin) {
         if (!response.ok) {
             throw new Error(`News API Fehler: ${response.status}`);
         }
-        let formattedData;
         switch (origin) {
             case 'tagesschau':
                 formattedData = await itemParser(response);
@@ -423,6 +422,51 @@ function getNews(){
     fetchNews(urls.news.zeit, 'zeit', t);
     fetchNews(urls.news.sueddeutsche, 'sueddeutsche');
     fetchNews(urls.news.rbb, 'rbb');
+
+    let tagesschau = db.get('tagesschau');
+    let spiegel = db.get('spiegel');
+    let zdf = db.get('zdf');
+    let t_online = db.get('t_online');
+    let zeit = db.get('zeit');
+    let sueddeutsche = db.get('sueddeutsche');
+    let rbb = db.get('rbb');
+    let allNews = [...tagesschau, ...spiegel, ...zdf, ...t_online, ...zeit, ...sueddeutsche, ...rbb];
+    allNews.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+    allNews.slice(0, 25).forEach((item) => {
+        const item = document.createElement('article');
+        item.className = 'news-item';
+        item.innerHTML = `
+            <section class="news-header>
+                <img src="${icons.news[item.origin]}" alt="${item.origin}" class="news-icon">
+                <h3 class="news-title">${item.title}</h3>
+            </section>
+            <section class="news-content">
+                <p class="news-description">${item.description}</p>
+                <a href="${item.link}" target="_blank" class="news-link">Mehr erfahren</a>
+            </section>
+            <section class="news-footer">
+                <p class="news-date">${new Date(item.pubDate).toLocaleString('de-DE', { dateStyle: 'short', timeStyle: 'short' })}</p>
+            </section>`;
+        item.addEventListener('click', () => {
+            db.update(({ [item.origin]: items }) => {
+                const index = items.findIndex(i => i.link === item.link);
+                if (index !== -1) {
+                    items[index].read = true;
+                }
+                return { [item.origin]: items };
+            });
+            item.classList.add('read');
+            container.innerHTML = '';
+            const text = item.article || item.description;
+            container.innerHTML = `
+                <img src="${item.image}" alt="${item.title}" class="news-image
+                <h2 class="news-title">${item.title}</h2>
+                <p class="news-description">${text}</p>
+                <a href="${item.link}" target="_blank" class="news-link">Mehr erfahren</a>
+                <p class="news-date">${new Date(item.pubDate).toLocaleString('de-DE', { dateStyle: 'short', timeStyle: 'short' })}</p>
+                `;
+        });
+    })
 }
 
 function getTechnik() {
@@ -459,6 +503,7 @@ function getMemes() {
 async function itemParser(origin, response){
     const parser = new DOMParser();
     const xmlDoc = parser.parseFromString(response, 'text/xml');
+    const origin = origin;
     for (let i = 0; i < response.length; i++) {
         const items = xmlDoc.getElementsByTagName('item');
         if (items.length === 0) {
