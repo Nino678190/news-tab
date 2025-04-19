@@ -13,9 +13,24 @@ const __dirname = dirname(__filename);
 
 import { JSONFilePreset } from 'lowdb/node';
 
-const defaultData = { /* ... */ }; // Deine Daten
+const defaultData = {
+    tagesschau: [], spiegel: [], zdf: [], t_online: [], zeit: [], sueddeutsche: [], rbb: [],
+    heise: [], spiegel_digital: [], t3n: [], golem: [], netzpolitik: [], computerbase: [],
+    r_dingore: [], r_schkreckl: [], r_stvo: [], r_berlin: []
+};
 
-const db = JSONFilePreset('news.json', defaultData);
+let db;
+
+async function initDb() {
+    try {
+        db = await JSONFilePreset('news.json', defaultData);
+        console.log('Datenbank erfolgreich initialisiert');
+        return true;
+    } catch (error) {
+        console.error('Fehler beim Initialisieren der Datenbank:', error);
+        return false;
+    }
+}
 
 let mainWindow;
 let tray;
@@ -55,7 +70,9 @@ function createWindow() {
     tray.setContextMenu(contextMenu);
 }
 
-app.whenReady().then(() => {
+app.whenReady().then(async () => {
+    await initDb();
+
     createWindow();
 
     // IPC Event für das Öffnen eines Links
@@ -155,5 +172,37 @@ app.on('window-all-closed', () => {
 app.on('activate', () => {
     if (BrowserWindow.getAllWindows().length === 0) {
         createWindow();
+    }
+});
+
+ipcMain.handle('get-news-data', async () => {
+    try {
+        if (!db) await initDb();
+        return db ? db.data : defaultData;
+    } catch (error) {
+        console.error('Fehler beim Laden der News-Daten:', error);
+        return defaultData;
+    }
+});
+
+ipcMain.handle('save-news-data', async (_, data) => {
+    try {
+        if (!db) await initDb();
+
+        if (!db) {
+            throw new Error('Datenbank konnte nicht initialisiert werden');
+        }
+        db.data = data;
+
+        try {
+            await db.write();
+            return true;
+        } catch (writeError) {
+            console.error('Fehler beim Schreiben der Daten:', writeError);
+            return false;
+        }
+    } catch (error) {
+        console.error('Fehler beim Speichern der News-Daten:', error);
+        return false;
     }
 });

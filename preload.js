@@ -10,6 +10,23 @@ contextBridge.exposeInMainWorld('api', {
             console.error('Fehler beim Abrufen der URL:', error);
             return null;
         }
+    },
+    // Neue Funktionen für die Datenbank-Kommunikation
+    getNewsData: async () => {
+        try {
+            return await ipcRenderer.invoke('get-news-data');
+        } catch (error) {
+            console.error('Fehler beim Laden der News-Daten:', error);
+            return {};
+        }
+    },
+    saveNewsData: async (data) => {
+        try {
+            return await ipcRenderer.invoke('save-news-data', data);
+        } catch (error) {
+            console.error('Fehler beim Speichern der News-Daten:', error);
+            return false;
+        }
     }
 });
 

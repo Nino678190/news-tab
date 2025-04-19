@@ -34,6 +34,10 @@ img{
     color: #808080;
 }
 
+p{
+    text-wrap: wrap;
+}
+
 button{
     width: 220px;
     height: 50px;

@@ -292,33 +292,91 @@ const icons = {
 }
 
 // Simulierte Datenbank für die Frontend-Entwicklung
+// Persistente Datenbank für die News-Tab-Anwendung
 const db = {
-    data: { 
-        tagesschau: [], spiegel: [], zdf: [], t_online: [], zeit: [], sueddeutsche: [], rbb: [], 
+    data: {
+        tagesschau: [], spiegel: [], zdf: [], t_online: [], zeit: [], sueddeutsche: [], rbb: [],
         heise: [], spiegel_digital: [], t3n: [], golem: [], netzpolitik: [], computerbase: [],
-        r_dingore: [], r_schkreckl: [], r_stvo: [], r_berlin: [] 
+        r_dingore: [], r_schkreckl: [], r_stvo: [], r_berlin: []
     },
-    get: function(key) {
+    initialized: false,
+
+    // Initialisierung der Datenbank beim Start
+    init: async function () {
+        if (this.initialized) return;
+
+        try {
+            if (window.api && window.api.getNewsData) {
+                const loadedData = await window.api.getNewsData();
+                if (loadedData) {
+                    this.data = loadedData;
+                    console.log("Datenbank wurde erfolgreich initialisiert");
+                }
+                this.initialized = true;
+            } else {
+                console.warn("API für Datenbankzugriff nicht verfügbar, verwende lokale Daten");
+                // Wir behalten die bereits initialisierten leeren Arrays
+                this.initialized = true;
+            }
+        } catch (error) {
+            console.error("Fehler beim Initialisieren der Datenbank:", error);
+            // Fehlgeschlagen, aber trotzdem als initialisiert markieren
+            this.initialized = true;
+        }
+    },
+
+    // Daten abrufen
+    get: async function (key) {
+        if (!this.initialized) await this.init();
         return this.data[key] || [];
     },
-    update: function(updateFn) {
-        // Einfacher Wrapper für die Aktualisierung
+
+    // Daten aktualisieren
+    update: async function (updateFn) {
+        if (!this.initialized) await this.init();
+
+        // Lokalen Cache aktualisieren
         const result = updateFn(this.data);
         if (result) {
             Object.assign(this.data, result);
         }
-        return Promise.resolve();
+
+        // Änderungen an den Hauptprozess senden
+        if (window.api && window.api.saveNewsData) {
+            try {
+                await window.api.saveNewsData(this.data);
+                return true;
+            } catch (error) {
+                console.error("Fehler beim Speichern der Datenbank:", error);
+            }
+        }
+
+        return Promise.resolve(true);
     }
 };
 
 async function fetchNews(url, origin) {
     try {
+        // Prüfen, ob wir bereits Daten für diese Quelle haben
+        const existingData = await db.get(origin);
+        const lastUpdate = localStorage.getItem(`last_update_${origin}`);
+        const now = new Date().getTime();
+
+        // Wenn Daten vorhanden sind und die letzte Aktualisierung weniger als 30 Minuten zurückliegt
+        if (existingData.length > 0 && lastUpdate && (now - parseInt(lastUpdate)) < 30 * 60 * 1000) {
+            console.log(`Verwende zwischengespeicherte Daten für ${origin} (letzte Aktualisierung vor ${Math.round((now - parseInt(lastUpdate)) / 60000)} Minuten)`);
+            return;
+        }
+
+        // Ansonsten neue Daten laden
+        console.log(`Lade neue Daten für ${origin}...`);
         const response = await fetch(url);
         if (!response.ok) {
             throw new Error(`News API Fehler: ${response.status}`);
         }
         const text = await response.text();
-        
+
+        // Parsen nach Quelltyp
         switch (origin) {
             case 'heise':
             case 'computerbase':
@@ -332,38 +390,61 @@ async function fetchNews(url, origin) {
                 await itemParser(origin, text);
                 break;
         }
+
+        // Zeitstempel der letzten Aktualisierung speichern
+        localStorage.setItem(`last_update_${origin}`, now.toString());
     } catch (error) {
-        console.error('Fehler beim Abrufen der Nachrichten:', error);
+        console.error(`Fehler beim Abrufen der Nachrichten von ${origin}:`, error);
     }
 }
 
-async function getNews(){
+setInterval(() => {
+    const now = new Date().getTime();
+    for (const key in urls.news) {
+        const lastUpdate = localStorage.getItem(`last_update_${key}`);
+        if (lastUpdate && (now - parseInt(lastUpdate)) > 5 * 60 * 1000) {
+            console.log(`Aktualisiere ${key}...`);
+            fetchNews(urls.news[key], key);
+        }
+    }
+});
+
+async function getNews() {
     const container = document.getElementById('news');
     if (!container) {
         console.error('News-Container nicht gefunden');
         return;
     }
-    
+
     // UI-Update für die Auswahl
     updateSelectionUI('all');
-    
-    container.innerHTML = '';
+
     container.innerHTML = '<p>Loading articles</p>';
 
-    await fetchNews(urls.news.tagesschau, 'tagesschau');
-    await fetchNews(urls.news.spiegel, 'spiegel');
-    await fetchNews(urls.news.zdf, 'zdf');
-    await fetchNews(urls.news.t_online, 't_online');
-    await fetchNews(urls.news.zeit, 'zeit');
+    // Datenbank initialisieren, falls noch nicht geschehen
+    await db.init();
 
-    let tagesschau = db.get('tagesschau');
-    let spiegel = db.get('spiegel');
-    let zdf = db.get('zdf');
-    let t_online = db.get('t_online');
-    let zeit = db.get('zeit');
-    let sueddeutsche = db.get('sueddeutsche');
-    let rbb = db.get('rbb');
-    let allNews = [...tagesschau, ...spiegel, ...zdf, ...t_online, ...zeit, ...sueddeutsche, ...rbb];
+    // Paralleles Laden der News-Quellen für bessere Performance
+    await Promise.all([
+        fetchNews(urls.news.tagesschau, 'tagesschau'),
+        fetchNews(urls.news.spiegel, 'spiegel'),
+        fetchNews(urls.news.zdf, 'zdf'),
+        fetchNews(urls.news.t_online, 't_online'),
+        fetchNews(urls.news.zeit, 'zeit'),
+        fetchNews(urls.news.sueddeutsche, 'sueddeutsche'),
+        fetchNews(urls.news.rbb, 'rbb')
+    ]);
+
+    // Daten nach dem Laden abrufen
+    const tagesschau = await db.get('tagesschau');
+    const spiegel = await db.get('spiegel');
+    const zdf = await db.get('zdf');
+    const t_online = await db.get('t_online');
+    const zeit = await db.get('zeit');
+    const sueddeutsche = await db.get('sueddeutsche');
+    const rbb = await db.get('rbb');
+
+    const allNews = [...tagesschau, ...spiegel, ...zdf, ...t_online, ...zeit, ...sueddeutsche, ...rbb];
     allNews.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
     renderNewsList(allNews, container);
 }
@@ -374,26 +455,30 @@ async function getTechnik() {
         console.error('News-Container nicht gefunden');
         return;
     }
-    
+
     // UI-Update für die Auswahl
     updateSelectionUI('technic');
-    
-    container.innerHTML = '';
-    container.innerHTML = '<p>Loading articles</p>';
-    
-    await fetchNews(urls.digital.heise, 'heise');
-    await fetchNews(urls.digital.spiegel_digital, 'spiegel_digital');
-    await fetchNews(urls.digital.t3n, 't3n');
-    await fetchNews(urls.digital.golem, 'golem');
-    await fetchNews(urls.digital.netzpolitik, 'netzpolitik');
-    await fetchNews(urls.digital.computerbase, 'computerbase');
 
-    let heise = db.get('heise');
-    let spiegel_digital = db.get('spiegel_digital');
-    let t3n = db.get('t3n');
-    let golem = db.get('golem');
-    let netzpolitik = db.get('netzpolitik');
-    let computerbase = db.get('computerbase');
+    container.innerHTML = '<p>Loading articles</p>';
+
+    // Datenbank initialisieren, falls noch nicht geschehen
+    await db.init();
+    
+    await Promise.all([
+        fetchNews(urls.digital.heise, 'heise'),
+        fetchNews(urls.digital.spiegel_digital, 'spiegel_digital'),
+        fetchNews(urls.digital.t3n, 't3n'),
+        fetchNews(urls.digital.golem, 'golem'),
+        fetchNews(urls.digital.netzpolitik, 'netzpolitik'),
+        fetchNews(urls.digital.computerbase, 'computerbase')
+    ]);
+
+    let heise = await db.get('heise');
+    let spiegel_digital = await db.get('spiegel_digital');
+    let t3n = await db.get('t3n');
+    let golem = await db.get('golem');
+    let netzpolitik = await db.get('netzpolitik');
+    let computerbase = await db.get('computerbase');
     let allNews = [...heise, ...spiegel_digital, ...t3n, ...golem, ...netzpolitik, ...computerbase];
 
     allNews.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
@@ -407,21 +492,25 @@ async function getMemes() {
         return;
     }
 
-    container.innerHTML = '';
-    container.innerHTML = '<p>Loading articles</p>';
-    
     // UI-Update für die Auswahl
-    updateSelectionUI('wissen');
-    
-    await fetchNews(urls.memes.r_dingore, 'r_dingore');
-    await fetchNews(urls.memes.r_schkreckl, 'r_schkreckl');
-    await fetchNews(urls.memes.r_stvo, 'r_stvo');
-    await fetchNews(urls.memes.r_berlin, 'r_berlin');
+    updateSelectionUI('memes');
 
-    let r_dingore = db.get('r_dingore');
-    let r_schkreckl = db.get('r_schkreckl');
-    let r_stvo = db.get('r_stvo');
-    let r_berlin = db.get('r_berlin');
+    container.innerHTML = '<p>Loading articles</p>';
+
+    // Datenbank initialisieren, falls noch nicht geschehen
+    await db.init();
+
+    await Promise.all([
+        fetchNews(urls.memes.r_dingore, 'r_dingore'),
+        fetchNews(urls.memes.r_schkreckl, 'r_schkreckl'),
+        fetchNews(urls.memes.r_stvo, 'r_stvo'),
+        fetchNews(urls.memes.r_berlin, 'r_berlin')
+    ]);
+
+    let r_dingore = await db.get('r_dingore');
+    let r_schkreckl = await db.get('r_schkreckl');
+    let r_stvo = await db.get('r_stvo');
+    let r_berlin = await db.get('r_berlin');
     let allNews = [...r_dingore, ...r_schkreckl, ...r_stvo, ...r_berlin];
 
     allNews.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
