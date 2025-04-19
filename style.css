@@ -25,6 +25,11 @@ main{
     gap: 20px;
 }
 
+img{
+    max-width: 100%;
+    height: auto;
+}
+
 #weather{
     width: 30%;
     display: flex;
@@ -33,10 +38,35 @@ main{
 
 #news{
     width: 69%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
 }
 
 .news-item{
     cursor: pointer;
+    width: 45%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.news-item.read{
+    background-color: #1a1a1a;
+    color: #808080;
+}
+
+.news-item:hover{
+    background-color: #1a1a1a;
+}
+
+.news-item>section{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
 }
 
 
@@ -80,6 +110,7 @@ main{
 
 .zeit{
     width: 130px;
+    filter: invert(1);
 }
 
 .spiegel{
@@ -87,13 +118,22 @@ main{
 }
 
 .t_online{
-    width: 70px;
+    width: 85px;
 }
 
 .heise{
-    width: 120px;
+    width: 130px;
 }
 
 .golem{
     width: 50px;
+}
+
+.reddit{
+    width: 30px;
+}
+
+.reddit_article>table>tbody>tr{
+    display: flex;
+    flex-direction: column;
 }

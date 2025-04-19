@@ -272,7 +272,7 @@ const icons = {
         tagesschau: 'icons/tagesschau.png',
         spiegel: 'icons/spiegel.png',
         zdf: 'icons/zdf.png',
-        t_online: 'icons/t-online.png',
+        t_online: 'icons/t_online.svg',
         zeit: 'icons/zeit.png',
         sueddeutsche: 'icons/sueddeutsche.png',
         rbb: 'icons/rbb.png'
@@ -460,12 +460,19 @@ function renderNewsList(allNews, container) {
     allNews.slice(0, 25).forEach((item) => {
         let itemObject = document.createElement('article');
         itemObject.className = 'news-item';
+        if (item.read) {
+            itemObject.classList.add('read');
+        }
+        let origin = item.origin;
+        if (origin.includes('r_')){
+            origin = "reddit";
+        }
         itemObject.innerHTML = `
             <section class="news-header">
                 <img src="${getIconForItem(item)}" alt="${item.origin}" class="news-icon ${item.origin}">
                 <h3 class="news-title">${item.title}</h3>
             </section>
-            <section class="news-content">
+            <section class="news-content ${origin}_article ">
                 <p class="news-description">${item.description}</p>
                 <a href="${item.link}" target="_blank" class="news-link">Mehr erfahren</a>
             </section>
@@ -498,8 +505,8 @@ function renderNewsList(allNews, container) {
                 <p class="news-description">${text}</p>
             </section>
             <section class="news-big-footer">
-                <button class="news-read-more" id="readMoreButton">Mehr erfahren</button>
-                <a href="${item.link}" target="_blank" class="news-link">Mehr erfahren</a>
+                <button class="news-read-more" id="readMoreButton">Mehr lesen</button>
+                <a href="${item.link}" target="_blank" class="news-link">Artikel öffnen</a>
                 <p class="news-date">${new Date(item.pubDate).toLocaleString('de-DE', { dateStyle: 'short', timeStyle: 'short' })}</p>
             </section>
         `;
@@ -627,7 +634,7 @@ async function itemParser(origin, responseText) {
             const item = items[i];
             const title = item.querySelector('title')?.textContent || 'Kein Titel';
             const link = item.querySelector('link')?.textContent || '#';
-            const description = item.querySelector('description')?.textContent || '';
+            const description = item.querySelector('description')?.textContent || 'Keine Beschreibung gefunden';
             const pubDate = item.querySelector('pubDate')?.textContent || new Date().toISOString();
             
             // Suche nach Bildern in verschiedenen Formaten
@@ -695,7 +702,7 @@ async function entryParser(origin, responseText) {
     const parser = new DOMParser();
     const xmlDoc = parser.parseFromString(responseText, 'text/xml');
     const entries = xmlDoc.getElementsByTagName('entry');
-    
+
     if (entries.length === 0) {
         console.error('Keine Einträge gefunden für', origin);
         return;
@@ -705,7 +712,7 @@ async function entryParser(origin, responseText) {
         try {
             const entry = entries[i];
             const title = entry.querySelector('title')?.textContent || 'Kein Titel';
-            
+
             // Links können unterschiedlich formatiert sein
             let link;
             const linkElement = entry.querySelector('link');
@@ -714,21 +721,32 @@ async function entryParser(origin, responseText) {
             } else {
                 link = '#';
             }
-            
-            const description = entry.querySelector('summary, content')?.textContent || '';
+
+            let description = entry.querySelector('summary, content')?.textContent || '';
             const pubDate = entry.querySelector('updated, published')?.textContent || new Date().toISOString();
-            
+
             // Suche nach Bildern
             let image = null;
             const mediaThumbnail = entry.querySelector('media\\:thumbnail, thumbnail');
             if (mediaThumbnail) {
                 image = mediaThumbnail.getAttribute('url');
             }
-            
+
             if (origin === 'computerbase') {
-                image = entry.getAttribute('summary')?.split('src=')[1]?.split('"')[1] || null;
+                const summaryAttr = entry.getAttribute('summary');
+                if (summaryAttr) {
+                    const srcParts = summaryAttr.split('src=');
+                    if (srcParts.length > 1) {
+                        const quoteParts = srcParts[1].split('"');
+                        if (quoteParts.length > 1) {
+                            image = quoteParts[1];
+                        }
+                    }
+                }
                 description = description.replace(/<img[^>]+src="([^">]+)"/, '');
+                description = description.replace('>', '').trim();
             }
+
             if (origin === 'netzpolitik') {
                 const contentToSearch = description || entry.querySelector('content')?.textContent || '';
 
@@ -746,8 +764,6 @@ async function entryParser(origin, responseText) {
                     .replace(/<img[^>]+src="([^">]+)"[^>]*>/gi, '');
             }
 
-            
-            
             const newsItem = {
                 title,
                 link,
@@ -757,7 +773,7 @@ async function entryParser(origin, responseText) {
                 read: false,
                 origin
             };
-            
+
             await db.update(data => {
                 if (Array.isArray(data[origin])) {
                     // Prüfe, ob der Artikel bereits existiert
@@ -768,7 +784,7 @@ async function entryParser(origin, responseText) {
                 }
                 return data;
             });
-            
+
         } catch (error) {
             console.error(`Fehler beim Parsen eines Entry aus ${origin}:`, error);
         }
