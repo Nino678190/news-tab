@@ -92,7 +92,6 @@ async function fetchWeather(lat, lon) {
         if (!data || !data.current) {
             throw new Error('Ungültige Wetterdaten erhalten');
         }
-        console.log('Wetterdaten erfolgreich abgerufen:', data);
         displayWeather(data);
     } catch (error) {
         console.error('Fehler beim Abrufen der Wetterdaten:', error);
@@ -109,7 +108,6 @@ async function displayWeather(data) {
     weatherDisplay.innerHTML = '';
 
     try {
-        console.log('Wetterdaten:', data);
         if (!data || !data.current) {
             throw new Error('Keine Wetterdaten verfügbar');
         }
@@ -494,7 +492,9 @@ function renderNewsList(allNews, container) {
             if (text === null) {
                 text = item.description;
             }
-
+            if (item.read){
+                itemObject.classList.add('read');
+            }
             container.innerHTML = `
             <section class="news-big-header">
                 <button class="back-button" onclick="getNews()">Zurück</button>
@@ -513,8 +513,43 @@ function renderNewsList(allNews, container) {
 
             // Füge den Event-Listener nach dem Rendern hinzu
             document.getElementById('readMoreButton').addEventListener('click', async function () {
-                const moreContent = await getMoreInfo(item.link);
+                let moreContent = await getMoreInfo(item.link);
                 if (moreContent) {
+                    if (origin === 't_online') {
+                        moreContent = item.article;
+                    }
+                    if (origin === 'zeit'){
+                        // Entferne alle Bilder mit srcset-Attributen
+                        moreContent = moreContent.replace(/<img[^>]*srcset="[^"]*"[^>]*>/g, '');
+                        // Entferne alle Bilder ohne srcset (Fallback)
+                        moreContent = moreContent.replace(/<img[^>]+src="([^">]+)"[^>]*>/g, '');
+                    }
+                    if (origin === 'zdf') {
+                        // Bilder mit srcset-Attributen entfernen (vollständige img-Tags)
+                        moreContent = moreContent.replace(/<img[^>]*srcset="[^"]*"[^>]*>/g, '');
+
+                        // Entferne alle normalen Bilder ohne srcset (Fallback)
+                        moreContent = moreContent.replace(/<img[^>]+src="([^">]+)"[^>]*>/g, '');
+
+                        // Vereinfache verschachtelte div-Strukturen
+                        moreContent = moreContent.replace(/<div[^>]*><div[^>]*>(.*?)<\/div><\/div>/g, '$1');   //Das verschachtelte div>div entfernen
+
+                        // Entferne den kompletten WhatsApp-Werbeblock (mehrere Muster)
+                        moreContent = moreContent.replace(/Sie wollen auf dem Laufenden bleiben[\s\S]*?ZDFheute-WhatsApp-Channel\./g, '');
+                        moreContent = moreContent.replace(/Zur Anmeldung: ZDFheute-WhatsApp-Channel\./g, '');
+                        moreContent = moreContent.replace(/WhatsApp-Channel[\s\S]*?ZDFheute-WhatsApp-Channel\./g, '');
+
+                        // Entferne den Quellen-Block
+                        moreContent = moreContent.replace(/Quelle: (?:dpa|AFP|Reuters|epd)(?:[,\s]*(?:dpa|AFP|Reuters|epd))*/g, '');
+
+                        // Extrahiere nur den relevanten Inhalt, wenn möglich
+                        const mainContentMatch = moreContent.match(/<div class="r1nj4qn5">([\s\S]*?)<\/div>/g);
+                        if (mainContentMatch) {
+                            moreContent = mainContentMatch.join('\n');
+                            // Wrapper-Element-Tags entfernen
+                            moreContent = moreContent.replace(/<div class="r1nj4qn5">/g, '').replace(/<\/div>/g, '');
+                        }
+                    }
                     document.querySelector('.news-description').innerHTML = moreContent;
                 } else {
                     document.querySelector('.news-description').innerHTML += '<p><em>Inhalt konnte nicht geladen werden.</em></p>';

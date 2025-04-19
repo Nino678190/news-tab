@@ -54,8 +54,12 @@ img{
     padding: 10px;
 }
 
-.news-item.read{
+.read{
     background-color: #1a1a1a;
+    color: #808080;
+}
+
+.read>article{
     color: #808080;
 }
 
