@@ -47,6 +47,7 @@ button{
     border-radius: 10px;
     font-weight: 600;
     font-size: larger;
+    margin-bottom: 10px;
 }
 
 button:before{

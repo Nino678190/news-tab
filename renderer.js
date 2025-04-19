@@ -337,7 +337,7 @@ async function fetchNews(url, origin) {
     }
 }
 
-function getNews(){
+async function getNews(){
     const container = document.getElementById('news');
     if (!container) {
         console.error('News-Container nicht gefunden');
@@ -348,12 +348,13 @@ function getNews(){
     updateSelectionUI('all');
     
     container.innerHTML = '';
+    container.innerHTML = '<p>Loading articles</p>';
 
-    fetchNews(urls.news.tagesschau, 'tagesschau');
-    fetchNews(urls.news.spiegel, 'spiegel');
-    fetchNews(urls.news.zdf, 'zdf');
-    fetchNews(urls.news.t_online, 't_online');
-    fetchNews(urls.news.zeit, 'zeit');
+    await fetchNews(urls.news.tagesschau, 'tagesschau');
+    await fetchNews(urls.news.spiegel, 'spiegel');
+    await fetchNews(urls.news.zdf, 'zdf');
+    await fetchNews(urls.news.t_online, 't_online');
+    await fetchNews(urls.news.zeit, 'zeit');
 
     let tagesschau = db.get('tagesschau');
     let spiegel = db.get('spiegel');
@@ -367,7 +368,7 @@ function getNews(){
     renderNewsList(allNews, container);
 }
 
-function getTechnik() {
+async function getTechnik() {
     const container = document.getElementById('news');
     if (!container) {
         console.error('News-Container nicht gefunden');
@@ -378,13 +379,14 @@ function getTechnik() {
     updateSelectionUI('technic');
     
     container.innerHTML = '';
+    container.innerHTML = '<p>Loading articles</p>';
     
-    fetchNews(urls.digital.heise, 'heise');
-    fetchNews(urls.digital.spiegel_digital, 'spiegel_digital');
-    fetchNews(urls.digital.t3n, 't3n');
-    fetchNews(urls.digital.golem, 'golem');
-    fetchNews(urls.digital.netzpolitik, 'netzpolitik');
-    fetchNews(urls.digital.computerbase, 'computerbase');
+    await fetchNews(urls.digital.heise, 'heise');
+    await fetchNews(urls.digital.spiegel_digital, 'spiegel_digital');
+    await fetchNews(urls.digital.t3n, 't3n');
+    await fetchNews(urls.digital.golem, 'golem');
+    await fetchNews(urls.digital.netzpolitik, 'netzpolitik');
+    await fetchNews(urls.digital.computerbase, 'computerbase');
 
     let heise = db.get('heise');
     let spiegel_digital = db.get('spiegel_digital');
@@ -398,21 +400,23 @@ function getTechnik() {
     renderNewsList(allNews, container);
 }
 
-function getMemes() {
+async function getMemes() {
     const container = document.getElementById('news');
     if (!container) {
         console.error('News-Container nicht gefunden');
         return;
     }
+
+    container.innerHTML = '';
+    container.innerHTML = '<p>Loading articles</p>';
     
     // UI-Update für die Auswahl
     updateSelectionUI('wissen');
     
-    container.innerHTML = '';
-    fetchNews(urls.memes.r_dingore, 'r_dingore');
-    fetchNews(urls.memes.r_schkreckl, 'r_schkreckl');
-    fetchNews(urls.memes.r_stvo, 'r_stvo');
-    fetchNews(urls.memes.r_berlin, 'r_berlin');
+    await fetchNews(urls.memes.r_dingore, 'r_dingore');
+    await fetchNews(urls.memes.r_schkreckl, 'r_schkreckl');
+    await fetchNews(urls.memes.r_stvo, 'r_stvo');
+    await fetchNews(urls.memes.r_berlin, 'r_berlin');
 
     let r_dingore = db.get('r_dingore');
     let r_schkreckl = db.get('r_schkreckl');
@@ -455,6 +459,7 @@ document.querySelectorAll(".news-link").forEach(link => {
 });
 
 function renderNewsList(allNews, container) {
+    container.innerHTML = '';
     allNews.slice(0, 25).forEach((item) => {
         let itemObject = document.createElement('article');
         itemObject.className = 'news-item';
