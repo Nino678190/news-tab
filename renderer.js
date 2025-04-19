@@ -462,7 +462,7 @@ function renderNewsList(allNews, container) {
         itemObject.className = 'news-item';
         itemObject.innerHTML = `
             <section class="news-header">
-                <img src="${getIconForItem(item)}" alt="${item.origin}" class="news-icon">
+                <img src="${getIconForItem(item)}" alt="${item.origin}" class="news-icon ${item.origin}">
                 <h3 class="news-title">${item.title}</h3>
             </section>
             <section class="news-content">

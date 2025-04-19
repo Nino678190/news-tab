@@ -2,6 +2,7 @@ body{
     background-color: #010101;
     color: #ffffff;
     font-family: 'Noto Sans';
+    overflow-x: hidden;
 }
 
 @font-face {
@@ -67,4 +68,32 @@ main{
     align-items: center;
     flex-direction: row;
     gap: 10px;
+}
+
+.tagesschau{
+    width: 30px;
+}
+
+.zdf{
+    width: 50px;
+}
+
+.zeit{
+    width: 130px;
+}
+
+.spiegel{
+    width: 30px;
+}
+
+.t_online{
+    width: 70px;
+}
+
+.heise{
+    width: 120px;
+}
+
+.golem{
+    width: 50px;
 }
