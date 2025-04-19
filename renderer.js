@@ -363,7 +363,7 @@ async function fetchNews(url, origin) {
         const now = new Date().getTime();
 
         // Wenn Daten vorhanden sind und die letzte Aktualisierung weniger als 30 Minuten zurückliegt
-        if (existingData.length > 0 && lastUpdate && (now - parseInt(lastUpdate)) < 30 * 60 * 1000) {
+        if (existingData.length > 0 && lastUpdate && (now - parseInt(lastUpdate)) < 5 * 60 * 1000) {
             console.log(`Verwende zwischengespeicherte Daten für ${origin} (letzte Aktualisierung vor ${Math.round((now - parseInt(lastUpdate)) / 60000)} Minuten)`);
             return;
         }

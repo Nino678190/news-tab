@@ -599,7 +599,7 @@
       "pubDate": "Sat, 19 Apr 2025 20:37:00 +0200",
       "image": "https://cdn.prod.www.spiegel.de/images/07f6e8f5-526f-48e4-ad1e-772f60465bbe_w520_r2.08_fpx47_fpy57.jpg",
       "article": "Die Route, die Quartiere, die Ausflüge: Damit eine selbstorganisierte Reise gelingt, muss sich jemand darum kümmern. In jeder Gruppe und Familie gibt es diese eine Person.",
-      "read": false,
+      "read": true,
       "origin": "spiegel"
     }
   ],
@@ -1983,6 +1983,16 @@
       "article": "",
       "read": false,
       "origin": "zdf"
+    },
+    {
+      "title": "Wie Legehennen ein neues Leben geschenkt wird",
+      "link": "https://www.zdf.de/nachrichten/panorama/huehner-huehnerhaltung-legehennen-100.html",
+      "description": "Hühner und Legehennen leben meist unter schlechten Bedingungen. Werden sie zu alt, ermöglicht der Verein \"Rettet das Huhn\" ihnen ein neues Leben und vermittelt sie an Tierfreunde.",
+      "pubDate": "Sat, 19 Apr 2025 20:46:00 +0200",
+      "image": "https://www.zdf.de/assets/legehenne-hope-100~384x216?cb=1745088434159",
+      "article": "",
+      "read": true,
+      "origin": "zdf"
     }
   ],
   "t_online": [
@@ -2405,7 +2415,7 @@
       "pubDate": "Sat, 19 Apr 2025 18:25:25 -0000",
       "image": "https://img.zeit.de/news/2025-04/19/mclaren-in-eigener-liga-ferrari-mit-j-lo-in-der-box-image-group/original__640x360",
       "article": "<a href=\"https://www.zeit.de/news/2025-04/19/mclaren-in-eigener-liga-ferrari-mit-j-lo-in-der-box\"><img style=\"float:left; margin-right:5px\" src=\"https://img.zeit.de/news/2025-04/19/mclaren-in-eigener-liga-ferrari-mit-j-lo-in-der-box-image-group/wide__148x84\"></a> None",
-      "read": false,
+      "read": true,
       "origin": "zeit"
     },
     {
@@ -2455,6 +2465,26 @@
       "pubDate": "Sat, 19 Apr 2025 17:54:03 -0000",
       "image": "https://img.zeit.de/news/2025-04/19/rekord-spektakel-in-berlin-acht-tore-in-erster-halbzeit-image-group/original__640x360",
       "article": "<a href=\"https://www.zeit.de/news/2025-04/19/rekord-spektakel-in-berlin-acht-tore-in-erster-halbzeit\"><img style=\"float:left; margin-right:5px\" src=\"https://img.zeit.de/news/2025-04/19/rekord-spektakel-in-berlin-acht-tore-in-erster-halbzeit-image-group/wide__148x84\"></a> None",
+      "read": false,
+      "origin": "zeit"
+    },
+    {
+      "title": "Bundesliga: Kiels Handballer feiern Auswärtssieg in Göppingen",
+      "link": "https://www.zeit.de/news/2025-04/19/kiels-handballer-feiern-auswaertssieg-in-goeppingen",
+      "description": "Keine Beschreibung gefunden",
+      "pubDate": "Sat, 19 Apr 2025 18:51:20 -0000",
+      "image": "https://img.zeit.de/news/2025-04/19/kiels-handballer-feiern-auswaertssieg-in-goeppingen-image-group/original__640x360",
+      "article": "<a href=\"https://www.zeit.de/news/2025-04/19/kiels-handballer-feiern-auswaertssieg-in-goeppingen\"><img style=\"float:left; margin-right:5px\" src=\"https://img.zeit.de/news/2025-04/19/kiels-handballer-feiern-auswaertssieg-in-goeppingen-image-group/wide__148x84\"></a> None",
+      "read": false,
+      "origin": "zeit"
+    },
+    {
+      "title": "Terrorismus: Clinton bei Gedenken an Oklahoma-Anschlag vor 30 Jahren",
+      "link": "https://www.zeit.de/news/2025-04/19/clinton-bei-gedenken-an-oklahoma-anschlag-vor-30-jahren",
+      "description": "Keine Beschreibung gefunden",
+      "pubDate": "Sat, 19 Apr 2025 18:47:21 -0000",
+      "image": "https://img.zeit.de/news/2025-04/19/clinton-bei-gedenken-an-oklahoma-anschlag-vor-30-jahren-image-group/original__640x360",
+      "article": "<a href=\"https://www.zeit.de/news/2025-04/19/clinton-bei-gedenken-an-oklahoma-anschlag-vor-30-jahren\"><img style=\"float:left; margin-right:5px\" src=\"https://img.zeit.de/news/2025-04/19/clinton-bei-gedenken-an-oklahoma-anschlag-vor-30-jahren-image-group/wide__148x84\"></a> None",
       "read": false,
       "origin": "zeit"
     }
@@ -3047,6 +3077,36 @@
       "link": "https://www.rbb24.de/panorama/beitrag/av7/video-osterfeuer-abgesagt-waldbrandgefahr-brandenburg.html",
       "description": "   ",
       "pubDate": "Wed, 16 Apr 2025 20:53:00 +0200",
+      "image": null,
+      "article": "",
+      "read": false,
+      "origin": "rbb"
+    },
+    {
+      "title": "Video | Rome und Julia: Ein großes Gedenken an AnNa R. ",
+      "link": "https://www.rbb24.de/kultur/beitrag/av7/video-trauer-rosenstolz-rome-und-julia.html",
+      "description": "   ",
+      "pubDate": "Sat, 19 Apr 2025 20:57:28 +0200",
+      "image": null,
+      "article": "",
+      "read": false,
+      "origin": "rbb"
+    },
+    {
+      "title": "Video | ETF: Jung und börsenaffin – Investiert die Generation Z auch trotz Krisen?",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/av7/video-etf-schwankende-kurse.html",
+      "description": "   ",
+      "pubDate": "Sat, 19 Apr 2025 20:53:33 +0200",
+      "image": null,
+      "article": "",
+      "read": false,
+      "origin": "rbb"
+    },
+    {
+      "title": "Video | Erkrankung: Wenn die Eltern dement werden",
+      "link": "https://www.rbb24.de/panorama/beitrag/av7/video-demenz-eltern.html",
+      "description": "   ",
+      "pubDate": "Sat, 19 Apr 2025 20:51:11 +0200",
       "image": null,
       "article": "",
       "read": false,
@@ -6693,7 +6753,7 @@
       "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/StVO/comments/1k32s9t/ob_das_wirklich_so_gedacht_war/\"> <img src=\"https://preview.redd.it/qqwp1c9j3uve1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=3bf47a2d94b2846e7d2ba09eb9a47b17c59b4110\" alt=\"Ob das wirklich so gedacht war? 🤔\" title=\"Ob das wirklich so gedacht war? 🤔\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/xXItCorbisXx\"> /u/xXItCorbisXx </a> <br/> <span><a href=\"https://i.redd.it/qqwp1c9j3uve1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/StVO/comments/1k32s9t/ob_das_wirklich_so_gedacht_war/\">[Kommentare]</a></span> </td></tr></table>",
       "pubDate": "2025-04-19T18:22:55+00:00",
       "image": "https://preview.redd.it/qqwp1c9j3uve1.jpeg?width=320&crop=smart&auto=webp&s=3bf47a2d94b2846e7d2ba09eb9a47b17c59b4110",
-      "read": false,
+      "read": true,
       "origin": "r_stvo"
     },
     {
