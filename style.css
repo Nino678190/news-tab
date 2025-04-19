@@ -10,6 +10,10 @@ body{
     src: url(Noto-Sans/NotoSans-Bold.ttf);
 }
 
+::-webkit-scrollbar {
+    display: none;
+}
+
 header{
     display: flex;
     justify-content: space-between;

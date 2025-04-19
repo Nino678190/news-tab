@@ -40,7 +40,7 @@ function createWindow() {
         width: 1200,
         height: 900,
         frame: false,
-        show: true,
+        show: false,
         webPreferences: {
             preload: path.join(__dirname, 'preload.js'),
             contextIsolation: true,
@@ -50,38 +50,93 @@ function createWindow() {
     });
 
     mainWindow.loadFile('index.html');
+}
 
-    // Globale Shortcuts
-    globalShortcut.register('Super+N', () => {
-        if (mainWindow.isVisible()) {
-            mainWindow.hide();
-        } else {
-            mainWindow.show();
+// Funktion zum Registrieren der globalen Shortcuts
+function setupShortcuts() {
+    // Alle vorherigen Shortcuts entfernen
+    globalShortcut.unregisterAll();
+
+    // Super+N Shortcut registrieren (Windows key oder Meta key)
+    const success = globalShortcut.register('Super+N', () => {
+        console.log('Super+N wurde gedrückt');
+        if (mainWindow) {
+            if (mainWindow.isVisible()) {
+                mainWindow.hide();
+            } else {
+                mainWindow.show();
+                mainWindow.focus();
+            }
         }
     });
 
+    if (!success) {
+        console.error('Registrierung des Super+N Shortcuts fehlgeschlagen');
+
+        // Alternative Shortcuts versuchen
+        const altSuccess = globalShortcut.register('Alt+N', () => {
+            console.log('Alt+N wurde gedrückt (Alternative)');
+            if (mainWindow) {
+                if (mainWindow.isVisible()) {
+                    mainWindow.hide();
+                } else {
+                    mainWindow.show();
+                    mainWindow.focus();
+                }
+            }
+        });
+
+        if (altSuccess) {
+            console.log('Alt+N Shortcut als Alternative registriert');
+        }
+    } else {
+        console.log('Super+N Shortcut erfolgreich registriert');
+    }
+}
+
+// Funktion zum Einrichten des Tray-Icons
+function setupTray() {
     // Tray-Icon
     tray = new Tray(path.join(__dirname, 'icon.png'));
     const contextMenu = Menu.buildFromTemplate([
-        { label: 'News-Tab öffnen', click: () => mainWindow.show() },
+        {
+            label: 'News-Tab öffnen', click: () => {
+                mainWindow.show();
+                mainWindow.focus();
+            }
+        },
         { label: 'Beenden', click: () => app.quit() }
     ]);
     tray.setToolTip('News Tab');
     tray.setContextMenu(contextMenu);
+
+    // Klick auf das Tray-Icon zeigt das Fenster
+    tray.on('click', () => {
+        if (mainWindow) {
+            if (mainWindow.isVisible()) {
+                mainWindow.hide();
+            } else {
+                mainWindow.show();
+                mainWindow.focus();
+            }
+        }
+    });
 }
 
 app.whenReady().then(async () => {
     await initDb();
 
     createWindow();
+    setupTray();
+    setupShortcuts();
 
     // IPC Event für das Öffnen eines Links
-    ipcMain.on('open-reader', (event, url) => {
+    ipcMain.on('open-reader', (_, url) => {
         openArticleReader(url);
     });
 
     // IPC Handler für URL-Fetching
-    ipcMain.handle('fetch-url', async (event, url) => {
+    ipcMain.handle('fetch-url', async (_, url) => {
         try {
             const response = await fetch(url);
             if (!response.ok) {
@@ -95,7 +150,7 @@ app.whenReady().then(async () => {
     });
 
     // IPC Handler für Readability-Parsing
-    ipcMain.handle('parse-article', async (event, url) => {
+    ipcMain.handle('parse-article', async (_, url) => {
         try {
             const response = await fetch(url);
             const html = await response.text();
@@ -112,6 +167,11 @@ app.whenReady().then(async () => {
     });
 });
 
+// Überprüfe, ob die Shortcuts funktionieren
+app.on('browser-window-focus', () => {
+    console.log('Fenster hat Fokus erhalten - Shortcuts sollten funktionieren');
+});
+
 async function openArticleReader(url) {
     console.log(`Versuche Artikel zu öffnen und zu parsen: ${url}`);
     if (!mainWindow || mainWindow.isDestroyed()) {
@@ -124,9 +184,9 @@ async function openArticleReader(url) {
 
     try {
         const response = await fetch(url, {
-             headers: { // Einige Webseiten benötigen einen User-Agent
+            headers: { // Einige Webseiten benötigen einen User-Agent
                 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
-             }
+            }
         });
         if (!response.ok) {
             throw new Error(`HTTP Fehler: ${response.status}`);
@@ -172,7 +232,15 @@ app.on('window-all-closed', () => {
 app.on('activate', () => {
     if (BrowserWindow.getAllWindows().length === 0) {
         createWindow();
+        setupTray();
+        setupShortcuts();
     }
+});
+
+// Aufräumen beim Beenden
+app.on('will-quit', () => {
+    // Alle Shortcuts entfernen
+    globalShortcut.unregisterAll();
 });
 
 ipcMain.handle('get-news-data', async () => {
