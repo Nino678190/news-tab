@@ -399,6 +399,16 @@
       "article": "<p> <a href=\"https://www.tagesschau.de/newsticker/liveblog-nahost-freitag-248.html\"><img src=\"https://images.tagesschau.de/image/8bd0dc4d-2332-44af-822e-240402809984/AAABlkbweG0/AAABkZLhkrw/16x9-1280/hamas-136.jpg\" alt=\"Mitglieder der Terrormiliz Hamas in Chan Junis. | picture alliance/dpa/AP\" /></a> <br/> <br/>Die Terrormiliz Hamas hat den jüngsten israelischen Vorschlag für eine Waffenruhe abgelehnt und fordert ein \"umfassendes Abkommen\" zur Beendigung des Kriegs. Laut einem Bericht hat die US-Regierung begonnen, Hunderte Soldaten aus Syrien abzuziehen.[<a href=\"https://www.tagesschau.de/newsticker/liveblog-nahost-freitag-248.html\">mehr</a>]</p>",
       "read": false,
       "origin": "tagesschau"
+    },
+    {
+      "title": "Tausende demonstrieren nach Gerichtsentscheidung in London für trans Rechte",
+      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-urteil-trans-frauen-demonstration-100.html",
+      "description": "In London sind Tausende Menschen für die Rechte von trans Menschen auf die Straße gegangen. Anlass war eine Gerichtsentscheidung, laut der ein britisches Gleichberechtigungsgesetz von 2010 nur für biologische Frauen gilt.",
+      "pubDate": "Sat, 19 Apr 2025 21:03:11 +0200",
+      "image": null,
+      "article": "<p> <a href=\"https://www.tagesschau.de/ausland/europa/grossbritannien-urteil-trans-frauen-demonstration-100.html\"><img src=\"https://images.tagesschau.de/image/3600ef8a-8c23-41d4-bd8e-4c63250f3251/AAABlk9u6UU/AAABkZLhkrw/16x9-1280/demonstration-trans-rechte-london-100.jpg\" alt=\"Demonstration für Trans-Rechte in London | EPA\" /></a> <br/> <br/>In London sind Tausende Menschen für die Rechte von trans Menschen auf die Straße gegangen. Anlass war eine Gerichtsentscheidung, laut der ein britisches Gleichberechtigungsgesetz von 2010 nur für biologische Frauen gilt.[<a href=\"https://www.tagesschau.de/ausland/europa/grossbritannien-urteil-trans-frauen-demonstration-100.html\">mehr</a>]</p>",
+      "read": false,
+      "origin": "tagesschau"
     }
   ],
   "spiegel": [
@@ -3110,6 +3120,16 @@
       "image": null,
       "article": "",
       "read": false,
+      "origin": "rbb"
+    },
+    {
+      "title": "Berlin-Tempelhof: Wohnungsbrand mit einer verletzten Person",
+      "link": "https://www.rbb24.de/panorama/beitrag/2025/04/berlin-wohnungsbrand-tempelhof-eine-verletzte-person.html",
+      "description": "   ",
+      "pubDate": "Sat, 19 Apr 2025 21:03:52 +0200",
+      "image": null,
+      "article": "",
+      "read": true,
       "origin": "rbb"
     }
   ],
