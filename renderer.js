@@ -448,6 +448,14 @@ async function showMoreText(contentHTML) {
     }
 }
 
+document.querySelectorAll(".news-link").forEach(link => {
+    link.addEventListener("click", (e) => {
+        e.preventDefault();
+        const url = link.getAttribute("href");
+        window.api.openReader(url);
+    });
+});
+
 function renderNewsList(allNews, container) {
     allNews.slice(0, 25).forEach((item) => {
         let itemObject = document.createElement('article');
@@ -508,8 +516,11 @@ function renderNewsList(allNews, container) {
         });
         container.appendChild(itemObject);
         // Check if the news item has an image embedded in the description
-        if (item.description.length > 500){
-            document.removeChild(document.getElementById('readMoreButton'));
+        if (item.description.length > 500) {
+            const readMoreButton = document.getElementById('readMoreButton');
+            if (readMoreButton && readMoreButton.parentNode) {
+                readMoreButton.parentNode.removeChild(readMoreButton);
+            }
         }
     });
 }
@@ -519,29 +530,69 @@ console.log("Readability verfügbar:", typeof Readability !== 'undefined');
 
 async function getMoreInfo(link) {
     try {
-        const response = await fetch(link);
-        if (!response.ok) {
-            throw new Error(`Fehler beim Abrufen von ${link}: ${response.statusText}`);
-        }
-        const html = await response.text();
-        // DOM-Kontext für Readability erforderlich
-        const parser = new DOMParser();
-        const doc = parser.parseFromString(html, 'text/html');
+        // Verwende die IPC-Bridge für die Kommunikation mit dem Main-Prozess
+        if (window.ReadabilityData) {
+            // Verwende die IPC-Kommunikation
+            const content = await window.ReadabilityData.parseArticle(link);
+            return content;
+        } else if (window.api && window.api.fetchUrl) {
+            // Alternative: Hole den HTML-Inhalt und parse ihn im Renderer
+            const html = await window.api.fetchUrl(link);
 
-        // Sicherstellen, dass Readability geladen ist
-        if (typeof Readability === 'undefined') {
-             console.error("Readability-Bibliothek ist nicht geladen.");
-             // Hier Readability.js einbinden oder einen Fehler auslösen/null zurückgeben
-             return null;
+            if (!html) {
+                throw new Error('Keine HTML-Daten erhalten');
+            }
+
+            // Versuche, den Inhalt zu parsen (falls Readability im Browser verfügbar ist)
+            try {
+                const parser = new DOMParser();
+                const doc = parser.parseFromString(html, 'text/html');
+
+                // Prüfe, ob Readability verfügbar ist
+                if (typeof Readability !== 'undefined') {
+                    const reader = new Readability(doc);
+                    const article = reader.parse();
+                    return article ? article.content : null;
+                } else {
+                    console.error("Readability ist nicht verfügbar");
+                    return `<div class="fallback-content">
+                        <p>Readability ist nicht verfügbar. Hier ist der Rohinhalt:</p>
+                        <div>${extractSimpleContent(html)}</div>
+                    </div>`;
+                }
+            } catch (parseError) {
+                console.error("Fehler beim Parsen:", parseError);
+                return `<p>Fehler beim Parsen: ${parseError.message}</p>`;
+            }
+        } else {
+            // Fallback-Meldung, wenn keine API verfügbar ist
+            console.error("Keine API für externes Fetching verfügbar");
+            return "<p>Diese Funktion benötigt die Electron-API.</p>";
         }
-        const reader = new Readability(doc);
-        const article = reader.parse();
-        // article.content enthält das geparste Artikel-HTML
-        return article ? article.content : null;
     } catch (error) {
         console.error(`Fehler beim Abrufen oder Parsen des Artikels von ${link}:`, error);
-        return null; // Bei Fehler null oder leeren String zurückgeben
+        return `<p><em>Fehler beim Laden des Inhalts: ${error.message}</em></p>`;
     }
+}
+
+// Hilfsfunktion, um einen lesbaren Text aus HTML zu extrahieren
+function extractSimpleContent(html) {
+    const tempDiv = document.createElement('div');
+    tempDiv.innerHTML = html;
+
+    // Entferne Skripts, Styles und andere nicht-relevante Elemente
+    const scriptsAndStyles = tempDiv.querySelectorAll('script, style, iframe, nav, footer, header');
+    scriptsAndStyles.forEach(element => element.remove());
+
+    // Versuche, den Hauptinhalt zu finden
+    const possibleContent = tempDiv.querySelector('article, main, .content, #content');
+
+    if (possibleContent) {
+        return possibleContent.innerHTML;
+    }
+
+    // Fallback: Gib den Body-Inhalt zurück
+    return tempDiv.querySelector('body')?.innerHTML || 'Kein Inhalt gefunden';
 }
 
 function getIconForItem(item) {

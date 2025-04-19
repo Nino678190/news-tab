@@ -4,16 +4,17 @@
         <meta charset='UTF-8'>
         <meta name='viewport' content='width=device-width'>
         <link rel='stylesheet' href='style.css'>
-        <script src='Readability.js'></script>
-        <script src='renderer.js'></script>
+        <script src='renderer.js' defer></script>
     </head>
     <body onload="getNews(); updateWeather(52.52000660, 13.40495400);">
         <header>
-            <section><h2>My-Newspad</h2></section>
+            <section><button type="button" onclick="location.reload()">Reload</button>
+                <h2>My-Newspad</h2>
+            </section>
             <section class="selections">
                 <section class="selection" id="all" onclick="getNews()">Alle News</section>
                 <section class="selection none" id="technic" onclick="getTechnik()">Technik News</section>
-                <section class="selection none" id="wissen" onclick="getMemes()">Wissen</section>
+                <section class="selection none" id="memes" onclick="getMemes()">Memes</section>
             </section>
         </header>
         <main>
@@ -21,8 +22,20 @@
 
             </section>
             <section class="news" id="news">
-
+                <!-- News items will likely be loaded here -->
             </section>
+            <article>
+                <h3 id="article-title"></h3>
+                <div id="article-content"></div>
+            </article>
         </main>
+        <script>
+            if (window.api) {
+                window.api.onArticleLoaded((data) => {
+                    document.getElementById("article-title").innerText = data.title;
+                    document.getElementById("article-content").innerHTML = data.content;
+                });
+            }
+        </script>
     </body>
 </html>

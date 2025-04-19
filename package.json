@@ -23,7 +23,9 @@
     "@mozilla/readability": "^0.6.0",
     "axios": "^1.8.4",
     "electron": "^35.2.0",
+    "jsdom": "^26.1.0",
     "lowdb": "^7.0.1",
+    "node-fetch": "^3.3.2",
     "nodemon": "^3.1.9"
   }
 }
