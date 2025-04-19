@@ -398,16 +398,29 @@ async function fetchNews(url, origin) {
     }
 }
 
+// Periodically check and update news sources in the background
 setInterval(() => {
     const now = new Date().getTime();
-    for (const key in urls.news) {
-        const lastUpdate = localStorage.getItem(`last_update_${key}`);
-        if (lastUpdate && (now - parseInt(lastUpdate)) > 5 * 60 * 1000) {
-            console.log(`Aktualisiere ${key}...`);
-            fetchNews(urls.news[key], key);
+    const updateInterval = 15 * 60 * 1000; // 30 minutes
+
+    console.log("Checking for background updates...");
+
+    // Iterate through all categories (news, digital, memes)
+    for (const category in urls) {
+        // Iterate through sources within each category
+        for (const key in urls[category]) {
+            const lastUpdate = localStorage.getItem(`last_update_${key}`);
+            // Check if update is needed (no last update timestamp or cache is older than interval)
+            if (!lastUpdate || (now - parseInt(lastUpdate)) > updateInterval) {
+                console.log(`Background update triggered for ${key}...`);
+                // Fetch news without waiting for it to complete (async background task)
+                fetchNews(urls[category][key], key).catch(error => {
+                    console.error(`Background update failed for ${key}:`, error);
+                });
+            }
         }
     }
-});
+}, 15 * 60 * 1000); // Check every 15 minutes
 
 async function getNews() {
     const container = document.getElementById('news');
