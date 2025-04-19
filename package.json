@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Nino678190/news-tab#readme",
   "dependencies": {
+    "@mozilla/readability": "^0.6.0",
     "axios": "^1.8.4",
     "electron": "^35.2.0",
     "lowdb": "^7.0.1",

@@ -1,4 +1,8 @@
 const { contextBridge, ipcRenderer } = require('electron');
+const { Readability } = require('@mozilla/readability');
+
+// Stelle Readability im Window-Objekt zur Verfügung
+contextBridge.exposeInMainWorld('Readability', Readability);
 
 contextBridge.exposeInMainWorld('electronAPI', {
     showNotification: (title, body) => {

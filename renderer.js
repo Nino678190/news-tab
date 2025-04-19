@@ -437,6 +437,17 @@ function updateSelectionUI(selectedId) {
     });
 }
 
+async function showMoreText(contentHTML) {
+    const descriptionElement = document.querySelector('.news-description');
+    if (!descriptionElement) return;
+
+    if (contentHTML) {
+        descriptionElement.innerHTML = contentHTML;
+    } else {
+        descriptionElement.innerHTML += '<p><em>Inhalt konnte nicht geladen werden.</em></p>';
+    }
+}
+
 function renderNewsList(allNews, container) {
     allNews.slice(0, 25).forEach((item) => {
         let itemObject = document.createElement('article');
@@ -465,23 +476,35 @@ function renderNewsList(allNews, container) {
             itemObject.classList.add('read');
             container.innerHTML = '';
             let text = item.article || item.description;
-            if (text === null ){
+            if (text === null) {
                 text = item.description;
             }
+
             container.innerHTML = `
-                <section class="news-big-header">
-                    <button class="back-button" onclick="getNews()">Zurück</button>
-                    <img src="${item.image}" alt="${item.title}" class="news-image">
-                </section>
-                <section class="news-big-content">
-                    <h2 class="news-title">${item.title}</h2>
-                    <p class="news-description">${text}</p>
-                </section>
-                <section class="news-big-footer">
-                    <a href="${item.link}" target="_blank" class="news-link">Mehr erfahren</a>
-                    <p class="news-date">${new Date(item.pubDate).toLocaleString('de-DE', { dateStyle: 'short', timeStyle: 'short' })}</p>
-                </section>
-                `;
+            <section class="news-big-header">
+                <button class="back-button" onclick="getNews()">Zurück</button>
+                <img src="${item.image}" alt="${item.title}" class="news-image">
+            </section>
+            <section class="news-big-content">
+                <h2 class="news-title">${item.title}</h2>
+                <p class="news-description">${text}</p>
+            </section>
+            <section class="news-big-footer">
+                <button class="news-read-more" id="readMoreButton">Mehr erfahren</button>
+                <a href="${item.link}" target="_blank" class="news-link">Mehr erfahren</a>
+                <p class="news-date">${new Date(item.pubDate).toLocaleString('de-DE', { dateStyle: 'short', timeStyle: 'short' })}</p>
+            </section>
+        `;
+
+            // Füge den Event-Listener nach dem Rendern hinzu
+            document.getElementById('readMoreButton').addEventListener('click', async function () {
+                const moreContent = await getMoreInfo(item.link);
+                if (moreContent) {
+                    document.querySelector('.news-description').innerHTML = moreContent;
+                } else {
+                    document.querySelector('.news-description').innerHTML += '<p><em>Inhalt konnte nicht geladen werden.</em></p>';
+                }
+            });
         });
         container.appendChild(itemObject);
         // Check if the news item has an image embedded in the description
@@ -499,18 +522,51 @@ function renderNewsList(allNews, container) {
     });
 }
 
+// Füge diesen Code am Anfang deiner Datei ein
+console.log("Readability verfügbar:", typeof Readability !== 'undefined');
+
+async function getMoreInfo(link) {
+    try {
+        const response = await fetch(link);
+        if (!response.ok) {
+            throw new Error(`Fehler beim Abrufen von ${link}: ${response.statusText}`);
+        }
+        const html = await response.text();
+        // DOM-Kontext für Readability erforderlich
+        const parser = new DOMParser();
+        const doc = parser.parseFromString(html, 'text/html');
+
+        // Sicherstellen, dass Readability geladen ist
+        if (typeof Readability === 'undefined') {
+             console.error("Readability-Bibliothek ist nicht geladen.");
+             // Hier Readability.js einbinden oder einen Fehler auslösen/null zurückgeben
+             return null;
+        }
+        const reader = new Readability(doc);
+        const article = reader.parse();
+        // article.content enthält das geparste Artikel-HTML
+        return article ? article.content : null;
+    } catch (error) {
+        console.error(`Fehler beim Abrufen oder Parsen des Artikels von ${link}:`, error);
+        return null; // Bei Fehler null oder leeren String zurückgeben
+    }
+}
+
 function getIconForItem(item) {
     // Bestimmt die richtige Icon-Quelle basierend auf dem Ursprung des Elements
     const origin = item.origin;
-    
+
     // Überprüfe in allen Icon-Kategorien
     for (const category in icons) {
-        if (icons[category][origin]) {
+        // Zusätzliche Prüfung, ob die Kategorie existiert
+        if (icons[category] && icons[category][origin]) {
             return icons[category][origin];
         }
     }
-    
-    return 'icons/default.png'; // Fallback-Icon
+
+    // Fallback-Icon, wenn kein spezifisches Icon gefunden wird
+    console.warn(`Kein Icon für Quelle gefunden: ${origin}. Verwende Standard.`); // Optionale Warnung
+    return 'icons/default.png';
 }
 
 async function itemParser(origin, responseText) {
