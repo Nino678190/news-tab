@@ -508,16 +508,8 @@ function renderNewsList(allNews, container) {
         });
         container.appendChild(itemObject);
         // Check if the news item has an image embedded in the description
-        if (item.image && !item.image.includes('class=')) {
-            // Try to extract image from description if it doesn't have a class
-            const imgPattern = /<img[^>]+src="([^">]+)"[^>]*>/g;
-            const imgMatches = [...item.description.matchAll(imgPattern)];
-            
-            if (imgMatches.length > 0) {
-                const firstImgMatch = imgMatches[0][0];
-                // Remove the image from the description
-                item.description = item.description.replace(firstImgMatch, '');
-            }
+        if (item.description.length > 500){
+            document.removeChild(document.getElementById('readMoreButton'));
         }
     });
 }

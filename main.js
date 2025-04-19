@@ -23,7 +23,7 @@ function createWindow() {
     mainWindow = new BrowserWindow({
         width: 1200,
         height: 900,
-        frame: false, // Optional: rahmenlos
+        frame: true, // Optional: rahmenlos
         show: true,  // false: Wir zeigen es erst bei Shortcut
         webPreferences: {
             preload: path.join(__dirname, 'preload.js'),
